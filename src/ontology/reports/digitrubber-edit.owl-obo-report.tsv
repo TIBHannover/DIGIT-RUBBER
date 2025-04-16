@@ -33,11 +33,10 @@ ERROR	duplicate_definition	Polymer [proco]	textual definition	A substance or mat
 ERROR	duplicate_definition	Polymer [ncit]	textual definition	A substance made up of variable numbers of repeating structural units linked through covalent bonds.@en
 ERROR	duplicate_definition	Polymer [ncit]	textual definition	A substance made up of variable numbers of repeating structural units linked through covalent bonds.@en
 ERROR	duplicate_definition	molecular quality	textual definition	A quality which inheres in a molecular entity, a single molecule, atom, ion, radical etc.@en
-ERROR	duplicate_definition	molecular quality [pato]	textual definition	A quality which inheres in a molecular entity, a single molecule, atom, ion, radical etc.@en
+ERROR	duplicate_definition	Molecular Quality [pato]	textual definition	A quality which inheres in a molecular entity, a single molecule, atom, ion, radical etc.@en
 ERROR	duplicate_definition	physical object quality [pato]	textual definition	A quality which inheres in a continuant.@en
 ERROR	duplicate_definition	Physical Quality [pato]	textual definition	A quality which inheres in a continuant.@en
 ERROR	duplicate_definition	physical quality [pato]	textual definition	A quality of a physical entity that exists through action of continuants at the physical level of organisation in relation to other entities.@en
-ERROR	duplicate_definition	Qualität des physischen Objekts [dik]	textual definition	A quality of a physical entity that exists through action of continuants at the physical level of organisation in relation to other entities.@en
 ERROR	duplicate_definition	Physical Object Quality [pato]	textual definition	A quality of a physical entity that exists through action of continuants at the physical level of organisation in relation to other entities.@en
 ERROR	duplicate_definition	concentration of [pato]	textual definition	A quality inhering in a substance by virtue of the amount of the bearer's there is mixed with another substance.@en
 ERROR	duplicate_definition	Concrentration [pato]	textual definition	A quality inhering in a substance by virtue of the amount of the bearer's there is mixed with another substance.@en
@@ -61,7 +60,6 @@ ERROR	duplicate_definition	Qualität einer Flüssigkeit [pato]	textual definitio
 ERROR	duplicate_definition	quality of a solid [pato]	textual definition	A physical quality inhering in a bearer by virtue of the bearer's exhibiting the physical characteristics of an entity characterized by particles arranged such that their shape and volume are relatively stable.@en
 ERROR	duplicate_definition	Qualität eines Festkörpers [pato]	textual definition	A physical quality inhering in a bearer by virtue of the bearer's exhibiting the physical characteristics of an entity characterized by particles arranged such that their shape and volume are relatively stable.@en
 ERROR	duplicate_definition	measurement unit label [iao]	textual definition	A measurement unit label is as a label that is part of a scalar measurement datum and denotes a unit of measure.@en
-ERROR	duplicate_definition	measurement unit label [dik]	textual definition	A measurement unit label is as a label that is part of a scalar measurement datum and denotes a unit of measure.@en
 ERROR	duplicate_definition	Label der Messeinheit [pato]	textual definition	A measurement unit label is as a label that is part of a scalar measurement datum and denotes a unit of measure.@en
 ERROR	duplicate_definition	standard deviation [ncit]	textual definition	A measure of the range of values in a set of numbers. Standard deviation is a statistic used as a measure of the dispersion or variation in a distribution, equal to the square root of the arithmetic mean of the squares of the deviations from the arithmetic mean.@en
 ERROR	duplicate_definition	Standard deviation [ncit]	textual definition	A measure of the range of values in a set of numbers. Standard deviation is a statistic used as a measure of the dispersion or variation in a distribution, equal to the square root of the arithmetic mean of the squares of the deviations from the arithmetic mean.@en
@@ -72,14 +70,13 @@ ERROR	duplicate_definition	Supervised learning [obi]	textual definition	A machin
 ERROR	duplicate_definition	unsupervised machine learning [obi]	textual definition	"A machine learning process that infers a function describing the structure of \""unlabeled\"" data (i.e. data that has not been classified or categorized).@en"
 ERROR	duplicate_definition	Unsupervised learning [obi]	textual definition	"A machine learning process that infers a function describing the structure of \""unlabeled\"" data (i.e. data that has not been classified or categorized).@en"
 ERROR	duplicate_definition	autoclave	textual definition	A device that is used to sterilize equipment and supplies by subjecting them to high pressure steam at 121 C or more, typically for 15 to 20 minutes depending on the size of the load and the contents.@en
-ERROR	duplicate_definition	Autoclave[obi]	textual definition	A device that is used to sterilize equipment and supplies by subjecting them to high pressure steam at 121 C or more, typically for 15 to 20 minutes depending on the size of the load and the contents.@en
+ERROR	duplicate_definition	Autoklav [obi]	textual definition	A device that is used to sterilize equipment and supplies by subjecting them to high pressure steam at 121 C or more, typically for 15 to 20 minutes depending on the size of the load and the contents.@en
 ERROR	duplicate_definition	measurement device [obi]	textual definition	A device in which a measure function inheres.@en
 ERROR	duplicate_definition	Measurement Device [obi]	textual definition	A device in which a measure function inheres.@en
 ERROR	duplicate_definition	Data Mining	textual definition	A Database is a System for describing, storing and retrieving large amounts of data.@en
 ERROR	duplicate_definition	Datenbank	textual definition	A Database is a System for describing, storing and retrieving large amounts of data.@en
 ERROR	duplicate_definition	millimeter [nist]	textual definition	"\""A length unit which is equal to one thousandth of a meter or 10^[-3] m.\"" [NIST:NIST]@en"
 ERROR	duplicate_definition	millimeter [uo]	textual definition	"\""A length unit which is equal to one thousandth of a meter or 10^[-3] m.\"" [NIST:NIST]@en"
-ERROR	missing_label	obo:digitrubber/0000002	label	
 WARN	annotation_whitespace	disposition	has associated axiom(fol)	(forall (x t) (if (and (RealizableEntity x) (existsAt x t)) (exists (y) (and (MaterialEntity y) (specificallyDepends x y t))))) // axiom label in BFO2 CLIF: [063-002] 
 WARN	annotation_whitespace	disposition	has associated axiom(fol)	(forall (x) (if (Disposition x) (and (RealizableEntity x) (exists (y) (and (MaterialEntity y) (bearerOfAt x y t)))))) // axiom label in BFO2 CLIF: [062-002] 
 WARN	annotation_whitespace	role	has associated axiom(fol)	(forall (x) (if (Role x) (RealizableEntity x))) // axiom label in BFO2 CLIF: [061-001] 
@@ -145,9 +142,7 @@ WARN	duplicate_label	Ratio [uo]	label	Verhältnis [uo]@de
 WARN	duplicate_label	einheit [ncti]	label	unit [ncti]@en
 WARN	duplicate_label	unit [ncti]	label	unit [ncti]@en
 WARN	duplicate_label	einheit [ncti]	label	unit [ncti]@en
-WARN	duplicate_label	temperature [pato]	label	temperature [pato]@en
-WARN	duplicate_label	Temperature [pato]	label	temperature [pato]@en
-WARN	duplicate_label	stearic acid [dik]	label	Stearinsäure [dik]@de
+WARN	duplicate_label	Stearic Acid [dik]	label	Stearinsäure [dik]@de
 WARN	duplicate_label	Stearic Acid [ncit]	label	Stearinsäure [dik]@de
 WARN	duplicate_label	Ratio [uo]	label	Ratio [uo]@en
 WARN	duplicate_label	Ratio [uo]	label	Ratio [uo]@en
@@ -155,7 +150,7 @@ WARN	duplicate_label	Polymer [proco]	label	Polymer [proco]@en
 WARN	duplicate_label	Polymer [proco]	label	Polymer [proco]@en
 WARN	duplicate_label	Polymer [ncit]	label	Polymer [ncit]@en
 WARN	duplicate_label	Polymer [ncit]	label	Polymer [ncit]@en
-WARN	duplicate_label	Polymer [chebi]	label	Polymer [chebi]@en
+WARN	duplicate_label	polymer [chebi]	label	Polymer [chebi]@en
 WARN	duplicate_label	Polymer [chebi]	label	Polymer [chebi]@en
 WARN	duplicate_label	Optical Quality [dik]	label	optische Qualität [dik]@de
 WARN	duplicate_label	Optical Quality [pato]	label	optische Qualität [dik]@de
@@ -237,7 +232,6 @@ WARN	missing_definition	volumetric flow rate unit	textual definition
 WARN	missing_definition	rate unit	textual definition	
 WARN	missing_definition	IUPAC NAME	textual definition	
 WARN	missing_definition	smile	textual definition	
-WARN	missing_definition	obo:digitrubber/0000002	textual definition	
 WARN	missing_definition	Contributor	textual definition	
 WARN	missing_definition	creator	textual definition	
 WARN	missing_definition	date	textual definition	
@@ -268,7 +262,7 @@ WARN	missing_definition	distance between sensor and extrudate [imr]	textual defi
 WARN	missing_definition	8-bit number [ifnano]	textual definition	
 WARN	missing_definition	16-bit number [ifnano]	textual definition	
 WARN	missing_definition	Zinkoxid [dik]	textual definition	
-WARN	missing_definition	stearic acid [dik]	textual definition	
+WARN	missing_definition	Stearic Acid [dik]	textual definition	
 WARN	missing_definition	di(benzothiazol-2-yl)disulfide [dik]	textual definition	
 WARN	missing_definition	Thiuram [dik]	textual definition	
 WARN	missing_definition	Tetrabenzylthiuramdisulfid [dik]	textual definition	
@@ -281,61 +275,61 @@ WARN	missing_definition	Festwalze [dik]	textual definition
 WARN	missing_definition	Stellwalze [dik]	textual definition	
 WARN	missing_definition	Drehzahleinheit [dik]	textual definition	
 WARN	missing_definition	Frequenzeinheit [dik]	textual definition	
-WARN	missing_definition	Fixed Roll Speed [dik]	textual definition	
-WARN	missing_definition	Setting Roll Speed [dik]	textual definition	
+WARN	missing_definition	Festwalzen-Drehzahl [dik]	textual definition	
+WARN	missing_definition	setting roll speed [dik]	textual definition	
 WARN	missing_definition	Temperatur [dik]	textual definition	
-WARN	missing_definition	temperature unit [dik]	textual definition	
+WARN	missing_definition	Temperature Unit [dik]	textual definition	
 WARN	missing_definition	Temperatursteuergerät [dik]	textual definition	
 WARN	missing_definition	Festwalzen-Temperatursteuergerät [dik]	textual definition	
 WARN	missing_definition	Setting Roll Temperature Control Unit [dik]	textual definition	
 WARN	missing_definition	Festwalzen-Temperatur [dik]	textual definition	
-WARN	missing_definition	setting roll temperature [dik]	textual definition	
-WARN	missing_definition	Rotor [dik]	textual definition	
+WARN	missing_definition	Setting Roll Temperature [dik]	textual definition	
+WARN	missing_definition	rotor [dik]	textual definition	
 WARN	missing_definition	mixing chamber [dik]	textual definition	
 WARN	missing_definition	Klappsattel [dik]	textual definition	
-WARN	missing_definition	Stamp [dik]	textual definition	
+WARN	missing_definition	stamp [dik]	textual definition	
 WARN	missing_definition	Rotor-Drehzahl [dik]	textual definition	
 WARN	missing_definition	Rotor-Temperatursteuergerät [dik]	textual definition	
 WARN	missing_definition	Rotor-Temperatur [dik]	textual definition	
 WARN	missing_definition	Mixing Chamber Temperature Control Unit [dik]	textual definition	
 WARN	missing_definition	Mischkammer-Temperatur [dik]	textual definition	
 WARN	missing_definition	Klappsattel-Temperatur [dik]	textual definition	
-WARN	missing_definition	Stamp Temperature Control Unit [dik]	textual definition	
-WARN	missing_definition	Stamp Temperature [dik]	textual definition	
+WARN	missing_definition	stamp temperature control unit [dik]	textual definition	
+WARN	missing_definition	stamp temperature [dik]	textual definition	
 WARN	missing_definition	Drehmoment [dik]	textual definition	
-WARN	missing_definition	Torque Unit [dik]	textual definition	
+WARN	missing_definition	torque unit [dik]	textual definition	
 WARN	missing_definition	Newtonmeter [dik]	textual definition	
-WARN	missing_definition	rotor torque [dik]	textual definition	
+WARN	missing_definition	Rotor Torque [dik]	textual definition	
 WARN	missing_definition	Massetemperatur [dik]	textual definition	
 WARN	missing_definition	Länge [dik]	textual definition	
 WARN	missing_definition	Length Unit [dik]	textual definition	
 WARN	missing_definition	millimeter [dik]	textual definition	
-WARN	missing_definition	stamp distance [dik]	textual definition	
+WARN	missing_definition	Stamp Distance [dik]	textual definition	
 WARN	missing_definition	Zugabezeitpunkt [dik]	textual definition	
-WARN	missing_definition	Power [dik]	textual definition	
+WARN	missing_definition	Leistung [dik]	textual definition	
 WARN	missing_definition	Elektrische Leistung [dik]	textual definition	
-WARN	missing_definition	mixing time [dik]	textual definition	
-WARN	missing_definition	Number of Mixing Stages [dik]	textual definition	
+WARN	missing_definition	Mixing Time [dik]	textual definition	
+WARN	missing_definition	number of mixing stages [dik]	textual definition	
 WARN	missing_definition	Einschneckenextruder [dik]	textual definition	
-WARN	missing_definition	Pin Extruder [dik]	textual definition	
-WARN	missing_definition	pin [dik]	textual definition	
+WARN	missing_definition	pin extruder [dik]	textual definition	
+WARN	missing_definition	Pin [dik]	textual definition	
 WARN	missing_definition	Abzugsgeschwindigkeit [dik]	textual definition	
 WARN	missing_definition	Förderband [dik]	textual definition	
 WARN	missing_definition	Massedurchsatz [dik]	textual definition	
 WARN	missing_definition	pressure variation [dik]	textual definition	
-WARN	missing_definition	Geometry Variation [dik]	textual definition	
-WARN	missing_definition	surface [dik]	textual definition	
-WARN	missing_definition	Surface Defect [dik]	textual definition	
+WARN	missing_definition	geometry variation [dik]	textual definition	
+WARN	missing_definition	Surface [dik]	textual definition	
+WARN	missing_definition	surface defect [dik]	textual definition	
 WARN	missing_definition	Oberflächentemperatur [dik]	textual definition	
 WARN	missing_definition	Schneckendrehzahl [dik]	textual definition	
 WARN	missing_definition	Druck [dik]	textual definition	
-WARN	missing_definition	die geometry [dik]	textual definition	
-WARN	missing_definition	Extrudate Cross Section [dik]	textual definition	
+WARN	missing_definition	Die Geometry [dik]	textual definition	
+WARN	missing_definition	extrudate cross section [dik]	textual definition	
 WARN	missing_definition	Sensor [dik]	textual definition	
-WARN	missing_definition	Temperature Measuring Sword [dik]	textual definition	
+WARN	missing_definition	temperature measuring sword [dik]	textual definition	
 WARN	missing_definition	Pressure Sensor [dik]	textual definition	
 WARN	missing_definition	Temperatursensor [dik]	textual definition	
-WARN	missing_definition	Gearbox [dik]	textual definition	
+WARN	missing_definition	gearbox [dik]	textual definition	
 WARN	missing_definition	Motor [dik]	textual definition	
 WARN	missing_definition	Speisewalze [dik]	textual definition	
 WARN	missing_definition	pin zone [dik]	textual definition	
@@ -343,56 +337,58 @@ WARN	missing_definition	Einzugszone [dik]	textual definition
 WARN	missing_definition	Werkzeugzone [dik]	textual definition	
 WARN	missing_definition	Speisewalzen-Temperatursteuergerät [dik]	textual definition	
 WARN	missing_definition	Speisewalzen-Temperatur [dik]	textual definition	
-WARN	missing_definition	Screw Temperature Control Unit [dik]	textual definition	
+WARN	missing_definition	screw temperature control unit [dik]	textual definition	
 WARN	missing_definition	Schnecken-Temperatur [dik]	textual definition	
 WARN	missing_definition	Einzugszonen-Temperatursteuergerät [dik]	textual definition	
 WARN	missing_definition	Einzugszonen-Temperatur [dik]	textual definition	
-WARN	missing_definition	pin zone temperature control unit [dik]	textual definition	
+WARN	missing_definition	Stiftzonen-Temperatursteuergerät [dik]	textual definition	
 WARN	missing_definition	Stiftzonen-Temperatur [dik]	textual definition	
 WARN	missing_definition	Werkzeugzonen-Temperatursteuergerät [dik]	textual definition	
 WARN	missing_definition	Werkzeugzonen-Temperatur [dik]	textual definition	
 WARN	missing_definition	Vulkanisationszeit [dik]	textual definition	
+WARN	missing_definition	Physical Object Quality [dik]	textual definition	
 WARN	missing_definition	physical quality [dik]	textual definition	
-WARN	missing_definition	Datum Label [dik]	textual definition	
+WARN	missing_definition	Label der Messeinheit [dik]	textual definition	
+WARN	missing_definition	datum label [dik]	textual definition	
 WARN	missing_definition	Prüfung [dik]	textual definition	
 WARN	missing_definition	mass density unit [dik]	textual definition	
 WARN	missing_definition	Gramm pro Kubikzentimeter [dik]	textual definition	
-WARN	missing_definition	Viscosity [dik]	textual definition	
+WARN	missing_definition	viscosity [dik]	textual definition	
 WARN	missing_definition	Viskositätseinheit [dik]	textual definition	
-WARN	missing_definition	Mooney Einheit [dik]	textual definition	
+WARN	missing_definition	Mooney unit [dik]	textual definition	
 WARN	missing_definition	Qualität eines Stoffes [dik]	textual definition	
-WARN	missing_definition	Quality of a Liquid [dik]	textual definition	
-WARN	missing_definition	protocol [dik]	textual definition	
+WARN	missing_definition	quality of a liquid [dik]	textual definition	
+WARN	missing_definition	Protocol [dik]	textual definition	
 WARN	missing_definition	Herstellungsvorschrift [dik]	textual definition	
 WARN	missing_definition	Grad Celsius [dik]	textual definition	
 WARN	missing_definition	material processing [dik]	textual definition	
-WARN	missing_definition	Function [dik]	textual definition	
+WARN	missing_definition	function [dik]	textual definition	
 WARN	missing_definition	Gerät [dik]	textual definition	
-WARN	missing_definition	measurement device [dik]	textual definition	
+WARN	missing_definition	Measurement Device [dik]	textual definition	
 WARN	missing_definition	verarbeitetes Material [dik]	textual definition	
 WARN	missing_definition	mixing [dik]	textual definition	
 WARN	missing_definition	specific surface [dik]	textual definition	
 WARN	missing_definition	mass-specific surface [dik]	textual definition	
 WARN	missing_definition	Volume Specific Surface [dik]	textual definition	
 WARN	missing_definition	Erstarrungspunkt [dik]	textual definition	
-WARN	missing_definition	Molecular Weight [dik]	textual definition	
-WARN	missing_definition	Melting Range [dik]	textual definition	
+WARN	missing_definition	molecular weight [dik]	textual definition	
+WARN	missing_definition	melting range [dik]	textual definition	
 WARN	missing_definition	Oil Content [dik]	textual definition	
-WARN	missing_definition	viscometer [dik]	textual definition	
+WARN	missing_definition	Viscometer [dik]	textual definition	
 WARN	missing_definition	Mooney-Scherscheibenviskosimeter [dik]	textual definition	
 WARN	missing_definition	Rheometer [dik]	textual definition	
 WARN	missing_definition	Ethylidene Norbornene [dik]	textual definition	
 WARN	missing_definition	Ethylene Group [dik]	textual definition	
 WARN	missing_definition	Hydrocarbylene Group [dik]	textual definition	
 WARN	missing_definition	Organodiyl Group [dik]	textual definition	
-WARN	missing_definition	organic divalent group [dik]	textual definition	
+WARN	missing_definition	Organic Divalent Group [dik]	textual definition	
 WARN	missing_definition	Organik-Gruppe [dik]	textual definition	
 WARN	missing_definition	Gruppe [dik]	textual definition	
 WARN	missing_definition	Prozent [dik]	textual definition	
 WARN	missing_definition	ratio [dik]	textual definition	
 WARN	missing_definition	dimensionslose Einheit [dik]	textual definition	
-WARN	missing_definition	mass percentage [dik]	textual definition	
-WARN	missing_definition	Volume Percentage [dik]	textual definition	
+WARN	missing_definition	Massenanteil [dik]	textual definition	
+WARN	missing_definition	volume percentage [dik]	textual definition	
 WARN	missing_definition	Konzentration [dik]	textual definition	
 WARN	missing_definition	molekulare Qualität [dik]	textual definition	
 WARN	missing_definition	Ethylidengruppe [dik]	textual definition	
@@ -472,12 +468,12 @@ WARN	multiple_definitions	unsupervised machine learning [obi]	textual definition
 WARN	multiple_definitions	unsupervised machine learning [obi]	textual definition	"A machine learning process that infers a function describing the structure of \""unlabeled\"" data (i.e. data that has not been classified or categorized). (obi defined)@en"
 WARN	multiple_definitions	Schneckendrehmoment	textual definition	Measured variable that indicates how high the torque of the screw is during extrusion.@en
 WARN	multiple_definitions	Schneckendrehmoment	textual definition	Screw torque is a measured variable that indicates how high the torque of the screw is during extrusion.@en
-WARN	multiple_definitions	tempering screw [ita]	textual definition	Control variable for setting the temperature of the screw.@en
-WARN	multiple_definitions	tempering screw [ita]	textual definition	Control variable that indicates how high the temperature of the screw is during extrusion.@en
-WARN	multiple_definitions	tempering feed roller [ita]	textual definition	Control variable for setting the temperature of the feed roller.@en
-WARN	multiple_definitions	tempering feed roller [ita]	textual definition	Control variable that indicates how high the temperature of the feed roller is during extrusion.@en
-WARN	multiple_definitions	Tempering cylinder [ita]	textual definition	Control variable for setting the temperature of the cylinder.@en
-WARN	multiple_definitions	Tempering cylinder [ita]	textual definition	Control variable that indicates how high the temperature of the cylinder is during extrusion.@en
+WARN	multiple_definitions	Tempering screw [ita]	textual definition	Control variable for setting the temperature of the screw.@en
+WARN	multiple_definitions	Tempering screw [ita]	textual definition	Control variable that indicates how high the temperature of the screw is during extrusion.@en
+WARN	multiple_definitions	Tempering Feed roller [ita]	textual definition	Control variable for setting the temperature of the feed roller.@en
+WARN	multiple_definitions	Tempering Feed roller [ita]	textual definition	Control variable that indicates how high the temperature of the feed roller is during extrusion.@en
+WARN	multiple_definitions	tempering cylinder [ita]	textual definition	Control variable for setting the temperature of the cylinder.@en
+WARN	multiple_definitions	tempering cylinder [ita]	textual definition	Control variable that indicates how high the temperature of the cylinder is during extrusion.@en
 WARN	multiple_definitions	Temperiung Werkzeug	textual definition	Control variable for setting the temperature of the tool.@en
 WARN	multiple_definitions	Temperiung Werkzeug	textual definition	Control variable that indicates how high the temperature of the tool is during extrusion.@en
 WARN	multiple_definitions	extrusion pressure [ita]	textual definition	Measured variable that indicates how high is the pressure during extrusion.@en
@@ -486,8 +482,8 @@ WARN	multiple_definitions	Outlet surface [ita]	textual definition	System paramet
 WARN	multiple_definitions	Outlet surface [ita]	textual definition	The outlet sourface of the extruder gives the extrudate its characteristic geometry.@en
 WARN	multiple_definitions	Durchsatz	textual definition	The extrusion throughput indicates how many kilograms of material are extruded in a given unit of time.@en
 WARN	multiple_definitions	Durchsatz	textual definition	The throughput indicates how many kilograms of rubber are extruded in a given unit of time.@en
-WARN	multiple_definitions	zustand [hsh]	textual definition	The state of a unit within an individual entity sub-group with regard to its working order (e.g., good, defective, not working).@en
-WARN	multiple_definitions	zustand [hsh]	textual definition	The state of an unit within an individual entity sub-group with regard to its working order (e.g., good, defective, not working).@en
+WARN	multiple_definitions	Zustand [hsh]	textual definition	The state of a unit within an individual entity sub-group with regard to its working order (e.g., good, defective, not working).@en
+WARN	multiple_definitions	Zustand [hsh]	textual definition	The state of an unit within an individual entity sub-group with regard to its working order (e.g., good, defective, not working).@en
 WARN	multiple_definitions	wear parts [hsh]	textual definition	Parts of a machine entity unit that are bound to wear out with repetitive use and will require periodic repair or replacement based on maintenance interval in the system under investigation. Constitutes an entity of the maintenance cost and material cost group.@en
 WARN	multiple_definitions	wear parts [hsh]	textual definition	Parts pf a machine entity unit that are bound to wear out with repetitive use and will require periodic repair or replacement based on maintenance interval in the system under investigation. Constitutes an entity of the maintenance cost and material cost group.@en
 WARN	multiple_definitions	building [hsh]	textual definition	A composite particle, comprising of strongly bound or fused smaller particles, where the resulting external surface area may be significantly smaller than the sum of calculated surface areas of the individual components.@en
@@ -508,8 +504,8 @@ WARN	multiple_definitions	reinforcing material [hsh]	textual definition	Material
 WARN	multiple_definitions	reinforcing material [hsh]	textual definition	Material that is used to support the structure of rubber-based products (e.g., steel cords). Constitutes an entity subgroup of the raw material entity.@en
 WARN	multiple_definitions	Raman spectroscopy [ifnano]	textual definition	A non-destructive light scattering technique that provides detailed information about the chemical structure upon the interaction of light with the chemical bonds within a material based on periodic changes of polarizabilities, usually manifested as energy loss (gain) with respect to the incident light.@en
 WARN	multiple_definitions	Raman spectroscopy [ifnano]	textual definition	A non-destructive light scattering technique that provides detailed information about the chemical structure upon the interaction of light with the chemical bonds within a material based on periodic changes of polarizabilities.@en
-WARN	multiple_definitions	Correlation [ifnano]	textual definition	A statistical measure that expresses the extent to which two variables are linearly related (meaning they change together at a constant rate). It’s a common tool for describing simple relationships without making a statement about cause and effect.@en
-WARN	multiple_definitions	Correlation [ifnano]	textual definition	The degree to which two or more quantities or events are associated, a statistical relation between two or more variables such that systematic changes in the value of one variable are accompanied by systematic changes in the others. The collelation can be described by mathematical functions  (often a linear function is used). It’s a common tool for describing simple relationships without making a statement about cause and effect.@en
+WARN	multiple_definitions	correlation [ifnano]	textual definition	A statistical measure that expresses the extent to which two variables are linearly related (meaning they change together at a constant rate). It’s a common tool for describing simple relationships without making a statement about cause and effect.@en
+WARN	multiple_definitions	correlation [ifnano]	textual definition	The degree to which two or more quantities or events are associated, a statistical relation between two or more variables such that systematic changes in the value of one variable are accompanied by systematic changes in the others. The collelation can be described by mathematical functions  (often a linear function is used). It’s a common tool for describing simple relationships without making a statement about cause and effect.@en
 WARN	multiple_definitions	concentration [ncit]	textual definition	The quantity of a substance per unit volume or weight; a measure of the amount of substance present in a unit amount of mixture, particularly, the amount of solute dissolved in a solvent. The amounts can be expressed as moles, masses, volumes, or parts.@en
 WARN	multiple_definitions	concentration [ncit]	textual definition	The quantity of a substance per unit volume or weight; a measure of the amount of substance present in a unit amount of mixture, particularly, the amount of solute dissolved in a solvent. The amounts can be expressed as moles, masses, volumes, or parts. (ncit defined)@en
 WARN	multiple_definitions	concentration [edam]	textual definition	The concentration of a chemical compound.@en
@@ -526,10 +522,10 @@ WARN	multiple_definitions	peak [envo]	textual definition	Is to reliably assign n
 WARN	multiple_definitions	peak [envo]	textual definition	The summit of a mount.@en
 WARN	multiple_definitions	processed spectrum [ifnano]	textual definition	Result of different mathematical processes conducted on raw Spectra. Processing steps include e.g. normalization and baseline correction@en
 WARN	multiple_definitions	processed spectrum [ifnano]	textual definition	Result of different mathematical processes conducted on raw Spectra. Processing steps include, e.g., normalization and baseline correction.@en
-WARN	multiple_definitions	photometry [ifnano]	textual definition	Measurement method using visible light@en
-WARN	multiple_definitions	photometry [ifnano]	textual definition	Measurement method using visible light to analyse the property of a substance@en
-WARN	multiple_definitions	Picture grid [ifnano]	textual definition	Commen form of representing a digital picture: The picture is represented as a XY-Grid of Data-Points containing the color and brightness information.@en
-WARN	multiple_definitions	Picture grid [ifnano]	textual definition	Common form of representing a digital picture: The picture is represented as a XY-grid of data-points containing the color and brightness information.@en
+WARN	multiple_definitions	Photometry [ifnano]	textual definition	Measurement method using visible light@en
+WARN	multiple_definitions	Photometry [ifnano]	textual definition	Measurement method using visible light to analyse the property of a substance@en
+WARN	multiple_definitions	picture grid [ifnano]	textual definition	Commen form of representing a digital picture: The picture is represented as a XY-Grid of Data-Points containing the color and brightness information.@en
+WARN	multiple_definitions	picture grid [ifnano]	textual definition	Common form of representing a digital picture: The picture is represented as a XY-grid of data-points containing the color and brightness information.@en
 WARN	multiple_definitions	zinc [ifnano]	textual definition	The chemical element zinc@en
 WARN	multiple_definitions	zinc [ifnano]	textual definition	The chemical element zinc (ifnano defined)@en
 WARN	multiple_definitions	standard deviation [allotrope]	textual definition	The standard deviation is a measure of the amount of variation or dispersion of a set of values. (allotrope defined)@en
@@ -548,10 +544,10 @@ WARN	multiple_definitions	Agglomerat [dik]	textual definition	Group of interlock
 WARN	multiple_definitions	Agglomerat [dik]	textual definition	Verbund von zusammenhängenden Aggregaten, die bei normaler Kautschukverarbeitung leicht getrennt werden können@de
 WARN	multiple_definitions	Aggregate [dik]	textual definition	Rigid group of coalesced particles which is the smallest entity that can be dispersed by normal rubber processing@en
 WARN	multiple_definitions	Aggregate [dik]	textual definition	Starre Gruppe von koaleszierten Partikeln, welche die kleinste Einheit ist, die bei normaler Kautschukverarbeitung dispergiert werden kann@de
-WARN	multiple_definitions	Particle [dik]	textual definition	Kleinste erkennbare sphärische oder beinahe sphärische Einheit, die als solche einzeln existieren kann@de
-WARN	multiple_definitions	Particle [dik]	textual definition	Kleinste erkennbare sphärische oder beinahe sphärische materielle Einheit, die als solche einzeln existieren kann@de
-WARN	multiple_definitions	Particle [dik]	textual definition	Smallest discernible spherical or nearly spherical material entity which can exist separately@en
-WARN	multiple_definitions	Particle [dik]	textual definition	Smallest discernible spherical or nearly spherical unit which can exist separately@en
+WARN	multiple_definitions	particle [dik]	textual definition	Kleinste erkennbare sphärische oder beinahe sphärische Einheit, die als solche einzeln existieren kann@de
+WARN	multiple_definitions	particle [dik]	textual definition	Kleinste erkennbare sphärische oder beinahe sphärische materielle Einheit, die als solche einzeln existieren kann@de
+WARN	multiple_definitions	particle [dik]	textual definition	Smallest discernible spherical or nearly spherical material entity which can exist separately@en
+WARN	multiple_definitions	particle [dik]	textual definition	Smallest discernible spherical or nearly spherical unit which can exist separately@en
 WARN	multiple_definitions	Polymer [dik]	textual definition	Substanz, aufgebaut aus Molekülen, die gekennzeichnet sind durch eine Vielzahl von einer oder mehreren Arten von Atomen oder Atom-Gruppierungen (konstitutive Einheiten), die wiederholt aneinandergereiht sind, in einer Menge, so dass ein gewünschtes Eigenschaftsbild erlangt wird, das sich durch die Addition oder die Entfernung einer oder mehrerer konstitutioneller Einheiten nicht wesentlich ändert@de
 WARN	multiple_definitions	Polymer [dik]	textual definition	substance composed of molecules characterized by the multiple repetition of one or more species of atoms or groups of atoms (constitutional units) linked to each other in amounts sufficient to provide a set of properties that do not vary markedly with the addition or removal of one or a few of the constitutional units@en
 WARN	multiple_definitions	Rohkautschuk [dik]	textual definition	Natur- oder synthetischer Kautschuk, gewöhnlich in Ballen- oder Paketform, welcher das Ausgangsmaterial für die Herstellung von Gummiprodukten darstellt@de
@@ -566,8 +562,8 @@ WARN	multiple_definitions	Dienkautschuk [dik]	textual definition	Kautschuktyp, d
 WARN	multiple_definitions	Dienkautschuk [dik]	textual definition	type of rubber having an unsaturated carbon main chain derived mostly from butadiene or a substituted butadiene@en
 WARN	multiple_definitions	Keltan 5470C [dik]	textual definition	Handelsname für ein spezifischen EPDM-Kautschuk@de
 WARN	multiple_definitions	Keltan 5470C [dik]	textual definition	Trade name for a specific EPDM rubber@en
-WARN	multiple_definitions	Füllstoff [dik]	textual definition	fester Mischungsbestandteil in Teilchenform, welcher aus technischen oder wirtschaftlichen Gründen zu einem relativ großen Anteil zu Kautschuk oder Kautschuklatex zugegeben werden kann@de
-WARN	multiple_definitions	Füllstoff [dik]	textual definition	solid compounding ingredient, in particulate form, which may be added in relatively large proportions to a rubber or rubber latex for technical or economic purposes@en
+WARN	multiple_definitions	Filler [dik]	textual definition	fester Mischungsbestandteil in Teilchenform, welcher aus technischen oder wirtschaftlichen Gründen zu einem relativ großen Anteil zu Kautschuk oder Kautschuklatex zugegeben werden kann@de
+WARN	multiple_definitions	Filler [dik]	textual definition	solid compounding ingredient, in particulate form, which may be added in relatively large proportions to a rubber or rubber latex for technical or economic purposes@en
 WARN	multiple_definitions	Ruß [dik]	textual definition	Mischungsbestandteil, der im Wesentlichen aus mehr als 95 % elementaren Kohlenstoffs in der Form beinahe sphärischer Partikel mit maximalen Durchmessern kleiner als 1 μm besteht, im Allgemeinen zu Aggregaten koalesziert@de
 WARN	multiple_definitions	Ruß [dik]	textual definition	compounding ingredient consisting essentially of more than 95 % elemental carbon in the form of nearspherical particles with major diameters less than 1 μm, generally coalesced into aggregates@en
 WARN	multiple_definitions	N-Carbon Black [dik]	textual definition	"Der Buchstabe \""N\"" wird verwendet, um eine normale Vulkanisationsgeschwindigkeit anzugeben, die typisch ist für Furnace Blacks, die nicht speziell modifiziert wurden, um die Vulkanisierungsgeschwindigkeit zu ändern@de"
@@ -584,16 +580,16 @@ WARN	multiple_definitions	Paraffinic Oil [dik]	textual definition	Prozessöl aus
 WARN	multiple_definitions	Paraffinic Oil [dik]	textual definition	hydrocarbon process oil, most or all of which is composed of alkanes@en
 WARN	multiple_definitions	‎P460 [dik]	textual definition	Handelsname für ein spezifisches Paraffinöl@de
 WARN	multiple_definitions	‎P460 [dik]	textual definition	Trade name for a specific paraffinic oil@en
-WARN	multiple_definitions	process oil [dik]	textual definition	hydrocarbon oil derived from petroleum or other sources and used as an extender or processing aid@en
-WARN	multiple_definitions	process oil [dik]	textual definition	Öl auf Basis von Kohlenwasserstoffen, welches aus Erdöl oder anderen Quellen stammt und als Extender oder Verarbeitungshilfsmittel eingesetzt wird@de
+WARN	multiple_definitions	Process Oil [dik]	textual definition	hydrocarbon oil derived from petroleum or other sources and used as an extender or processing aid@en
+WARN	multiple_definitions	Process Oil [dik]	textual definition	Öl auf Basis von Kohlenwasserstoffen, welches aus Erdöl oder anderen Quellen stammt und als Extender oder Verarbeitungshilfsmittel eingesetzt wird@de
 WARN	multiple_definitions	processing aid [dik]	textual definition	Mischungsbestandteil, der die Verarbeitbarkeit einer Kautschukmischung verbessert@de
 WARN	multiple_definitions	processing aid [dik]	textual definition	compounding ingredient which improves the processability of a rubber compound or mix@en
 WARN	multiple_definitions	antidegradant [dik]	textual definition	Mischungsbestandteil zur Verzögerung einer alterungsbedingten Verschlechterung@de
 WARN	multiple_definitions	antidegradant [dik]	textual definition	compounding ingredient used to retard deterioration by ageing@en
 WARN	multiple_definitions	Antilux 500‎ [dik]	textual definition	Handelsname für ein spezifisches Alterungsschutzmittel@de
 WARN	multiple_definitions	Antilux 500‎ [dik]	textual definition	Trade name for a specific antidegradant@en
-WARN	multiple_definitions	activator [dik]	textual definition	compounding ingredient used in small proportions to increase the effectiveness of an accelerator@en
-WARN	multiple_definitions	activator [dik]	textual definition	in kleinen Mengen eingesetzter Mischungsbestandteil zur Erhöhung der Effektivität eines Beschleunigers@de
+WARN	multiple_definitions	Aktivator [dik]	textual definition	compounding ingredient used in small proportions to increase the effectiveness of an accelerator@en
+WARN	multiple_definitions	Aktivator [dik]	textual definition	in kleinen Mengen eingesetzter Mischungsbestandteil zur Erhöhung der Effektivität eines Beschleunigers@de
 WARN	multiple_definitions	Zinkoxid Rotsiegel [dik]	textual definition	Handelsname für ein spezifisches Zinkoxid@de
 WARN	multiple_definitions	Zinkoxid Rotsiegel [dik]	textual definition	Trade name for a specific zinc oxide@en
 WARN	multiple_definitions	PALMERA B 1802-CG [dik]	textual definition	Handelsname für eine spezifische Stearinsäure@de
@@ -610,8 +606,8 @@ WARN	multiple_definitions	Luvomaxx TbzTD [dik]	textual definition	Handelsname f�
 WARN	multiple_definitions	Luvomaxx TbzTD [dik]	textual definition	Trade name for a specific tetrabenzylthiuramdisulfide@en
 WARN	multiple_definitions	Rhenogran ‎ZBDC 80‎ [dik]	textual definition	Handelsname für ein spezifisches Zink-Dibenzyldithiocarbamat@de
 WARN	multiple_definitions	Rhenogran ‎ZBDC 80‎ [dik]	textual definition	Trade name for a specific zinc dibenzyldithiocarbamate@en
-WARN	multiple_definitions	vulcanizing agent [dik]	textual definition	Mischungsbestandteil, der die Vernetzung des Kautschuks bewirkt@de
-WARN	multiple_definitions	vulcanizing agent [dik]	textual definition	compounding ingredient that produces crosslinking in rubber@en
+WARN	multiple_definitions	Vulcanizing Agent [dik]	textual definition	Mischungsbestandteil, der die Vernetzung des Kautschuks bewirkt@de
+WARN	multiple_definitions	Vulcanizing Agent [dik]	textual definition	compounding ingredient that produces crosslinking in rubber@en
 WARN	multiple_definitions	vulcanizing system [dik]	textual definition	Kombination aus Vulkanisationsmittel und, falls erforderlich, Beschleunigern, Aktivatoren, Verzögerern, etc., die verwendet wird, um die gewünschte Vulkanisationscharakteristik und Vulkanisateigenschaften herzustellen@de
 WARN	multiple_definitions	vulcanizing system [dik]	textual definition	combination of vulcanizing agent and, as required, accelerators, activators, retarders, etc., used to produce the desired vulcanization characteristics and vulcanizate properties@en
 WARN	multiple_definitions	Vernetzungsgeschwindigkeit [dik]	textual definition	Geschwindigkeit, mit der eine Kautschukmischung nach Einsetzen der initialen Vulkanisation weitervernetzt@de
@@ -626,30 +622,30 @@ WARN	multiple_definitions	compounding ingredient [dik]	textual definition	Substa
 WARN	multiple_definitions	compounding ingredient [dik]	textual definition	substance added to a rubber or rubber latex to form a mix@en
 WARN	multiple_definitions	compound [dik]	textual definition	gründliche Mischung von Kautschuken oder anderen polymerbildenden Materialien mit allen Bestandteilen, die für das fertige Produkt notwendig sind@de
 WARN	multiple_definitions	compound [dik]	textual definition	intimate mixture of a rubber or rubbers or other polymer-forming materials with all the ingredients necessary for the finished product@en
-WARN	multiple_definitions	mill [dik]	textual definition	Maschine mit zwei gegensätzlich drehenden Walzen, häufig erwärmbar oder kühlbar, welche gewöhnlich mit verschiedenen Umfangsgeschwindigkeiten betrieben werden, und mit einstellbarem Walzenspalt zum Mastizieren, Mischen, Verschneiden, Vorwärmen oder zum Auswalzen@de
-WARN	multiple_definitions	mill [dik]	textual definition	machine with two counter-rotating rolls, frequently heated or cooled, usually driven at different speeds, and having an adjustable nip for mastication, mixing, blending, warm-up or sheeting@en
+WARN	multiple_definitions	Mill [dik]	textual definition	Maschine mit zwei gegensätzlich drehenden Walzen, häufig erwärmbar oder kühlbar, welche gewöhnlich mit verschiedenen Umfangsgeschwindigkeiten betrieben werden, und mit einstellbarem Walzenspalt zum Mastizieren, Mischen, Verschneiden, Vorwärmen oder zum Auswalzen@de
+WARN	multiple_definitions	Mill [dik]	textual definition	machine with two counter-rotating rolls, frequently heated or cooled, usually driven at different speeds, and having an adjustable nip for mastication, mixing, blending, warm-up or sheeting@en
 WARN	multiple_definitions	Walze [dik]	textual definition	Zylinder, der ein rotierendes Hauptelement eines Kalanders oder eines Walzwerks bildet@de
 WARN	multiple_definitions	Walze [dik]	textual definition	cylinder forming a major, rotating member of a calender or mill@en
 WARN	multiple_definitions	NIP [dik]	textual definition	Abstand zwischen den Walzenoberflächen einer Walze oder eines Kalanders, gemessen zwischen den Mittelpunkten@de
 WARN	multiple_definitions	NIP [dik]	textual definition	radial clearance between the roll surfaces of a mill or calender on a line of centres@en
 WARN	multiple_definitions	Auswalzen [dik]	textual definition	Process of converting a rubber or rubber mix, rubber dough or coagulated latex into a form in which the thickness is small in proportion to the length@en
 WARN	multiple_definitions	Auswalzen [dik]	textual definition	Prozess der Überführung von Kautschuk oder einer Kautschukmischung, Gummilösung oder koaguliertem Latex in eine Form, bei der die Dicke klein gegenüber der Länge ist@de
-WARN	multiple_definitions	dispersion [dik]	textual definition	Distribution of one or more ingredients into a rubber, a rubber blend or a continuum material, by the application of shearing forces, in order to confer optimum and uniform properties@en
-WARN	multiple_definitions	dispersion [dik]	textual definition	Verteilen eines oder mehrerer Bestandteile in Kautschuk, Kautschukblends oder einer kontinuierlichen Phase durch Anwendung von Scherkräften, um optimale und homogene Eigenschaften zu erhalten@de
-WARN	multiple_definitions	Mastication [dik]	textual definition	Prozess der irreversiblen Reduzierung der Molmasse des Kautschuks, entweder im rohen oder im gemischten Zustand, durch das Einbringen mechanischer Arbeit (Scherung) und durch atmosphärischen Sauerstoff, manchmal unter Zuhilfenahme von Abbaumitteln und Wärme@de
-WARN	multiple_definitions	Mastication [dik]	textual definition	the molecular mass of a rubber, in either the raw or the mixed state, by the action of mechanical work (shear) and atmospheric oxygen, sometimes assisted by peptizers and heat@en
+WARN	multiple_definitions	Dispersion [dik]	textual definition	Distribution of one or more ingredients into a rubber, a rubber blend or a continuum material, by the application of shearing forces, in order to confer optimum and uniform properties@en
+WARN	multiple_definitions	Dispersion [dik]	textual definition	Verteilen eines oder mehrerer Bestandteile in Kautschuk, Kautschukblends oder einer kontinuierlichen Phase durch Anwendung von Scherkräften, um optimale und homogene Eigenschaften zu erhalten@de
+WARN	multiple_definitions	Mastikation [dik]	textual definition	Prozess der irreversiblen Reduzierung der Molmasse des Kautschuks, entweder im rohen oder im gemischten Zustand, durch das Einbringen mechanischer Arbeit (Scherung) und durch atmosphärischen Sauerstoff, manchmal unter Zuhilfenahme von Abbaumitteln und Wärme@de
+WARN	multiple_definitions	Mastikation [dik]	textual definition	the molecular mass of a rubber, in either the raw or the mixed state, by the action of mechanical work (shear) and atmospheric oxygen, sometimes assisted by peptizers and heat@en
 WARN	multiple_definitions	Verarbeitbarkeit [dik]	textual definition	relative Einfachheit, mit welcher Rohkautschuk oder Kautschukmischungen in einer Maschine zur Kautschukverarbeitung gehandhabt werden kann@de
 WARN	multiple_definitions	Verarbeitbarkeit [dik]	textual definition	relative ease with which raw or compounded rubbers can be handled in rubber-processing machinery@en
 WARN	multiple_definitions	Mischer [dik]	textual definition	A device for mixing/blending materials or signals.@en
 WARN	multiple_definitions	Mischer [dik]	textual definition	Ein Gerät zum Mischen/Vermischen von Materialien oder Signalen.@de
-WARN	multiple_definitions	Mechanical Mixer [dik]	textual definition	A mixer device designed for mechanically mixing/blending materials.@en
-WARN	multiple_definitions	Mechanical Mixer [dik]	textual definition	Eine Mischvorrichtung, die zum mechanischen Mischen von Materialien bestimmt ist.@de
+WARN	multiple_definitions	mechanical mixer [dik]	textual definition	A mixer device designed for mechanically mixing/blending materials.@en
+WARN	multiple_definitions	mechanical mixer [dik]	textual definition	Eine Mischvorrichtung, die zum mechanischen Mischen von Materialien bestimmt ist.@de
 WARN	multiple_definitions	Innenmischer [dik]	textual definition	Maschine mit Temperaturregelung, welche einen oder mehrere Rotoren in einer geschlossenen Kammer beinhaltet und zum Mastizieren und/oder zur Einarbeitung und Dispersion von Mischungsbestandteilen in den Kautschuk genutzt wird@de
 WARN	multiple_definitions	Innenmischer [dik]	textual definition	machine with temperature controls containing one or more rotors operating in a closed cavity used to masticate and/or to incorporate and disperse compounding ingredients into the rubber@en
 WARN	multiple_definitions	Drehmoment [om]	textual definition	Torque is the effectiveness of a force to produce rotation about an axis, measured by the product of the force and the perpendicular distance from the line of action of the force to the axis.@en
 WARN	multiple_definitions	Drehmoment [om]	textual definition	Torque is the effectiveness of a force to produce rotation about an axis, measured by the product of the force and the perpendicular distance from the line of action of the force to the axis. (defined by om)@en
-WARN	multiple_definitions	addition sequence [dik]	textual definition	Die Zugabereihenfolge bezieht sich darauf, wie verschiedene Bestandteile oder Substanzen nacheinander oder in einer bestimmten Reihenfolge verabreicht werden, um einen bestimmten Effekt zu erzielen.@de
-WARN	multiple_definitions	addition sequence [dik]	textual definition	The sequence of addition refers to how different ingredients or substances are administered one after the other or in a specific order to achieve a certain effect.@en
+WARN	multiple_definitions	Addition Sequence [dik]	textual definition	Die Zugabereihenfolge bezieht sich darauf, wie verschiedene Bestandteile oder Substanzen nacheinander oder in einer bestimmten Reihenfolge verabreicht werden, um einen bestimmten Effekt zu erzielen.@de
+WARN	multiple_definitions	Addition Sequence [dik]	textual definition	The sequence of addition refers to how different ingredients or substances are administered one after the other or in a specific order to achieve a certain effect.@en
 WARN	multiple_definitions	Mischungscharge [dik]	textual definition	Product of one mixing operation@en
 WARN	multiple_definitions	Mischungscharge [dik]	textual definition	Produkt eines Mischungsvorganges@de
 WARN	multiple_definitions	Extruder [dik]	textual definition	Maschine, die mit Hilfe einer Schnecke oder einer hydraulischen Presse kontinuierlich ein Material formt, indem dieses durch eine oder mehrere Schablonen gepresst wird@de
@@ -660,30 +656,30 @@ WARN	multiple_definitions	Die [dik]	textual definition	Teil eines Extruders, dur
 WARN	multiple_definitions	Die [dik]	textual definition	that part of an extruder through which material is forced, forming a profile of the extrudate@en
 WARN	multiple_definitions	extrudate [dik]	textual definition	Produkt eines Extrusionsprozesses@de
 WARN	multiple_definitions	extrudate [dik]	textual definition	product of an extrusion process@en
-WARN	multiple_definitions	Extruder Head [dik]	textual definition	Teil eines Extruders, welcher die Schablone mit Halterung enthält@de
-WARN	multiple_definitions	Extruder Head [dik]	textual definition	that part of an extruder which houses the die and die holder@en
-WARN	multiple_definitions	extrusion [dik]	textual definition	continuous shaping of a material by passage through a die@en
-WARN	multiple_definitions	extrusion [dik]	textual definition	kontinuierliches Formen eines Materials, indem dieses durch eine Schablone gepresst wird@de
+WARN	multiple_definitions	extruder head [dik]	textual definition	Teil eines Extruders, welcher die Schablone mit Halterung enthält@de
+WARN	multiple_definitions	extruder head [dik]	textual definition	that part of an extruder which houses the die and die holder@en
+WARN	multiple_definitions	Extrusion [dik]	textual definition	continuous shaping of a material by passage through a die@en
+WARN	multiple_definitions	Extrusion [dik]	textual definition	kontinuierliches Formen eines Materials, indem dieses durch eine Schablone gepresst wird@de
 WARN	multiple_definitions	Extrudieren [rex]	textual definition	A transformation in which an atom or group Y connected to two other atoms or groups X and Z is lost from a molecule, leading to a product in which X is bonded to Z, e.g. X-Y-Z --> X-Z + Y.@en
 WARN	multiple_definitions	Extrudieren [rex]	textual definition	A transformation in which an atom or group Y connected to two other atoms or groups X and Z is lost from a molecule, leading to a product in which X is bonded to Z, e.g. X-Y-Z --> X-Z + Y. (rex defined)@en
 WARN	multiple_definitions	Die Swell [dik]	textual definition	Unterschied zwischen den Dimensionen des Profilquerschnittes eines Extrudats und den korrespondierenden Dimensionen des Auslaufkanals, welcher üblicherweise als prozentuelle Zunahme der Fläche des Querschnittes ausgedrückt wird@de
 WARN	multiple_definitions	Die Swell [dik]	textual definition	difference between the dimensions of the cross-section of an extrudate and the corresponding dimensions of the die orifice, usually quantified as the percentage increase in the crosssectional area@en
 WARN	multiple_definitions	Vernetzungsdichte [dik]	textual definition	Anzahl von Vernetzungen in einem Vulkanisat je Volumen- oder Masseneinheit@de
 WARN	multiple_definitions	Vernetzungsdichte [dik]	textual definition	number of crosslinks per unit volume or unit mass of vulcanizate@en
-WARN	multiple_definitions	Vulcanizate [dik]	textual definition	Produkt der Vulkanisation einer Kautschukmischung@de
-WARN	multiple_definitions	Vulcanizate [dik]	textual definition	product of the vulcanization of a rubber compound@en
+WARN	multiple_definitions	vulcanizate [dik]	textual definition	Produkt der Vulkanisation einer Kautschukmischung@de
+WARN	multiple_definitions	vulcanizate [dik]	textual definition	product of the vulcanization of a rubber compound@en
 WARN	multiple_definitions	crosslink [dik]	textual definition	chemical bond or atom(s) joining two rubber chains or two parts of the same rubber chain as a result of vulcanization@en
 WARN	multiple_definitions	crosslink [dik]	textual definition	chemische Bindung oder Atom(e), die zwei Kautschukketten oder zwei Teile derselben Kette verbinden als Ergebnis der Vulkanisation@de
 WARN	multiple_definitions	Vernetzen [dik]	textual definition	〈Aktion〉 Erzeugung von Vernetzungen zwischen oder innerhalb von Kautschukketten unter Ausbildung eines Netzwerks@de
 WARN	multiple_definitions	Vernetzen [dik]	textual definition	〈act of〉 insertion of crosslinks between or within rubber chains to give a network structure@en
-WARN	multiple_definitions	state of cure [dik]	textual definition	Zustand eines Vulkanisats während des Vulkanisationsverlaufs, gemessen an dessen Struktur oder dessen Eigenschaften@de
-WARN	multiple_definitions	state of cure [dik]	textual definition	condition of a vulcanizate during the course of vulcanization, measured in terms of its structure or properties@en
-WARN	multiple_definitions	vulcanization [dik]	textual definition	Verfahren, üblicherweise auf Hitze basierend, bei dem Kautschuk durch eine Veränderung seiner chemischen Struktur (zum Beispiel Vernetzung) in einen Zustand überführt wird, in dem die elastischen Eigenschaften erzeugt, wiederhergestellt oder verbessert oder über einen größeren Tempe-raturbereich erweitert werden@de
-WARN	multiple_definitions	vulcanization [dik]	textual definition	process, usually involving heat, in which rubber, through a change in its chemical structure (for example, crosslinking), is converted to a condition in which the elastic properties are conferred or re-established or improved or extended over a greater range of temperatures@en
+WARN	multiple_definitions	State of Cure [dik]	textual definition	Zustand eines Vulkanisats während des Vulkanisationsverlaufs, gemessen an dessen Struktur oder dessen Eigenschaften@de
+WARN	multiple_definitions	State of Cure [dik]	textual definition	condition of a vulcanizate during the course of vulcanization, measured in terms of its structure or properties@en
+WARN	multiple_definitions	Vulcanization [dik]	textual definition	Verfahren, üblicherweise auf Hitze basierend, bei dem Kautschuk durch eine Veränderung seiner chemischen Struktur (zum Beispiel Vernetzung) in einen Zustand überführt wird, in dem die elastischen Eigenschaften erzeugt, wiederhergestellt oder verbessert oder über einen größeren Tempe-raturbereich erweitert werden@de
+WARN	multiple_definitions	Vulcanization [dik]	textual definition	process, usually involving heat, in which rubber, through a change in its chemical structure (for example, crosslinking), is converted to a condition in which the elastic properties are conferred or re-established or improved or extended over a greater range of temperatures@en
 WARN	multiple_definitions	Autoklav [dik]	textual definition	Druckkessel, der zur Vulkanisation von Kautschuk in Dampf oder Gas genutzt wird@de
 WARN	multiple_definitions	Autoklav [dik]	textual definition	pressurized vessel used for vulcanizing rubber in a vapour or gas@en
-WARN	multiple_definitions	Plateau Cure [dik]	textual definition	Art der Vulkanisation, bei der das Modul des Vulkanisats ein Maximum erreicht und dann über einen längeren Zeiraum bei der entsprechenden Vulkanisationstemperatur nahezu konstant bleibt@de
-WARN	multiple_definitions	Plateau Cure [dik]	textual definition	type of vulcanization during which the modulus of the vulcanizate proceeds to a maximum and then remains essentially constant for a substantial period at the vulcanization temperature@en
+WARN	multiple_definitions	plateau cure [dik]	textual definition	Art der Vulkanisation, bei der das Modul des Vulkanisats ein Maximum erreicht und dann über einen längeren Zeiraum bei der entsprechenden Vulkanisationstemperatur nahezu konstant bleibt@de
+WARN	multiple_definitions	plateau cure [dik]	textual definition	type of vulcanization during which the modulus of the vulcanizate proceeds to a maximum and then remains essentially constant for a substantial period at the vulcanization temperature@en
 WARN	multiple_definitions	Vulkanisationsoptimum [dik]	textual definition	Vulkanisationsbedingungen, die notwendig sind, um einen akzeptablen Kompromiss zwischen verschiedenen gewünschten Vulkanisateigenschaften zu erzielen bzw. den optimalen Wert für eine bestimmte Eigenschaft zu erhalten@de
 WARN	multiple_definitions	Vulkanisationsoptimum [dik]	textual definition	condition of vulcanization required to achieve an acceptable compromise among a number of desired vulcanizate properties or the optimum value of a selected property@en
 WARN	multiple_definitions	Übervulkanisation [dik]	textual definition	Vulkanisationszustand jenseits des Vulkanisationsoptimums@de
@@ -694,28 +690,28 @@ WARN	multiple_definitions	sample [dik]	textual definition	ein oder mehrere Teile
 WARN	multiple_definitions	sample [dik]	textual definition	one or more items taken from a lot and intended to provide information on the lot and possibly to serve as a basis for a decision on the lot or on the process which had produced it@en
 WARN	multiple_definitions	Prüfkörper [dik]	textual definition	Körper eines Materials von geeigneter Form und Dimension, fertig vorbereitet zur Verwendung in einer Prüfung@de
 WARN	multiple_definitions	Prüfkörper [dik]	textual definition	piece of material of appropriate shape and size, prepared so that it is ready for use in a test@en
-WARN	multiple_definitions	scrap rubber [dik]	textual definition	raw, compounded, vulcanized or partially vulcanized rubber in the form of end-of-life rubber products or factory scrap@en
-WARN	multiple_definitions	scrap rubber [dik]	textual definition	unverarbeiteter, gemischter, vulkanisierter oder teilvulkanisierter Kautschuk in Form von Altgummierzeugnissen oder Fabrikabfall@de
+WARN	multiple_definitions	Gummiabfall [dik]	textual definition	raw, compounded, vulcanized or partially vulcanized rubber in the form of end-of-life rubber products or factory scrap@en
+WARN	multiple_definitions	Gummiabfall [dik]	textual definition	unverarbeiteter, gemischter, vulkanisierter oder teilvulkanisierter Kautschuk in Form von Altgummierzeugnissen oder Fabrikabfall@de
 WARN	multiple_definitions	factory scrap [dik]	textual definition	raw, compounded, vulcanized or partially vulcanized rubber rejected or generated as waste during product manufacture and found unsuitable for further use unless recycled@en
 WARN	multiple_definitions	factory scrap [dik]	textual definition	roher, gemischter, vulkanisierter oder teilweise vulkanisierter Kautschuk, der bei der Produktion ver-worfen oder als Abfall deklariert und für die weitere Verwendung, außer zum Recyceln, als ungeeignet befunden wird@de
 WARN	multiple_definitions	Massendichte [dik]	textual definition	Masse pro Volumeneinheit eines Materials inklusive eventueller Hohlräume@de
 WARN	multiple_definitions	Massendichte [dik]	textual definition	mass per unit volume of a material, including any voids present@en
 WARN	multiple_definitions	Mooney Viskosität [dik]	textual definition	Maß für die Viskosität eines Rohkautschuks oder einer Kautschukmischung, bestimmt mit einem Mooney-Scherscheibenviskosimeter@de
 WARN	multiple_definitions	Mooney Viskosität [dik]	textual definition	measure of the viscosity of a raw rubber or rubber compound, determined using a Mooney shearing-disc viscometer@en
-WARN	multiple_definitions	Mooney viscosity unit [dik]	textual definition	A viscosity unit which is a standard measure of the Mooney viscosity.@en
-WARN	multiple_definitions	Mooney viscosity unit [dik]	textual definition	Eine Viskositätseinheit, die ein Standardmaß für die Mooney-Viskosität ist.@de
-WARN	multiple_definitions	iodine adsorption number [dik]	textual definition	Menge in Gramm an adsorbiertem Iod pro Kilogramm Ruß unter definierten Bedingungen@de
-WARN	multiple_definitions	iodine adsorption number [dik]	textual definition	Number of grams of iodine adsorbed per kilogram of carbon black under specified conditions@en
+WARN	multiple_definitions	Mooney Viscosity Unit [dik]	textual definition	A viscosity unit which is a standard measure of the Mooney viscosity.@en
+WARN	multiple_definitions	Mooney Viscosity Unit [dik]	textual definition	Eine Viskositätseinheit, die ein Standardmaß für die Mooney-Viskosität ist.@de
+WARN	multiple_definitions	Iodine Adsorption Number [dik]	textual definition	Menge in Gramm an adsorbiertem Iod pro Kilogramm Ruß unter definierten Bedingungen@de
+WARN	multiple_definitions	Iodine Adsorption Number [dik]	textual definition	Number of grams of iodine adsorbed per kilogram of carbon black under specified conditions@en
 WARN	multiple_definitions	Oil Absorption Number [dik]	textual definition	Die Ölabsorptionszahl eines Rußes steht im Zusammenhang mit den Verarbeitungs- und Vulkanisationseigenschaften von Kautschukmischungen die den Ruß enthalten@de
 WARN	multiple_definitions	Oil Absorption Number [dik]	textual definition	The oil absorption number of a carbon black is related to the processing and vulcanizate properties of rubber compounds containing the carbon black@en
 WARN	multiple_definitions	kinematic viscosity [dik]	textual definition	Als kinematische Viskosität bezeichnet man den Quotienten aus der dynamischen Viskosität des Mediums und seiner Dichte@de
 WARN	multiple_definitions	kinematic viscosity [dik]	textual definition	Kinematic viscosity is the quotient of the dynamic viscosity of the medium and its density.@en
-WARN	multiple_definitions	Acid Value [dik]	textual definition	Die Säurezahl ist eine chemische Größe zur Charakterisierung von sauren Bestandteilen in Fetten oder Ölen. Sie bezeichnet die Masse an Kaliumhydroxid (in mg), die notwendig ist, um die in 1 g Fett enthaltenen freien Fettsäuren zu neutralisieren.@de
-WARN	multiple_definitions	Acid Value [dik]	textual definition	The acid value is a chemical quantity used to characterise acidic components in fats or oils. It indicates the mass of potassium hydroxide (in mg) required to neutralise the free fatty acids contained in 1 g of fat.@en
-WARN	multiple_definitions	Complex Shear Modulus [dik]	textual definition	Verhältnis von Schubspannung zu Scherdehnung, wobei jede durch eine komplexe Zahl dargestellt werden kann@de
-WARN	multiple_definitions	Complex Shear Modulus [dik]	textual definition	ratio of the shear stress to the shear strain, where each can be represented by a complex number@en
-WARN	multiple_definitions	complex Young’s modulus [dik]	textual definition	Verhältnis von Normalspannung zur Belastung, wobei jede durch eine komplexe Zahl dargestellt werden kann@de
-WARN	multiple_definitions	complex Young’s modulus [dik]	textual definition	ratio of the normal stress to the normal strain, where each can be represented by a complex number@en
+WARN	multiple_definitions	acid value [dik]	textual definition	Die Säurezahl ist eine chemische Größe zur Charakterisierung von sauren Bestandteilen in Fetten oder Ölen. Sie bezeichnet die Masse an Kaliumhydroxid (in mg), die notwendig ist, um die in 1 g Fett enthaltenen freien Fettsäuren zu neutralisieren.@de
+WARN	multiple_definitions	acid value [dik]	textual definition	The acid value is a chemical quantity used to characterise acidic components in fats or oils. It indicates the mass of potassium hydroxide (in mg) required to neutralise the free fatty acids contained in 1 g of fat.@en
+WARN	multiple_definitions	complex shear modulus [dik]	textual definition	Verhältnis von Schubspannung zu Scherdehnung, wobei jede durch eine komplexe Zahl dargestellt werden kann@de
+WARN	multiple_definitions	complex shear modulus [dik]	textual definition	ratio of the shear stress to the shear strain, where each can be represented by a complex number@en
+WARN	multiple_definitions	Complex Young’s Modulus [dik]	textual definition	Verhältnis von Normalspannung zur Belastung, wobei jede durch eine komplexe Zahl dargestellt werden kann@de
+WARN	multiple_definitions	Complex Young’s Modulus [dik]	textual definition	ratio of the normal stress to the normal strain, where each can be represented by a complex number@en
 WARN	multiple_definitions	Elastizitätsmodul [dik]	textual definition	die Komponente einer aufgebrachten Schubspannung, welche in Phase mit der Scherdeformation ist, geteilt durch die Dehnung@de
 WARN	multiple_definitions	Elastizitätsmodul [dik]	textual definition	that component of an applied shear stress which is in phase with the shear strain, divided by the strain@en
 WARN	multiple_definitions	Youngscher Elastizitätsmodul [dik]	textual definition	die Komponente einer angewandten Normalspannung, welche in Phase mit der Normaldehnung ist, geteilt durch die Dehnung@de
@@ -724,14 +720,14 @@ WARN	multiple_definitions	loss shear modulus [dik]	textual definition	der Anteil
 WARN	multiple_definitions	loss shear modulus [dik]	textual definition	that component of an applied shear stress which is in quadrature (90° out of phase) with the shear strain, divided by the strain@en
 WARN	multiple_definitions	Young’sches Verlustmodul [dik]	textual definition	der Anteil einer aufgebrachten Normalspannung, welcher 90° phasenverschoben gegenüber der Normaldehnung ist, geteilt durch die Dehnung@de
 WARN	multiple_definitions	Young’sches Verlustmodul [dik]	textual definition	that component of an applied normal stress which is in quadrature (90° out of phase) with the normal strain, divided by the strain@en
-WARN	multiple_definitions	Modulus [dik]	textual definition	Maß für die Steifigkeit unter definierten Bedingungen bei Verformung@de
-WARN	multiple_definitions	Modulus [dik]	textual definition	measure of stiffness under specified conditions of deformation@en
+WARN	multiple_definitions	modulus [dik]	textual definition	Maß für die Steifigkeit unter definierten Bedingungen bei Verformung@de
+WARN	multiple_definitions	modulus [dik]	textual definition	measure of stiffness under specified conditions of deformation@en
 WARN	multiple_definitions	Tangens delta [dik]	textual definition	Verhältnis des Verlustmoduls zum Speichermodul@de
 WARN	multiple_definitions	Tangens delta [dik]	textual definition	ratio of the viscous modulus to the elastic modulus@en
 WARN	multiple_definitions	oszillierendes Scheibenrheometer [dik]	textual definition	Rheometertyp, bei welchem die auf die Kautschukmischung einwirkenden Kräfte durch eine in der Testprobe eingebettete schwingende Scheibe erzeugt werden, wobei sich die Probe unter Druck in einem abgedichteten Probenaufnehmer befindet@de
 WARN	multiple_definitions	oszillierendes Scheibenrheometer [dik]	textual definition	type of curemeter in which the force applied to the rubber compound is produced by an oscillating disc embedded in a test sample which is contained under pressure in a sealed cavity@en
-WARN	multiple_definitions	rotorless curemeter [dik]	textual definition	Typ eines Rheometers, bei welchem die Kraft, die auf die Kautschukmischung einwirkt, durch die Oszillation einer von zwei Platten erzeugt wird, die die Kammer bilden, in welcher die Testprobe eingeschlossen ist@de
-WARN	multiple_definitions	rotorless curemeter [dik]	textual definition	type of curemeter in which the force applied to the rubber compound is produced by the oscillation of one of the two dies forming the cavity in which the test sample is enclosed@en
+WARN	multiple_definitions	Rotorless Curemeter [dik]	textual definition	Typ eines Rheometers, bei welchem die Kraft, die auf die Kautschukmischung einwirkt, durch die Oszillation einer von zwei Platten erzeugt wird, die die Kammer bilden, in welcher die Testprobe eingeschlossen ist@de
+WARN	multiple_definitions	Rotorless Curemeter [dik]	textual definition	type of curemeter in which the force applied to the rubber compound is produced by the oscillation of one of the two dies forming the cavity in which the test sample is enclosed@en
 WARN	multiple_definitions	vulcameter [dik]	textual definition	Gerät zur Messung des Fortschritts der Vulkanisation in einer Probe bei der Vulkanisationsstemperatur@de
 WARN	multiple_definitions	vulcameter [dik]	textual definition	device that measures the progress of vulcanization in a test sample at the vulcanizing temperature@en
 WARN	multiple_definitions	Plattenpresse [dik]	textual definition	Presse, die zwei oder mehrere übereinanderliegende beheizte Platten besitzt, zwischen denen die Formteile gepresst werden@de
@@ -795,8 +791,8 @@ WARN	multiple_labels	input layer [ita]	label	input layer [ita]@en
 WARN	multiple_labels	Elastomere	label	Elastomere@de
 WARN	multiple_labels	Elastomere	label	elastomer [ita]@en
 WARN	multiple_labels	Elastomere	label	elastomers [ita]@en
-WARN	multiple_labels	output layer [ita]	label	Ergebnisvektor@de
-WARN	multiple_labels	output layer [ita]	label	output layer [ita]@en
+WARN	multiple_labels	Ergebnisvektor	label	Ergebnisvektor@de
+WARN	multiple_labels	Ergebnisvektor	label	output layer [ita]@en
 WARN	multiple_labels	Extrusion	label	Extrusion@de
 WARN	multiple_labels	Extrusion	label	extrusion [ita]@en
 WARN	multiple_labels	hidden layer [ita]	label	Hidden-Layer@de
@@ -821,8 +817,8 @@ WARN	multiple_labels	Mischen	label	Mischen@de
 WARN	multiple_labels	Mischen	label	mixing [ita]@en
 WARN	multiple_labels	mixing [ncti]	label	mixing [ncit]@en
 WARN	multiple_labels	mixing [ncti]	label	mixing [ncti]@en
-WARN	multiple_labels	pattern recognition [ita]	label	Mustererkennung@de
-WARN	multiple_labels	pattern recognition [ita]	label	pattern recognition [ita]@en
+WARN	multiple_labels	Mustererkennung	label	Mustererkennung@de
+WARN	multiple_labels	Mustererkennung	label	pattern recognition [ita]@en
 WARN	multiple_labels	pattern recognition [ncit]	label	pattern recognition [ncit]@en
 WARN	multiple_labels	pattern recognition [ncit]	label	pattern recognition [ncti]@en
 WARN	multiple_labels	Artificial neural network [ita]	label	Artificial neural network [ita]@en
@@ -873,9 +869,9 @@ WARN	multiple_labels	Zweischneckenextruder	label	twin screw extruder [ita]@en
 WARN	multiple_labels	Mischungstemperatur	label	Mischungstemperatur@de
 WARN	multiple_labels	Mischungstemperatur	label	Mixing temperature [ita]@en
 WARN	multiple_labels	Mischungstemperatur	label	mixing temperature [ita]@en
-WARN	multiple_labels	stamp pressure [ita]	label	Stamp pressure [ita]@en
-WARN	multiple_labels	stamp pressure [ita]	label	Stemepeldruck@de
-WARN	multiple_labels	stamp pressure [ita]	label	stamp pressure [ita]@en
+WARN	multiple_labels	Stamp pressure [ita]	label	Stamp pressure [ita]@en
+WARN	multiple_labels	Stamp pressure [ita]	label	Stemepeldruck@de
+WARN	multiple_labels	Stamp pressure [ita]	label	stamp pressure [ita]@en
 WARN	multiple_labels	rotation speed (Mixer) [ita]	label	Drehzahl (Mischer)@de
 WARN	multiple_labels	rotation speed (Mixer) [ita]	label	Drehzahlsteuerung (Mischer)@de
 WARN	multiple_labels	rotation speed (Mixer) [ita]	label	rotation speed (Mixer) [ita]@en
@@ -886,21 +882,21 @@ WARN	multiple_labels	Mixing time [ita]	label	mixing time [ita]@en
 WARN	multiple_labels	Torque (mixer) [ita]	label	Drehmoment (Mischer)@de
 WARN	multiple_labels	Torque (mixer) [ita]	label	Torque (mixer) [ita]@en
 WARN	multiple_labels	Torque (mixer) [ita]	label	torque (mixer) [ita]@en
-WARN	multiple_labels	Screw speed [ita]	label	Schneckendrezahl@de
-WARN	multiple_labels	Screw speed [ita]	label	Screw speed [ita]@en
-WARN	multiple_labels	Screw speed [ita]	label	screw speed [ita]@en
+WARN	multiple_labels	screw speed [ita]	label	Schneckendrezahl@de
+WARN	multiple_labels	screw speed [ita]	label	Screw speed [ita]@en
+WARN	multiple_labels	screw speed [ita]	label	screw speed [ita]@en
 WARN	multiple_labels	Schneckendrehmoment	label	Schneckendrehmoment@de
 WARN	multiple_labels	Schneckendrehmoment	label	Screw torque [ita]@en
 WARN	multiple_labels	Schneckendrehmoment	label	screw torque [ita]@en
-WARN	multiple_labels	tempering screw [ita]	label	Temperierung Schnecke@de
-WARN	multiple_labels	tempering screw [ita]	label	Tempering screw [ita]@en
-WARN	multiple_labels	tempering screw [ita]	label	tempering screw [ita]@en
-WARN	multiple_labels	tempering feed roller [ita]	label	Temperierung Speisewalze@de
-WARN	multiple_labels	tempering feed roller [ita]	label	Tempering Feed roller [ita]@en
-WARN	multiple_labels	tempering feed roller [ita]	label	tempering feed roller [ita]@en
-WARN	multiple_labels	Tempering cylinder [ita]	label	Temperierung Zylinder@de
-WARN	multiple_labels	Tempering cylinder [ita]	label	Tempering cylinder [ita]@en
-WARN	multiple_labels	Tempering cylinder [ita]	label	tempering cylinder [ita]@en
+WARN	multiple_labels	Tempering screw [ita]	label	Temperierung Schnecke@de
+WARN	multiple_labels	Tempering screw [ita]	label	Tempering screw [ita]@en
+WARN	multiple_labels	Tempering screw [ita]	label	tempering screw [ita]@en
+WARN	multiple_labels	Tempering Feed roller [ita]	label	Temperierung Speisewalze@de
+WARN	multiple_labels	Tempering Feed roller [ita]	label	Tempering Feed roller [ita]@en
+WARN	multiple_labels	Tempering Feed roller [ita]	label	tempering feed roller [ita]@en
+WARN	multiple_labels	tempering cylinder [ita]	label	Temperierung Zylinder@de
+WARN	multiple_labels	tempering cylinder [ita]	label	Tempering cylinder [ita]@en
+WARN	multiple_labels	tempering cylinder [ita]	label	tempering cylinder [ita]@en
 WARN	multiple_labels	Zylinderdruck	label	Cylinder pressure [ita]@en
 WARN	multiple_labels	Zylinderdruck	label	Zylinderdruck@de
 WARN	multiple_labels	Zylinderdruck	label	cylinder pressure [ita]@en
@@ -923,12 +919,12 @@ WARN	multiple_labels	Durchsatz	label	Durchsatz@de
 WARN	multiple_labels	Durchsatz	label	Extrusion throughput [ita]@en
 WARN	multiple_labels	Durchsatz	label	Extrusionsdurchsatz@de
 WARN	multiple_labels	Durchsatz	label	Throughput [ita]@en
-WARN	multiple_labels	factor [hsh]	label	factor [hsh]@en
-WARN	multiple_labels	factor [hsh]	label	faktor [hsh]@de
+WARN	multiple_labels	faktor [hsh]	label	factor [hsh]@en
+WARN	multiple_labels	faktor [hsh]	label	faktor [hsh]@de
 WARN	multiple_labels	faktor [ncti]	label	factor [ncti]@en
 WARN	multiple_labels	faktor [ncti]	label	faktor [ncti]@de
-WARN	multiple_labels	faktor [proco]	label	factor [proco]@en
-WARN	multiple_labels	faktor [proco]	label	faktor [proco]@de
+WARN	multiple_labels	factor [proco]	label	factor [proco]@en
+WARN	multiple_labels	factor [proco]	label	faktor [proco]@de
 WARN	multiple_labels	faktor [allotrope]	label	factor [allotrope]@en
 WARN	multiple_labels	faktor [allotrope]	label	faktor [allotrope]@de
 WARN	multiple_labels	kosten [hsh]	label	cost [hsh]@en
@@ -959,10 +955,10 @@ WARN	multiple_labels	umsatz [hsh]	label	turnover [hsh]@en
 WARN	multiple_labels	umsatz [hsh]	label	umsatz [hsh]@de
 WARN	multiple_labels	machine [hsh]	label	machine [hsh]@en
 WARN	multiple_labels	machine [hsh]	label	maschine [hsh]@de
-WARN	multiple_labels	zustand [hsh]	label	Zustand [hsh]@de
-WARN	multiple_labels	zustand [hsh]	label	condition [hsh]@en
-WARN	multiple_labels	zustand [hsh]	label	operating status [hsh]@en
-WARN	multiple_labels	zustand [hsh]	label	zustand [hsh]@de
+WARN	multiple_labels	Zustand [hsh]	label	Zustand [hsh]@de
+WARN	multiple_labels	Zustand [hsh]	label	condition [hsh]@en
+WARN	multiple_labels	Zustand [hsh]	label	operating status [hsh]@en
+WARN	multiple_labels	Zustand [hsh]	label	zustand [hsh]@de
 WARN	multiple_labels	condition [ncit]	label	condition [ncit]@en
 WARN	multiple_labels	condition [ncit]	label	condition [ncti]@en
 WARN	multiple_labels	condition [ncit]	label	zustand [ncti]@de
@@ -1014,8 +1010,8 @@ WARN	multiple_labels	wartungsdauer [hsh]	label	maintenance duration [hsh]@en
 WARN	multiple_labels	wartungsdauer [hsh]	label	wartungsdauer [hsh]@de
 WARN	multiple_labels	energy consumption [hsh]	label	energy consumption [hsh]@en
 WARN	multiple_labels	energy consumption [hsh]	label	stromverbrauch [hsh]@de
-WARN	multiple_labels	stückkosten [hsh]	label	stückkosten [hsh]@de
-WARN	multiple_labels	stückkosten [hsh]	label	unit cost [hsh]@en
+WARN	multiple_labels	unit cost [hsh]	label	stückkosten [hsh]@de
+WARN	multiple_labels	unit cost [hsh]	label	unit cost [hsh]@en
 WARN	multiple_labels	building [hsh]	label	Aggregat@de
 WARN	multiple_labels	building [hsh]	label	aggregate [enm]@en
 WARN	multiple_labels	building [hsh]	label	building [hsh]@en
@@ -1059,14 +1055,14 @@ WARN	multiple_labels	unit [uo]	label	einheit [uo]@de
 WARN	multiple_labels	unit [uo]	label	unit [uo]@en
 WARN	multiple_labels	extruder [hsh]	label	extruder [hsh]@de
 WARN	multiple_labels	extruder [hsh]	label	extruder [hsh]@en
-WARN	multiple_labels	Knetmaschine [hsh]	label	Knetmaschine [hsh]@de
-WARN	multiple_labels	Knetmaschine [hsh]	label	banbury mixer [hsh]@en
-WARN	multiple_labels	Knetmaschine [hsh]	label	knetmaschine [hsh]@de
+WARN	multiple_labels	knetmaschine [hsh]	label	Knetmaschine [hsh]@de
+WARN	multiple_labels	knetmaschine [hsh]	label	banbury mixer [hsh]@en
+WARN	multiple_labels	knetmaschine [hsh]	label	knetmaschine [hsh]@de
 WARN	multiple_labels	tire building machine [hsh]	label	reifenproduktionsmaschine [hsh]@de
 WARN	multiple_labels	tire building machine [hsh]	label	tire building machine [hsh]@en
 WARN	multiple_labels	tire building machine [hsh]	label	tire-building machine [hsh]@en
-WARN	multiple_labels	schneidemaschine [hsh]	label	cutter [hsh]@en
-WARN	multiple_labels	schneidemaschine [hsh]	label	schneidemaschine [hsh]@de
+WARN	multiple_labels	cutter [hsh]	label	cutter [hsh]@en
+WARN	multiple_labels	cutter [hsh]	label	schneidemaschine [hsh]@de
 WARN	multiple_labels	calandar [hsh]	label	Kalandar [hsh]@de
 WARN	multiple_labels	calandar [hsh]	label	calandar [hsh]@en
 WARN	multiple_labels	calandar [hsh]	label	kalandar [hsh]@de
@@ -1109,8 +1105,8 @@ WARN	multiple_labels	filling material [hsh]	label	füllstoffe [hsh]@de
 WARN	multiple_labels	reinforcing material [hsh]	label	reinforcing material [hsh]@en
 WARN	multiple_labels	reinforcing material [hsh]	label	reinforcing materials [hsh]@en
 WARN	multiple_labels	reinforcing material [hsh]	label	verstärkungsmaterialien [hsh]@de
-WARN	multiple_labels	weichmacher [hsh]	label	plasticizer [hsh]@en
-WARN	multiple_labels	weichmacher [hsh]	label	weichmacher [hsh]@de
+WARN	multiple_labels	plasticizer [hsh]	label	plasticizer [hsh]@en
+WARN	multiple_labels	plasticizer [hsh]	label	weichmacher [hsh]@de
 WARN	multiple_labels	weichmacher [ncit]	label	plasticizer [ncit]@en
 WARN	multiple_labels	weichmacher [ncit]	label	plasticizer [ncti]@en
 WARN	multiple_labels	weichmacher [ncit]	label	weichmacher [ncit]@de
@@ -1133,10 +1129,10 @@ WARN	multiple_labels	statistical discrimination [ifnano]	label	Statistical discr
 WARN	multiple_labels	statistical discrimination [ifnano]	label	statistical discrimination [ifnano]@en
 WARN	multiple_labels	Chemometrics [ifnano]	label	Chemometrics [ifnano]@en
 WARN	multiple_labels	Chemometrics [ifnano]	label	chemometrics [ifnano]@en
-WARN	multiple_labels	raw rubber samples [ifnano]	label	Raw rubber samples [ifnano]@en
-WARN	multiple_labels	raw rubber samples [ifnano]	label	raw rubber samples [ifnano]@en
-WARN	multiple_labels	Correlation [ifnano]	label	Correlation [ifnano]@en
-WARN	multiple_labels	Correlation [ifnano]	label	correlation [ifnano]@en
+WARN	multiple_labels	Raw rubber samples [ifnano]	label	Raw rubber samples [ifnano]@en
+WARN	multiple_labels	Raw rubber samples [ifnano]	label	raw rubber samples [ifnano]@en
+WARN	multiple_labels	correlation [ifnano]	label	Correlation [ifnano]@en
+WARN	multiple_labels	correlation [ifnano]	label	correlation [ifnano]@en
 WARN	multiple_labels	Correlation [ncit]	label	Correlation [ncit]@en
 WARN	multiple_labels	Correlation [ncit]	label	correlation [ncit]@en
 WARN	multiple_labels	Laser induced breakdown spectroscopy [ifnano]	label	Laser induced breakdown spectroscopy [ifnano]@en
@@ -1145,55 +1141,55 @@ WARN	multiple_labels	laser-induced breakdown spectroscopy [chmo]	label	Laser ind
 WARN	multiple_labels	laser-induced breakdown spectroscopy [chmo]	label	laser-induced breakdown spectroscopy [chmo]@en
 WARN	multiple_labels	peak [envo]	label	classification [ifnano]@en
 WARN	multiple_labels	peak [envo]	label	peak [envo]@en
-WARN	multiple_labels	Photometric Measurement Process [ifnano]	label	Photometric Measurement Process [ifnano]@en
-WARN	multiple_labels	Photometric Measurement Process [ifnano]	label	photometric measurement process [ifnano]@en
+WARN	multiple_labels	photometric measurement process [ifnano]	label	Photometric Measurement Process [ifnano]@en
+WARN	multiple_labels	photometric measurement process [ifnano]	label	photometric measurement process [ifnano]@en
 WARN	multiple_labels	metadata [ifnano]	label	Metadata [ifnano]@en
 WARN	multiple_labels	metadata [ifnano]	label	metadata [ifnano]@en
-WARN	multiple_labels	metadata [ncit]	label	Metadata [ncit]@en
-WARN	multiple_labels	metadata [ncit]	label	metadata [ncit]@en
-WARN	multiple_labels	photometry [ifnano]	label	Photometry [ifnano]@en
-WARN	multiple_labels	photometry [ifnano]	label	photometry [ifnano]@en
+WARN	multiple_labels	Metadata [ncit]	label	Metadata [ncit]@en
+WARN	multiple_labels	Metadata [ncit]	label	metadata [ncit]@en
+WARN	multiple_labels	Photometry [ifnano]	label	Photometry [ifnano]@en
+WARN	multiple_labels	Photometry [ifnano]	label	photometry [ifnano]@en
 WARN	multiple_labels	photometry [ncit]	label	Photometry [ncit]@en
 WARN	multiple_labels	photometry [ncit]	label	photometry [ncit]@en
 WARN	multiple_labels	colorimetry (chemical method) [ifnano]	label	Colorimetry [ifnano]@en
 WARN	multiple_labels	colorimetry (chemical method) [ifnano]	label	colorimetry (chemical method) [ifnano]@en
-WARN	multiple_labels	Colorimetry [allotrope]	label	Colorimetry [allotrope]@en
-WARN	multiple_labels	Colorimetry [allotrope]	label	colorimetry [allotrope]@en
-WARN	multiple_labels	Colorimetry [ncit]	label	Colorimetry [ncit]@en
-WARN	multiple_labels	Colorimetry [ncit]	label	colorimetry [ncit]@en
-WARN	multiple_labels	Image data [ifnano]	label	Image data [ifnano]@en
-WARN	multiple_labels	Image data [ifnano]	label	image data [ifnano]@en
-WARN	multiple_labels	Picture grid [ifnano]	label	Picture grid [ifnano]@en
-WARN	multiple_labels	Picture grid [ifnano]	label	picture grid [ifnano]@en
-WARN	multiple_labels	pixel [ifnano]	label	Pixel [ifnano]@en
-WARN	multiple_labels	pixel [ifnano]	label	pixel [ifnano]@en
-WARN	multiple_labels	pixel [ncit]	label	Pixel [ncit]@en
-WARN	multiple_labels	pixel [ncit]	label	pixel [ncit]@en
+WARN	multiple_labels	colorimetry [allotrope]	label	Colorimetry [allotrope]@en
+WARN	multiple_labels	colorimetry [allotrope]	label	colorimetry [allotrope]@en
+WARN	multiple_labels	colorimetry [ncit]	label	Colorimetry [ncit]@en
+WARN	multiple_labels	colorimetry [ncit]	label	colorimetry [ncit]@en
+WARN	multiple_labels	image data [ifnano]	label	Image data [ifnano]@en
+WARN	multiple_labels	image data [ifnano]	label	image data [ifnano]@en
+WARN	multiple_labels	picture grid [ifnano]	label	Picture grid [ifnano]@en
+WARN	multiple_labels	picture grid [ifnano]	label	picture grid [ifnano]@en
+WARN	multiple_labels	Pixel [ifnano]	label	Pixel [ifnano]@en
+WARN	multiple_labels	Pixel [ifnano]	label	pixel [ifnano]@en
+WARN	multiple_labels	Pixel [ncit]	label	Pixel [ncit]@en
+WARN	multiple_labels	Pixel [ncit]	label	pixel [ncit]@en
 WARN	multiple_labels	digital image processing [ifnano]	label	Digital image processing [ifnano]@en
 WARN	multiple_labels	digital image processing [ifnano]	label	digital image processing [ifnano]@en
 WARN	multiple_labels	image analysis (chemometrics) [ifnano]	label	Image analysis [ifnano]@en
 WARN	multiple_labels	image analysis (chemometrics) [ifnano]	label	image analysis (chemometrics) [ifnano]@en
 WARN	multiple_labels	image analysis [allotrope]	label	Image analysis [allotrope]@en
 WARN	multiple_labels	image analysis [allotrope]	label	image analysis [allotrope]@en
-WARN	multiple_labels	Image analysis [edam]	label	Image analysis [edam]@en
-WARN	multiple_labels	Image analysis [edam]	label	image analysis [edam]@en
+WARN	multiple_labels	image analysis [edam]	label	Image analysis [edam]@en
+WARN	multiple_labels	image analysis [edam]	label	image analysis [edam]@en
 WARN	multiple_labels	analytical target [ifnano]	label	Analytical target [ifnano]@en
 WARN	multiple_labels	analytical target [ifnano]	label	analytical target [ifnano]@en
-WARN	multiple_labels	geometry correction [ifnano]	label	Geometry correction [ifnano]@en
-WARN	multiple_labels	geometry correction [ifnano]	label	geometry correction [ifnano]@en
-WARN	multiple_labels	linear discriminant analysis [ifnano]	label	Linear discriminant analysis [ifnano]@en
-WARN	multiple_labels	linear discriminant analysis [ifnano]	label	linear discriminant analysis [ifnano]@en
-WARN	multiple_labels	Supervised learning [ifnano]	label	Supervised learning [ifnano]@en
-WARN	multiple_labels	Supervised learning [ifnano]	label	supervised learning [ifnano]@en
+WARN	multiple_labels	Geometry correction [ifnano]	label	Geometry correction [ifnano]@en
+WARN	multiple_labels	Geometry correction [ifnano]	label	geometry correction [ifnano]@en
+WARN	multiple_labels	Linear discriminant analysis [ifnano]	label	Linear discriminant analysis [ifnano]@en
+WARN	multiple_labels	Linear discriminant analysis [ifnano]	label	linear discriminant analysis [ifnano]@en
+WARN	multiple_labels	supervised learning [ifnano]	label	Supervised learning [ifnano]@en
+WARN	multiple_labels	supervised learning [ifnano]	label	supervised learning [ifnano]@en
 WARN	multiple_labels	unsupervised learning [ifnano]	label	Unsupervised learning [ifnano]@en
 WARN	multiple_labels	unsupervised learning [ifnano]	label	unsupervised learning [ifnano]@en
 WARN	multiple_labels	Image histogramm / histogramm [ifnano]	label	Image histogramm / histogramm [ifnano]@en
 WARN	multiple_labels	Image histogramm / histogramm [ifnano]	label	image histogram / histogram [ifnano]@en
 WARN	multiple_labels	Color histogramm [ifnano]	label	Color histogramm [ifnano]@en
 WARN	multiple_labels	Color histogramm [ifnano]	label	color histogram [ifnano]@en
-WARN	multiple_labels	arbitrary units [ncit]	label	arbitrary units@en
-WARN	multiple_labels	arbitrary units [ncit]	label	arbitrary units [ncit]@en
-WARN	multiple_labels	arbitrary units [ncit]	label	willkürliche Einheiten@de
+WARN	multiple_labels	arbitrary units	label	arbitrary units@en
+WARN	multiple_labels	arbitrary units	label	arbitrary units [ncit]@en
+WARN	multiple_labels	arbitrary units	label	willkürliche Einheiten@de
 WARN	multiple_labels	standard deviation [ifnano]	label	Standard deviation [ifnano]@en
 WARN	multiple_labels	standard deviation [ifnano]	label	standard deviation [ifnano]@en
 WARN	multiple_labels	standard deviation [allotrope]	label	Standard deviation [allotrope]@en
@@ -1208,15 +1204,15 @@ WARN	multiple_labels	monomer [ncit]	label	Monomer [ncit]@en
 WARN	multiple_labels	monomer [ncit]	label	monomer [ncit]@en
 WARN	multiple_labels	Polymer [ifnano]	label	Polymer [ifnano]@en
 WARN	multiple_labels	Polymer [ifnano]	label	polymer [ifnano]@en
-WARN	multiple_labels	Polymer [chebi]	label	Polymer@de
-WARN	multiple_labels	Polymer [chebi]	label	Polymer [chebi]@en
-WARN	multiple_labels	Polymer [chebi]	label	polymer [chebi]@en
+WARN	multiple_labels	polymer [chebi]	label	Polymer@de
+WARN	multiple_labels	polymer [chebi]	label	Polymer [chebi]@en
+WARN	multiple_labels	polymer [chebi]	label	polymer [chebi]@en
 WARN	multiple_labels	Composition [ifnano]	label	Composition [ifnano]@en
 WARN	multiple_labels	Composition [ifnano]	label	polymer composition [ifnano]@en
-WARN	multiple_labels	composition [fso]	label	Composition [fso]@en
-WARN	multiple_labels	composition [fso]	label	composition [fso]@en
-WARN	multiple_labels	Composition [pato]	label	Composition [pato]@en
-WARN	multiple_labels	Composition [pato]	label	composition [pato]@en
+WARN	multiple_labels	Composition [fso]	label	Composition [fso]@en
+WARN	multiple_labels	Composition [fso]	label	composition [fso]@en
+WARN	multiple_labels	composition [pato]	label	Composition [pato]@en
+WARN	multiple_labels	composition [pato]	label	composition [pato]@en
 WARN	multiple_labels	Composition [ncit]	label	Composition [ncit]@en
 WARN	multiple_labels	Composition [ncit]	label	composition [ncit]@en
 WARN	multiple_labels	Agglomerat [dik]	label	Agglomerat [dik]@de
@@ -1225,9 +1221,9 @@ WARN	multiple_labels	Agglomerat [dik]	label	agglomerate [dik]@en
 WARN	multiple_labels	Aggregate [dik]	label	Aggregat [dik]@de
 WARN	multiple_labels	Aggregate [dik]	label	Aggregate [dik]@en
 WARN	multiple_labels	Aggregate [dik]	label	aggregate [dik]@en
-WARN	multiple_labels	Particle [dik]	label	Particle [dik]@en
-WARN	multiple_labels	Particle [dik]	label	Partikel [dik]@de
-WARN	multiple_labels	Particle [dik]	label	particle [dik]@en
+WARN	multiple_labels	particle [dik]	label	Particle [dik]@en
+WARN	multiple_labels	particle [dik]	label	Partikel [dik]@de
+WARN	multiple_labels	particle [dik]	label	particle [dik]@en
 WARN	multiple_labels	particle [ncit]	label	Particle [ncit]@en
 WARN	multiple_labels	particle [ncit]	label	Partikel [ncit]@de
 WARN	multiple_labels	particle [ncit]	label	particle [ncit]@en
@@ -1257,9 +1253,9 @@ WARN	multiple_labels	Dienkautschuk [dik]	label	Dienkautschuk [dik]@de
 WARN	multiple_labels	Dienkautschuk [dik]	label	diene rubber [dik]@en
 WARN	multiple_labels	Keltan 5470C [dik]	label	Keltan 5470C [dik]@de
 WARN	multiple_labels	Keltan 5470C [dik]	label	Keltan 5470C [dik]@en
-WARN	multiple_labels	Füllstoff [dik]	label	Filler [dik]@en
-WARN	multiple_labels	Füllstoff [dik]	label	Füllstoff [dik]@de
-WARN	multiple_labels	Füllstoff [dik]	label	filler [dik]@en
+WARN	multiple_labels	Filler [dik]	label	Filler [dik]@en
+WARN	multiple_labels	Filler [dik]	label	Füllstoff [dik]@de
+WARN	multiple_labels	Filler [dik]	label	filler [dik]@en
 WARN	multiple_labels	Ruß [dik]	label	Carbon Black [dik]@en
 WARN	multiple_labels	Ruß [dik]	label	Ruß [dik]@de
 WARN	multiple_labels	Ruß [dik]	label	carbon black [dik]@en
@@ -1284,9 +1280,9 @@ WARN	multiple_labels	Paraffinic Oil [dik]	label	Paraffinöl [dik]@de
 WARN	multiple_labels	Paraffinic Oil [dik]	label	paraffinic oil [dik]@en
 WARN	multiple_labels	‎P460 [dik]	label	‎P460 [dik]@de
 WARN	multiple_labels	‎P460 [dik]	label	‎P460 [dik]@en
-WARN	multiple_labels	process oil [dik]	label	Process Oil [dik]@en
-WARN	multiple_labels	process oil [dik]	label	process oil [dik]@en
-WARN	multiple_labels	process oil [dik]	label	‎Prozessöl‎ [dik]@de
+WARN	multiple_labels	Process Oil [dik]	label	Process Oil [dik]@en
+WARN	multiple_labels	Process Oil [dik]	label	process oil [dik]@en
+WARN	multiple_labels	Process Oil [dik]	label	‎Prozessöl‎ [dik]@de
 WARN	multiple_labels	processing aid [dik]	label	Processing Aid [dik]@en
 WARN	multiple_labels	processing aid [dik]	label	Verarbeitungshilfsmittel [dik]@de
 WARN	multiple_labels	processing aid [dik]	label	processing aid [dik]@en
@@ -1295,9 +1291,9 @@ WARN	multiple_labels	antidegradant [dik]	label	Antidegradant [dik]@en
 WARN	multiple_labels	antidegradant [dik]	label	antidegradant [dik]@en
 WARN	multiple_labels	Antilux 500‎ [dik]	label	Antilux 500‎ [dik]@de
 WARN	multiple_labels	Antilux 500‎ [dik]	label	Antilux 500‎ [dik]@en
-WARN	multiple_labels	activator [dik]	label	Activator [dik]@en
-WARN	multiple_labels	activator [dik]	label	Aktivator [dik]@de
-WARN	multiple_labels	activator [dik]	label	activator [dik]@en
+WARN	multiple_labels	Aktivator [dik]	label	Activator [dik]@en
+WARN	multiple_labels	Aktivator [dik]	label	Aktivator [dik]@de
+WARN	multiple_labels	Aktivator [dik]	label	activator [dik]@en
 WARN	multiple_labels	Activator [ncit]	label	Activator [ncit]@en
 WARN	multiple_labels	Activator [ncit]	label	Aktivator [ncit]@de
 WARN	multiple_labels	Activator [ncit]	label	activator [ncit]@en
@@ -1306,9 +1302,9 @@ WARN	multiple_labels	Zinkoxid [dik]	label	Zinkoxid [dik]@de
 WARN	multiple_labels	Zinkoxid [dik]	label	zinc oxide [dik]@en
 WARN	multiple_labels	Zinkoxid Rotsiegel [dik]	label	Zinkoxid Rotsiegel [dik]@de
 WARN	multiple_labels	Zinkoxid Rotsiegel [dik]	label	Zinkoxid Rotsiegel [dik]@en
-WARN	multiple_labels	stearic acid [dik]	label	Stearic Acid [dik]@en
-WARN	multiple_labels	stearic acid [dik]	label	Stearinsäure [dik]@de
-WARN	multiple_labels	stearic acid [dik]	label	stearic acid [dik]@en
+WARN	multiple_labels	Stearic Acid [dik]	label	Stearic Acid [dik]@en
+WARN	multiple_labels	Stearic Acid [dik]	label	Stearinsäure [dik]@de
+WARN	multiple_labels	Stearic Acid [dik]	label	stearic acid [dik]@en
 WARN	multiple_labels	Stearic Acid [ncit]	label	Stearic Acid [ncit]@en
 WARN	multiple_labels	Stearic Acid [ncit]	label	Stearinsäure [dik]@de
 WARN	multiple_labels	Stearic Acid [ncit]	label	stearic acid [ncit]@en
@@ -1328,7 +1324,6 @@ WARN	multiple_labels	Secondary Accelerator [dik]	label	Zweitvulkanisationsbeschl
 WARN	multiple_labels	Secondary Accelerator [dik]	label	secondary vulcanisation accelerator [dik]@en
 WARN	multiple_labels	Thiazole [dik]	label	Thiazol [dik]@de
 WARN	multiple_labels	Thiazole [dik]	label	Thiazole [dik]@en
-WARN	multiple_labels	Thiazole [dik]	label	thiazole [dik]@en
 WARN	multiple_labels	di(benzothiazol-2-yl)disulfide [dik]	label	Di(benzothiazol-2-yl)disulfid [dik]@de
 WARN	multiple_labels	di(benzothiazol-2-yl)disulfide [dik]	label	di(benzothiazol-2-yl)disulfide [dik]@en
 WARN	multiple_labels	Di(benzothiazol-2-yl)disulfid [chebi]	label	Di(benzothiazol-2-yl)disulfid [chebi]@de
@@ -1352,9 +1347,9 @@ WARN	multiple_labels	zinc dibenzyldithiocarbamate [dik]	label	Zink-Dibenzyldithi
 WARN	multiple_labels	zinc dibenzyldithiocarbamate [dik]	label	zinc dibenzyldithiocarbamate [dik]@en
 WARN	multiple_labels	Rhenogran ‎ZBDC 80‎ [dik]	label	Rhenogran ‎ZBDC 80‎ [dik]@de
 WARN	multiple_labels	Rhenogran ‎ZBDC 80‎ [dik]	label	Rhenogran ‎ZBDC 80‎ [dik]@en
-WARN	multiple_labels	vulcanizing agent [dik]	label	Vulcanizing Agent [dik]@en
-WARN	multiple_labels	vulcanizing agent [dik]	label	Vulkanisationsmittel [dik]@de
-WARN	multiple_labels	vulcanizing agent [dik]	label	vulcanizing agent [dik]@en
+WARN	multiple_labels	Vulcanizing Agent [dik]	label	Vulcanizing Agent [dik]@en
+WARN	multiple_labels	Vulcanizing Agent [dik]	label	Vulkanisationsmittel [dik]@de
+WARN	multiple_labels	Vulcanizing Agent [dik]	label	vulcanizing agent [dik]@en
 WARN	multiple_labels	vulcanizing system [dik]	label	Vulcanizing System [dik]@en
 WARN	multiple_labels	vulcanizing system [dik]	label	Vulkanisationssystem [dik]@de
 WARN	multiple_labels	vulcanizing system [dik]	label	vulcanizing system [dik]@en
@@ -1384,9 +1379,9 @@ WARN	multiple_labels	Safety Data Sheet [dik]	label	safety data sheet [dik]@en
 WARN	multiple_labels	product data sheet [dik]	label	Product Data Sheet [dik]@en
 WARN	multiple_labels	product data sheet [dik]	label	Produktdatenblatt [dik]@de
 WARN	multiple_labels	product data sheet [dik]	label	product data sheet [dik]@en
-WARN	multiple_labels	mill [dik]	label	Mill [dik]@en
-WARN	multiple_labels	mill [dik]	label	Walzwerk [dik]@de
-WARN	multiple_labels	mill [dik]	label	mill [dik]@en
+WARN	multiple_labels	Mill [dik]	label	Mill [dik]@en
+WARN	multiple_labels	Mill [dik]	label	Walzwerk [dik]@de
+WARN	multiple_labels	Mill [dik]	label	mill [dik]@en
 WARN	multiple_labels	Walze [dik]	label	Roll [dik]@en
 WARN	multiple_labels	Walze [dik]	label	Walze [dik]@de
 WARN	multiple_labels	Walze [dik]	label	roll [dik]@en
@@ -1402,9 +1397,9 @@ WARN	multiple_labels	rotational frequency [dik]	label	rotational frequency [dik]
 WARN	multiple_labels	Drehzahleinheit [dik]	label	Drehzahleinheit [dik]@de
 WARN	multiple_labels	Drehzahleinheit [dik]	label	Rotational Frequency Unit [dik]@en
 WARN	multiple_labels	Drehzahleinheit [dik]	label	rotational frequency unit [dik]@en
-WARN	multiple_labels	Rotational Frequency Unit [uo]	label	Drehzahleinheit [ou]@de
-WARN	multiple_labels	Rotational Frequency Unit [uo]	label	Rotational Frequency Unit [uo]@en
-WARN	multiple_labels	Rotational Frequency Unit [uo]	label	rotational frequency unit [uo]@en
+WARN	multiple_labels	rotational frequency unit [uo]	label	Drehzahleinheit [ou]@de
+WARN	multiple_labels	rotational frequency unit [uo]	label	Rotational Frequency Unit [uo]@en
+WARN	multiple_labels	rotational frequency unit [uo]	label	rotational frequency unit [uo]@en
 WARN	multiple_labels	Frequenzeinheit [dik]	label	Frequency Unit [dik]@en
 WARN	multiple_labels	Frequenzeinheit [dik]	label	Frequenzeinheit [dik]@de
 WARN	multiple_labels	Frequenzeinheit [dik]	label	frequency unit [dik]@en
@@ -1414,21 +1409,21 @@ WARN	multiple_labels	Frequenzeinheit [uo]	label	frequency unit [uo]@en
 WARN	multiple_labels	Frequenzeinheit [ncit]	label	Frequency Unit [ncit]@en
 WARN	multiple_labels	Frequenzeinheit [ncit]	label	Frequenzeinheit [ncit]@de
 WARN	multiple_labels	Frequenzeinheit [ncit]	label	frequency unit [ncit]@en
-WARN	multiple_labels	Turns per Second [dik]	label	Turns per Second [dik]@en
-WARN	multiple_labels	Turns per Second [dik]	label	Umdrehungen pro Sekunde [dik]@de
-WARN	multiple_labels	Turns per Second [dik]	label	turns per second [dik]@en
+WARN	multiple_labels	turns per second [dik]	label	Turns per Second [dik]@en
+WARN	multiple_labels	turns per second [dik]	label	Umdrehungen pro Sekunde [dik]@de
+WARN	multiple_labels	turns per second [dik]	label	turns per second [dik]@en
 WARN	multiple_labels	Umdrehungen pro Sekunde [uo]	label	Turns per Second [uo]@en
 WARN	multiple_labels	Umdrehungen pro Sekunde [uo]	label	Umdrehungen pro Sekunde [uo]@de
 WARN	multiple_labels	Umdrehungen pro Sekunde [uo]	label	turns per second [uo]@en
-WARN	multiple_labels	Turns per Minute [dik]	label	Turns per Minute [dik]@en
-WARN	multiple_labels	Turns per Minute [dik]	label	Umdrehungen pro Minute [dik]@de
-WARN	multiple_labels	Turns per Minute [dik]	label	turns per minute [dik]@en
-WARN	multiple_labels	Fixed Roll Speed [dik]	label	Festwalzen-Drehzahl [dik]@de
-WARN	multiple_labels	Fixed Roll Speed [dik]	label	Fixed Roll Speed [dik]@en
-WARN	multiple_labels	Fixed Roll Speed [dik]	label	fixed roll speed [dik]@en
-WARN	multiple_labels	Setting Roll Speed [dik]	label	Setting Roll Speed [dik]@en
-WARN	multiple_labels	Setting Roll Speed [dik]	label	Stellwalzen-Drehzahl [dik]@de
-WARN	multiple_labels	Setting Roll Speed [dik]	label	setting roll speed [dik]@en
+WARN	multiple_labels	Umdrehungen pro Minute [dik]	label	Turns per Minute [dik]@en
+WARN	multiple_labels	Umdrehungen pro Minute [dik]	label	Umdrehungen pro Minute [dik]@de
+WARN	multiple_labels	Umdrehungen pro Minute [dik]	label	turns per minute [dik]@en
+WARN	multiple_labels	Festwalzen-Drehzahl [dik]	label	Festwalzen-Drehzahl [dik]@de
+WARN	multiple_labels	Festwalzen-Drehzahl [dik]	label	Fixed Roll Speed [dik]@en
+WARN	multiple_labels	Festwalzen-Drehzahl [dik]	label	fixed roll speed [dik]@en
+WARN	multiple_labels	setting roll speed [dik]	label	Setting Roll Speed [dik]@en
+WARN	multiple_labels	setting roll speed [dik]	label	Stellwalzen-Drehzahl [dik]@de
+WARN	multiple_labels	setting roll speed [dik]	label	setting roll speed [dik]@en
 WARN	multiple_labels	Temperatur [dik]	label	Temperatur [dik]@de
 WARN	multiple_labels	Temperatur [dik]	label	Temperature [dik]@en
 WARN	multiple_labels	Temperatur [dik]	label	temperature [dik]@en
@@ -1437,16 +1432,15 @@ WARN	multiple_labels	temperature [ncit]	label	Temperature [ncit]@en
 WARN	multiple_labels	temperature [ncit]	label	temperature [ncit]@en
 WARN	multiple_labels	Temperature [pato]	label	Temperatur [pato]@de
 WARN	multiple_labels	Temperature [pato]	label	Temperature [pato]@en
-WARN	multiple_labels	Temperature [pato]	label	temperature [pato]@en
-WARN	multiple_labels	temperature [om]	label	Temperatur [om]@de
-WARN	multiple_labels	temperature [om]	label	Temperature [om]@en
-WARN	multiple_labels	temperature [om]	label	temperature [om]@en
+WARN	multiple_labels	Temperature [om]	label	Temperatur [om]@de
+WARN	multiple_labels	Temperature [om]	label	Temperature [om]@en
+WARN	multiple_labels	Temperature [om]	label	temperature [om]@en
 WARN	multiple_labels	Temperatur [efo]	label	Temperatur [efo]@de
 WARN	multiple_labels	Temperatur [efo]	label	Temperature [efo]@en
 WARN	multiple_labels	Temperatur [efo]	label	temperature [efo]@en
-WARN	multiple_labels	temperature unit [dik]	label	Temperature Unit [dik]@en
-WARN	multiple_labels	temperature unit [dik]	label	Temperatureinheit [dik]@de
-WARN	multiple_labels	temperature unit [dik]	label	temperature unit [dik]@en
+WARN	multiple_labels	Temperature Unit [dik]	label	Temperature Unit [dik]@en
+WARN	multiple_labels	Temperature Unit [dik]	label	Temperatureinheit [dik]@de
+WARN	multiple_labels	Temperature Unit [dik]	label	temperature unit [dik]@en
 WARN	multiple_labels	Temperatureinheit [uo]	label	Temperature Unit [uo]@en
 WARN	multiple_labels	Temperatureinheit [uo]	label	Temperatureinheit [uo]@de
 WARN	multiple_labels	Temperatureinheit [uo]	label	temperature unit [uo]@en
@@ -1465,23 +1459,23 @@ WARN	multiple_labels	Setting Roll Temperature Control Unit [dik]	label	setting r
 WARN	multiple_labels	Festwalzen-Temperatur [dik]	label	Festwalzen-Temperatur [dik]@de
 WARN	multiple_labels	Festwalzen-Temperatur [dik]	label	Fixed Roll Temperature [dik]@en
 WARN	multiple_labels	Festwalzen-Temperatur [dik]	label	fixed roll temperature [dik]@en
-WARN	multiple_labels	setting roll temperature [dik]	label	Setting Roll Temperature [dik]@en
-WARN	multiple_labels	setting roll temperature [dik]	label	Stellwalzen-Temperatur [dik]@de
-WARN	multiple_labels	setting roll temperature [dik]	label	setting roll temperature [dik]@en
+WARN	multiple_labels	Setting Roll Temperature [dik]	label	Setting Roll Temperature [dik]@en
+WARN	multiple_labels	Setting Roll Temperature [dik]	label	Stellwalzen-Temperatur [dik]@de
+WARN	multiple_labels	Setting Roll Temperature [dik]	label	setting roll temperature [dik]@en
 WARN	multiple_labels	NIP [dik]	label	NIP [dik]@en
 WARN	multiple_labels	NIP [dik]	label	Walzenspalt [dik]@de
 WARN	multiple_labels	NIP [dik]	label	roller gap [dik]@en
 WARN	multiple_labels	Auswalzen [dik]	label	Auswalzen [dik]@de
 WARN	multiple_labels	Auswalzen [dik]	label	Sheeting [dik]@en
 WARN	multiple_labels	Auswalzen [dik]	label	sheeting [dik]@en
-WARN	multiple_labels	dispersion [dik]	label	Dispergierung [dik]@de
-WARN	multiple_labels	dispersion [dik]	label	Dispersion [dik]@en
-WARN	multiple_labels	dispersion [dik]	label	dispersion [dik]@en
-WARN	multiple_labels	Mastication [dik]	label	Mastication [dik]@en
-WARN	multiple_labels	Mastication [dik]	label	Mastikation [dik]@de
-WARN	multiple_labels	Mastication [dik]	label	mastication [dik]@en
-WARN	multiple_labels	Mastication [ncit]	label	Mastication [ncit]@en
-WARN	multiple_labels	Mastication [ncit]	label	Mastikation [ncit]@de
+WARN	multiple_labels	Dispersion [dik]	label	Dispergierung [dik]@de
+WARN	multiple_labels	Dispersion [dik]	label	Dispersion [dik]@en
+WARN	multiple_labels	Dispersion [dik]	label	dispersion [dik]@en
+WARN	multiple_labels	Mastikation [dik]	label	Mastication [dik]@en
+WARN	multiple_labels	Mastikation [dik]	label	Mastikation [dik]@de
+WARN	multiple_labels	Mastikation [dik]	label	mastication [dik]@en
+WARN	multiple_labels	Mastikation [ncit]	label	Mastication [ncit]@en
+WARN	multiple_labels	Mastikation [ncit]	label	Mastikation [ncit]@de
 WARN	multiple_labels	Mastication [hp]	label	Mastication [hp]@en
 WARN	multiple_labels	Mastication [hp]	label	Mastikation [hp]@de
 WARN	multiple_labels	Verarbeitbarkeit [dik]	label	Processability [dik]@en
@@ -1493,27 +1487,27 @@ WARN	multiple_labels	Mischer [dik]	label	mixer device [dik]@en
 WARN	multiple_labels	Mischer [ncit]	label	Mischer [ncit]@de
 WARN	multiple_labels	Mischer [ncit]	label	Mixer Device [ncit]@en
 WARN	multiple_labels	Mischer [ncit]	label	mixer device [ncit]@en
-WARN	multiple_labels	Mechanical Mixer [dik]	label	Mechanical Mixer [dik]@en
-WARN	multiple_labels	Mechanical Mixer [dik]	label	Mechanischer Mischer [dik]@de
-WARN	multiple_labels	Mechanical Mixer [dik]	label	mechanical mixer [dik]@en
+WARN	multiple_labels	mechanical mixer [dik]	label	Mechanical Mixer [dik]@en
+WARN	multiple_labels	mechanical mixer [dik]	label	Mechanischer Mischer [dik]@de
+WARN	multiple_labels	mechanical mixer [dik]	label	mechanical mixer [dik]@en
 WARN	multiple_labels	Mechanical Mixer [ncit]	label	Mechanical Mixer [ncit]@en
 WARN	multiple_labels	Mechanical Mixer [ncit]	label	Mechanischer Mischer [ncit]@de
 WARN	multiple_labels	Mechanical Mixer [ncit]	label	mechanical mixer [ncit]@en
 WARN	multiple_labels	Innenmischer [dik]	label	Innenmischer [dik]@de
 WARN	multiple_labels	Innenmischer [dik]	label	Internal Mixer [dik]@en
 WARN	multiple_labels	Innenmischer [dik]	label	internal mixer [dik]@en
-WARN	multiple_labels	Rotor [dik]	label	Rotor [dik]@de
-WARN	multiple_labels	Rotor [dik]	label	Rotor [dik]@en
-WARN	multiple_labels	Rotor [dik]	label	rotor [dik]@en
+WARN	multiple_labels	rotor [dik]	label	Rotor [dik]@de
+WARN	multiple_labels	rotor [dik]	label	Rotor [dik]@en
+WARN	multiple_labels	rotor [dik]	label	rotor [dik]@en
 WARN	multiple_labels	mixing chamber [dik]	label	Mischkammer [dik]@de
 WARN	multiple_labels	mixing chamber [dik]	label	Mixing Chamber [dik]@en
 WARN	multiple_labels	mixing chamber [dik]	label	mixing chamber [dik]@en
 WARN	multiple_labels	Klappsattel [dik]	label	Drop Door [dik]@en
 WARN	multiple_labels	Klappsattel [dik]	label	Klappsattel [dik]@de
 WARN	multiple_labels	Klappsattel [dik]	label	drop door [dik]@en
-WARN	multiple_labels	Stamp [dik]	label	Stamp [dik]@en
-WARN	multiple_labels	Stamp [dik]	label	Stempel [dik]@de
-WARN	multiple_labels	Stamp [dik]	label	stamp [dik]@en
+WARN	multiple_labels	stamp [dik]	label	Stamp [dik]@en
+WARN	multiple_labels	stamp [dik]	label	Stempel [dik]@de
+WARN	multiple_labels	stamp [dik]	label	stamp [dik]@en
 WARN	multiple_labels	Rotor-Drehzahl [dik]	label	Rotor Speed [dik]@en
 WARN	multiple_labels	Rotor-Drehzahl [dik]	label	Rotor-Drehzahl [dik]@de
 WARN	multiple_labels	Rotor-Drehzahl [dik]	label	rotor speed [dik]@en
@@ -1529,32 +1523,32 @@ WARN	multiple_labels	Mixing Chamber Temperature Control Unit [dik]	label	mixing 
 WARN	multiple_labels	Mischkammer-Temperatur [dik]	label	Mischkammer-Temperatur [dik]@de
 WARN	multiple_labels	Mischkammer-Temperatur [dik]	label	Mixing Chamber Temperature [dik]@en
 WARN	multiple_labels	Mischkammer-Temperatur [dik]	label	mixing chamber temperature [dik]@en
-WARN	multiple_labels	Drop Door Temperature Control Unit [dik]	label	Drop Door Temperature Control Unit [dik]@en
-WARN	multiple_labels	Drop Door Temperature Control Unit [dik]	label	Klappsattel-Temperatursteuergerät [dik]@de
-WARN	multiple_labels	Drop Door Temperature Control Unit [dik]	label	drop door temperature control unit [dik]@en
+WARN	multiple_labels	drop door temperature control unit [dik]	label	Drop Door Temperature Control Unit [dik]@en
+WARN	multiple_labels	drop door temperature control unit [dik]	label	Klappsattel-Temperatursteuergerät [dik]@de
+WARN	multiple_labels	drop door temperature control unit [dik]	label	drop door temperature control unit [dik]@en
 WARN	multiple_labels	Klappsattel-Temperatur [dik]	label	Drop Door Temperature [dik]@en
 WARN	multiple_labels	Klappsattel-Temperatur [dik]	label	Klappsattel-Temperatur [dik]@de
 WARN	multiple_labels	Klappsattel-Temperatur [dik]	label	drop door temperature [dik]@en
-WARN	multiple_labels	Stamp Temperature Control Unit [dik]	label	Stamp Temperature Control Unit [dik]@en
-WARN	multiple_labels	Stamp Temperature Control Unit [dik]	label	Stempel-Temperatursteuergerät [dik]@de
-WARN	multiple_labels	Stamp Temperature Control Unit [dik]	label	stamp temperature control unit [dik]@en
-WARN	multiple_labels	Stamp Temperature [dik]	label	Stamp Temperature [dik]@en
-WARN	multiple_labels	Stamp Temperature [dik]	label	Stempel-Temperatur [dik]@de
-WARN	multiple_labels	Stamp Temperature [dik]	label	stamp temperature [dik]@en
+WARN	multiple_labels	stamp temperature control unit [dik]	label	Stamp Temperature Control Unit [dik]@en
+WARN	multiple_labels	stamp temperature control unit [dik]	label	Stempel-Temperatursteuergerät [dik]@de
+WARN	multiple_labels	stamp temperature control unit [dik]	label	stamp temperature control unit [dik]@en
+WARN	multiple_labels	stamp temperature [dik]	label	Stamp Temperature [dik]@en
+WARN	multiple_labels	stamp temperature [dik]	label	Stempel-Temperatur [dik]@de
+WARN	multiple_labels	stamp temperature [dik]	label	stamp temperature [dik]@en
 WARN	multiple_labels	Drehmoment [dik]	label	Drehmoment [dik]@de
 WARN	multiple_labels	Drehmoment [dik]	label	Torque [dik]@en
 WARN	multiple_labels	Drehmoment [dik]	label	torque [dik]@en
 WARN	multiple_labels	Drehmoment [om]	label	Drehmoment [om]@de
 WARN	multiple_labels	Drehmoment [om]	label	Torque [om]@en
 WARN	multiple_labels	Drehmoment [om]	label	torque [om]@en
-WARN	multiple_labels	Torque Unit [dik]	label	Drehmoment Einheit [dik]@de
-WARN	multiple_labels	Torque Unit [dik]	label	Torque Unit [dik]@en
-WARN	multiple_labels	Torque Unit [dik]	label	torque unit [dik]@en
+WARN	multiple_labels	torque unit [dik]	label	Drehmoment Einheit [dik]@de
+WARN	multiple_labels	torque unit [dik]	label	Torque Unit [dik]@en
+WARN	multiple_labels	torque unit [dik]	label	torque unit [dik]@en
 WARN	multiple_labels	Newtonmeter [dik]	label	Newtonmeter [dik]@de
 WARN	multiple_labels	Newtonmeter [dik]	label	Newtonmeter [dik]@en
-WARN	multiple_labels	rotor torque [dik]	label	Rotor Torque [dik]@en
-WARN	multiple_labels	rotor torque [dik]	label	Rotor-Drehmoment [dik]@de
-WARN	multiple_labels	rotor torque [dik]	label	rotor torque [dik]@en
+WARN	multiple_labels	Rotor Torque [dik]	label	Rotor Torque [dik]@en
+WARN	multiple_labels	Rotor Torque [dik]	label	Rotor-Drehmoment [dik]@de
+WARN	multiple_labels	Rotor Torque [dik]	label	rotor torque [dik]@en
 WARN	multiple_labels	Massetemperatur [dik]	label	Mass Temperature [dik]@en
 WARN	multiple_labels	Massetemperatur [dik]	label	Massetemperatur [dik]@de
 WARN	multiple_labels	Massetemperatur [dik]	label	mass temperature [dik]@en
@@ -1586,36 +1580,36 @@ WARN	multiple_labels	millimeter [ncit]	label	millimeter [ncit]@de
 WARN	multiple_labels	millimeter [ncit]	label	millimeter [ncit]@en
 WARN	multiple_labels	millimeter [uo]	label	millimeter [uo]@de
 WARN	multiple_labels	millimeter [uo]	label	millimeter [uo]@en
-WARN	multiple_labels	stamp distance [dik]	label	Stamp Distance [dik]@en
-WARN	multiple_labels	stamp distance [dik]	label	Stempelweg [dik]@de
-WARN	multiple_labels	stamp distance [dik]	label	stamp distance [dik]@en
-WARN	multiple_labels	addition sequence [dik]	label	Addition Sequence [dik]@en
-WARN	multiple_labels	addition sequence [dik]	label	Zugabereihenfolge [dik]@de
-WARN	multiple_labels	addition sequence [dik]	label	addition sequence [dik]@en
+WARN	multiple_labels	Stamp Distance [dik]	label	Stamp Distance [dik]@en
+WARN	multiple_labels	Stamp Distance [dik]	label	Stempelweg [dik]@de
+WARN	multiple_labels	Stamp Distance [dik]	label	stamp distance [dik]@en
+WARN	multiple_labels	Addition Sequence [dik]	label	Addition Sequence [dik]@en
+WARN	multiple_labels	Addition Sequence [dik]	label	Zugabereihenfolge [dik]@de
+WARN	multiple_labels	Addition Sequence [dik]	label	addition sequence [dik]@en
 WARN	multiple_labels	Zugabezeitpunkt [dik]	label	Time of Addition [dik]@en
 WARN	multiple_labels	Zugabezeitpunkt [dik]	label	Zugabezeitpunkt [dik]@de
 WARN	multiple_labels	Zugabezeitpunkt [dik]	label	time of addition [dik]@en
-WARN	multiple_labels	Power [dik]	label	Leistung [dik]@de
-WARN	multiple_labels	Power [dik]	label	Power [dik]@en
-WARN	multiple_labels	Power [dik]	label	power [dik]@en
+WARN	multiple_labels	Leistung [dik]	label	Leistung [dik]@de
+WARN	multiple_labels	Leistung [dik]	label	Power [dik]@en
+WARN	multiple_labels	Leistung [dik]	label	power [dik]@en
 WARN	multiple_labels	Leistung [pato]	label	Leistung [pato]@de
 WARN	multiple_labels	Leistung [pato]	label	Power [pato]@en
 WARN	multiple_labels	Leistung [pato]	label	power [pato]@en
-WARN	multiple_labels	Leistung [om]	label	Leistung [om]@de
-WARN	multiple_labels	Leistung [om]	label	Power [om]@en
-WARN	multiple_labels	Leistung [om]	label	power [om]@en
+WARN	multiple_labels	Power [om]	label	Leistung [om]@de
+WARN	multiple_labels	Power [om]	label	Power [om]@en
+WARN	multiple_labels	Power [om]	label	power [om]@en
 WARN	multiple_labels	Elektrische Leistung [dik]	label	Electrical Power [dik]@en
 WARN	multiple_labels	Elektrische Leistung [dik]	label	Elektrische Leistung [dik]@de
 WARN	multiple_labels	Elektrische Leistung [dik]	label	electrical power [dik]@en
-WARN	multiple_labels	mixing time [dik]	label	Mischzeit [dik]@de
-WARN	multiple_labels	mixing time [dik]	label	Mixing Time [dik]@en
-WARN	multiple_labels	mixing time [dik]	label	mixing time [dik]@en
+WARN	multiple_labels	Mixing Time [dik]	label	Mischzeit [dik]@de
+WARN	multiple_labels	Mixing Time [dik]	label	Mixing Time [dik]@en
+WARN	multiple_labels	Mixing Time [dik]	label	mixing time [dik]@en
 WARN	multiple_labels	Füllgrad [dik]	label	Filling Ratio [dik]@en
 WARN	multiple_labels	Füllgrad [dik]	label	Füllgrad [dik]@de
 WARN	multiple_labels	Füllgrad [dik]	label	filling ratio [dik]@en
-WARN	multiple_labels	Number of Mixing Stages [dik]	label	Mischstufenanzahl [dik]@de
-WARN	multiple_labels	Number of Mixing Stages [dik]	label	Number of Mixing Stages [dik]@en
-WARN	multiple_labels	Number of Mixing Stages [dik]	label	number of mixing stages [dik]@en
+WARN	multiple_labels	number of mixing stages [dik]	label	Mischstufenanzahl [dik]@de
+WARN	multiple_labels	number of mixing stages [dik]	label	Number of Mixing Stages [dik]@en
+WARN	multiple_labels	number of mixing stages [dik]	label	number of mixing stages [dik]@en
 WARN	multiple_labels	Mischungscharge [dik]	label	Batch [dik]@en
 WARN	multiple_labels	Mischungscharge [dik]	label	Charge [dik]@de
 WARN	multiple_labels	Mischungscharge [dik]	label	Mischungscharge [dik]@de
@@ -1630,12 +1624,12 @@ WARN	multiple_labels	Extruder [dik]	label	extruder [dik]@en
 WARN	multiple_labels	Einschneckenextruder [dik]	label	Einschneckenextruder [dik]@de
 WARN	multiple_labels	Einschneckenextruder [dik]	label	Single Screw Extruder [dik]@en
 WARN	multiple_labels	Einschneckenextruder [dik]	label	single screw extruder [dik]@en
-WARN	multiple_labels	Pin Extruder [dik]	label	Pin Extruder [dik]@en
-WARN	multiple_labels	Pin Extruder [dik]	label	Stiftextruder [dik]@de
-WARN	multiple_labels	Pin Extruder [dik]	label	pin extruder [dik]@en
-WARN	multiple_labels	pin [dik]	label	Pin [dik]@en
-WARN	multiple_labels	pin [dik]	label	Stift [dik]@de
-WARN	multiple_labels	pin [dik]	label	pin [dik]@en
+WARN	multiple_labels	pin extruder [dik]	label	Pin Extruder [dik]@en
+WARN	multiple_labels	pin extruder [dik]	label	Stiftextruder [dik]@de
+WARN	multiple_labels	pin extruder [dik]	label	pin extruder [dik]@en
+WARN	multiple_labels	Pin [dik]	label	Pin [dik]@en
+WARN	multiple_labels	Pin [dik]	label	Stift [dik]@de
+WARN	multiple_labels	Pin [dik]	label	pin [dik]@en
 WARN	multiple_labels	Screw [dik]	label	Kautschukextruderschnecke [dik]@de
 WARN	multiple_labels	Screw [dik]	label	Schnecke [dik]@de
 WARN	multiple_labels	Screw [dik]	label	Screw [dik]@en
@@ -1647,12 +1641,12 @@ WARN	multiple_labels	Die [dik]	label	extruder die [dik]@en
 WARN	multiple_labels	extrudate [dik]	label	Extrudat [dik]@de
 WARN	multiple_labels	extrudate [dik]	label	Extrudate [dik]@en
 WARN	multiple_labels	extrudate [dik]	label	extrudate [dik]@en
-WARN	multiple_labels	Extruder Head [dik]	label	Extruder Head [dik]@en
-WARN	multiple_labels	Extruder Head [dik]	label	Extruderkopf [dik]@de
-WARN	multiple_labels	Extruder Head [dik]	label	extruder head [dik]@en
-WARN	multiple_labels	extrusion [dik]	label	Extrudieren [dik]@de
-WARN	multiple_labels	extrusion [dik]	label	Extrusion [dik]@en
-WARN	multiple_labels	extrusion [dik]	label	extrusion [dik]@en
+WARN	multiple_labels	extruder head [dik]	label	Extruder Head [dik]@en
+WARN	multiple_labels	extruder head [dik]	label	Extruderkopf [dik]@de
+WARN	multiple_labels	extruder head [dik]	label	extruder head [dik]@en
+WARN	multiple_labels	Extrusion [dik]	label	Extrudieren [dik]@de
+WARN	multiple_labels	Extrusion [dik]	label	Extrusion [dik]@en
+WARN	multiple_labels	Extrusion [dik]	label	extrusion [dik]@en
 WARN	multiple_labels	Extrudieren [rex]	label	Extrudieren [rex]@de
 WARN	multiple_labels	Extrudieren [rex]	label	Extrusion [rex]@en
 WARN	multiple_labels	Extrudieren [rex]	label	extrusion [rex]@en
@@ -1675,18 +1669,18 @@ WARN	multiple_labels	Massedurchsatz [dik]	label	mass throughput [dik]@en
 WARN	multiple_labels	pressure variation [dik]	label	Druckschwankung [dik]@de
 WARN	multiple_labels	pressure variation [dik]	label	Pressure Variation [dik]@en
 WARN	multiple_labels	pressure variation [dik]	label	pressure variation [dik]@en
-WARN	multiple_labels	Geometry Variation [dik]	label	Geometrieschwankung [dik]@de
-WARN	multiple_labels	Geometry Variation [dik]	label	Geometry Variation [dik]@en
-WARN	multiple_labels	Geometry Variation [dik]	label	geometry variation [dik]@en
-WARN	multiple_labels	surface [dik]	label	Oberfläche [dik]@de
-WARN	multiple_labels	surface [dik]	label	Surface [dik]@en
-WARN	multiple_labels	surface [dik]	label	surface [dik]@en
+WARN	multiple_labels	geometry variation [dik]	label	Geometrieschwankung [dik]@de
+WARN	multiple_labels	geometry variation [dik]	label	Geometry Variation [dik]@en
+WARN	multiple_labels	geometry variation [dik]	label	geometry variation [dik]@en
+WARN	multiple_labels	Surface [dik]	label	Oberfläche [dik]@de
+WARN	multiple_labels	Surface [dik]	label	Surface [dik]@en
+WARN	multiple_labels	Surface [dik]	label	surface [dik]@en
 WARN	multiple_labels	Oberfläche [ncit]	label	Oberfläche [ncit]@de
 WARN	multiple_labels	Oberfläche [ncit]	label	Surface [ncit]@en
 WARN	multiple_labels	Oberfläche [ncit]	label	surface [ncit]@en
-WARN	multiple_labels	Surface Defect [dik]	label	Oberflächenfehler [dik]@de
-WARN	multiple_labels	Surface Defect [dik]	label	Surface Defect [dik]@en
-WARN	multiple_labels	Surface Defect [dik]	label	surface defect [dik]@en
+WARN	multiple_labels	surface defect [dik]	label	Oberflächenfehler [dik]@de
+WARN	multiple_labels	surface defect [dik]	label	Surface Defect [dik]@en
+WARN	multiple_labels	surface defect [dik]	label	surface defect [dik]@en
 WARN	multiple_labels	Oberflächentemperatur [dik]	label	Oberflächentemperatur [dik]@de
 WARN	multiple_labels	Oberflächentemperatur [dik]	label	Surface Temperature [dik]@en
 WARN	multiple_labels	Oberflächentemperatur [dik]	label	surface temperature [dik]@en
@@ -1701,32 +1695,32 @@ WARN	multiple_labels	Pressure [pato]	label	Pressure [pato]@en
 WARN	multiple_labels	Druck [om]	label	Druck [om]@de
 WARN	multiple_labels	Druck [om]	label	Pressure [om]@en
 WARN	multiple_labels	Druck [om]	label	pressure [om]@en
-WARN	multiple_labels	die geometry [dik]	label	Die Geometry [dik]@en
-WARN	multiple_labels	die geometry [dik]	label	Schablonengeometrie [dik]@de
-WARN	multiple_labels	die geometry [dik]	label	die geometry [dik]@en
-WARN	multiple_labels	Extrudate Cross Section [dik]	label	Extrudate Cross Section [dik]@en
-WARN	multiple_labels	Extrudate Cross Section [dik]	label	Extrudatquerschnitt [dik]@de
-WARN	multiple_labels	Extrudate Cross Section [dik]	label	extrudate cross section [dik]@en
+WARN	multiple_labels	Die Geometry [dik]	label	Die Geometry [dik]@en
+WARN	multiple_labels	Die Geometry [dik]	label	Schablonengeometrie [dik]@de
+WARN	multiple_labels	Die Geometry [dik]	label	die geometry [dik]@en
+WARN	multiple_labels	extrudate cross section [dik]	label	Extrudate Cross Section [dik]@en
+WARN	multiple_labels	extrudate cross section [dik]	label	Extrudatquerschnitt [dik]@de
+WARN	multiple_labels	extrudate cross section [dik]	label	extrudate cross section [dik]@en
 WARN	multiple_labels	Sensor [dik]	label	Sensor [dik]@de
 WARN	multiple_labels	Sensor [dik]	label	Sensor [dik]@en
 WARN	multiple_labels	Sensor [dik]	label	sensor [dik]@en
-WARN	multiple_labels	Sensor [sosa]	label	Sensor [sosa]@de
-WARN	multiple_labels	Sensor [sosa]	label	Sensor [sosa]@en
-WARN	multiple_labels	Sensor [sosa]	label	sensor [sosa]@en
+WARN	multiple_labels	sensor [sosa]	label	Sensor [sosa]@de
+WARN	multiple_labels	sensor [sosa]	label	Sensor [sosa]@en
+WARN	multiple_labels	sensor [sosa]	label	sensor [sosa]@en
 WARN	multiple_labels	Sensor [chmo]	label	Sensor [chmo]@de
 WARN	multiple_labels	Sensor [chmo]	label	Sensor [chmo]@en
 WARN	multiple_labels	Sensor [chmo]	label	sensor [chmo]@en
-WARN	multiple_labels	Temperature Measuring Sword [dik]	label	Temperature Measuring Sword [dik]@en
-WARN	multiple_labels	Temperature Measuring Sword [dik]	label	Temperaturmessschwert [dik]@de
-WARN	multiple_labels	Temperature Measuring Sword [dik]	label	temperature measuring sword [dik]@en
+WARN	multiple_labels	temperature measuring sword [dik]	label	Temperature Measuring Sword [dik]@en
+WARN	multiple_labels	temperature measuring sword [dik]	label	Temperaturmessschwert [dik]@de
+WARN	multiple_labels	temperature measuring sword [dik]	label	temperature measuring sword [dik]@en
 WARN	multiple_labels	Pressure Sensor [dik]	label	Drucksensor [dik]@de
 WARN	multiple_labels	Pressure Sensor [dik]	label	Pressure Sensor [dik]@en
 WARN	multiple_labels	Temperatursensor [dik]	label	Temperature Sensor [dik]@en
 WARN	multiple_labels	Temperatursensor [dik]	label	Temperatursensor [dik]@de
 WARN	multiple_labels	Temperatursensor [dik]	label	temperature sensor [dik]@en
-WARN	multiple_labels	Gearbox [dik]	label	Gearbox [dik]@en
-WARN	multiple_labels	Gearbox [dik]	label	Getriebe [dik]@de
-WARN	multiple_labels	Gearbox [dik]	label	gearbox [dik]@en
+WARN	multiple_labels	gearbox [dik]	label	Gearbox [dik]@en
+WARN	multiple_labels	gearbox [dik]	label	Getriebe [dik]@de
+WARN	multiple_labels	gearbox [dik]	label	gearbox [dik]@en
 WARN	multiple_labels	Motor [dik]	label	Engine [dik]@en
 WARN	multiple_labels	Motor [dik]	label	Motor [dik]@de
 WARN	multiple_labels	Motor [dik]	label	engine [dik]@en
@@ -1751,9 +1745,9 @@ WARN	multiple_labels	Speisewalzen-Temperatursteuergerät [dik]	label	feeding rol
 WARN	multiple_labels	Speisewalzen-Temperatur [dik]	label	Feeding Roll Temperature [dik]@en
 WARN	multiple_labels	Speisewalzen-Temperatur [dik]	label	Speisewalzen-Temperatur [dik]@de
 WARN	multiple_labels	Speisewalzen-Temperatur [dik]	label	feeding roll temperature [dik]@en
-WARN	multiple_labels	Screw Temperature Control Unit [dik]	label	Schnecken-Temperatursteuergerät [dik]@de
-WARN	multiple_labels	Screw Temperature Control Unit [dik]	label	Screw Temperature Control Unit [dik]@en
-WARN	multiple_labels	Screw Temperature Control Unit [dik]	label	screw temperature control unit [dik]@en
+WARN	multiple_labels	screw temperature control unit [dik]	label	Schnecken-Temperatursteuergerät [dik]@de
+WARN	multiple_labels	screw temperature control unit [dik]	label	Screw Temperature Control Unit [dik]@en
+WARN	multiple_labels	screw temperature control unit [dik]	label	screw temperature control unit [dik]@en
 WARN	multiple_labels	Schnecken-Temperatur [dik]	label	Schnecken-Temperatur [dik]@de
 WARN	multiple_labels	Schnecken-Temperatur [dik]	label	Screw Temperature [dik]@en
 WARN	multiple_labels	Schnecken-Temperatur [dik]	label	screw temperature [dik]@en
@@ -1763,9 +1757,9 @@ WARN	multiple_labels	Einzugszonen-Temperatursteuergerät [dik]	label	feeding zon
 WARN	multiple_labels	Einzugszonen-Temperatur [dik]	label	Einzugszonen-Temperatur [dik]@de
 WARN	multiple_labels	Einzugszonen-Temperatur [dik]	label	Feeding Zone Temperature [dik]@en
 WARN	multiple_labels	Einzugszonen-Temperatur [dik]	label	feeding zone temperature [dik]@en
-WARN	multiple_labels	pin zone temperature control unit [dik]	label	Pin Zone Temperature Control Unit [dik]@en
-WARN	multiple_labels	pin zone temperature control unit [dik]	label	Stiftzonen-Temperatursteuergerät [dik]@de
-WARN	multiple_labels	pin zone temperature control unit [dik]	label	pin zone temperature control unit [dik]@en
+WARN	multiple_labels	Stiftzonen-Temperatursteuergerät [dik]	label	Pin Zone Temperature Control Unit [dik]@en
+WARN	multiple_labels	Stiftzonen-Temperatursteuergerät [dik]	label	Stiftzonen-Temperatursteuergerät [dik]@de
+WARN	multiple_labels	Stiftzonen-Temperatursteuergerät [dik]	label	pin zone temperature control unit [dik]@en
 WARN	multiple_labels	Stiftzonen-Temperatur [dik]	label	Pin Zone Temperature [dik]@en
 WARN	multiple_labels	Stiftzonen-Temperatur [dik]	label	Stiftzonen-Temperatur [dik]@de
 WARN	multiple_labels	Stiftzonen-Temperatur [dik]	label	pin zone temperature [dik]@en
@@ -1781,36 +1775,35 @@ WARN	multiple_labels	Vulkanisationszeit [dik]	label	vulcanization time [dik]@en
 WARN	multiple_labels	Vernetzungsdichte [dik]	label	Crosslink Density [dik]@en
 WARN	multiple_labels	Vernetzungsdichte [dik]	label	Vernetzungsdichte [dik]@de
 WARN	multiple_labels	Vernetzungsdichte [dik]	label	crosslink density [dik]@en
-WARN	multiple_labels	Vulcanizate [dik]	label	Vulcanizate [dik]@en
-WARN	multiple_labels	Vulcanizate [dik]	label	Vulkanisat [dik]@de
-WARN	multiple_labels	Vulcanizate [dik]	label	vulcanizate [dik]@en
+WARN	multiple_labels	vulcanizate [dik]	label	Vulcanizate [dik]@en
+WARN	multiple_labels	vulcanizate [dik]	label	Vulkanisat [dik]@de
+WARN	multiple_labels	vulcanizate [dik]	label	vulcanizate [dik]@en
 WARN	multiple_labels	crosslink [dik]	label	Crosslink [dik]@en
 WARN	multiple_labels	crosslink [dik]	label	Vernetzung [dik]@de
 WARN	multiple_labels	crosslink [dik]	label	crosslink [dik]@en
-WARN	multiple_labels	Crosslink [ncit]	label	Crosslink [ncit]@en
-WARN	multiple_labels	Crosslink [ncit]	label	Vernetzung [ncit]@de
-WARN	multiple_labels	Crosslink [ncit]	label	crosslink [ncit]@en
+WARN	multiple_labels	crosslink [ncit]	label	Crosslink [ncit]@en
+WARN	multiple_labels	crosslink [ncit]	label	Vernetzung [ncit]@de
+WARN	multiple_labels	crosslink [ncit]	label	crosslink [ncit]@en
 WARN	multiple_labels	Vernetzen [dik]	label	Crosslinking [dik]@en
 WARN	multiple_labels	Vernetzen [dik]	label	Vernetzen [dik]@de
 WARN	multiple_labels	Vernetzen [dik]	label	crosslinking [dik]@en
-WARN	multiple_labels	state of cure [dik]	label	State of Cure [dik]@en
-WARN	multiple_labels	state of cure [dik]	label	Vernetzungsgrad [dik]@de
-WARN	multiple_labels	state of cure [dik]	label	state of cure [dik]@en
-WARN	multiple_labels	vulcanization [dik]	label	Vulcanization [dik]@en
-WARN	multiple_labels	vulcanization [dik]	label	Vulkanisation [dik]@de
-WARN	multiple_labels	vulcanization [dik]	label	vulcanization [dik]@en
+WARN	multiple_labels	State of Cure [dik]	label	State of Cure [dik]@en
+WARN	multiple_labels	State of Cure [dik]	label	Vernetzungsgrad [dik]@de
+WARN	multiple_labels	State of Cure [dik]	label	state of cure [dik]@en
+WARN	multiple_labels	Vulcanization [dik]	label	Vulcanization [dik]@en
+WARN	multiple_labels	Vulcanization [dik]	label	Vulkanisation [dik]@de
+WARN	multiple_labels	Vulcanization [dik]	label	vulcanization [dik]@en
 WARN	multiple_labels	Autoklav [dik]	label	Autoclave [dik]@en
 WARN	multiple_labels	Autoklav [dik]	label	Autoklav [dik]@de
 WARN	multiple_labels	Autoklav [dik]	label	autoclave [dik]@en
-WARN	multiple_labels	Autoclave[obi]	label	Autoclave[obi]@en
-WARN	multiple_labels	Autoclave[obi]	label	Autoklav [obi]@de
-WARN	multiple_labels	Autoclave[obi]	label	autoclave [obi]@en
-WARN	multiple_labels	Autoclave [chmo]	label	Autoclave [chmo]@en
-WARN	multiple_labels	Autoclave [chmo]	label	Autoklav [chmo]@de
-WARN	multiple_labels	Autoclave [chmo]	label	autoclave [chmo]@en
-WARN	multiple_labels	Plateau Cure [dik]	label	Plateau Cure [dik]@en
-WARN	multiple_labels	Plateau Cure [dik]	label	Vulkanisationsplateau [dik]@de
-WARN	multiple_labels	Plateau Cure [dik]	label	plateau cure [dik]@en
+WARN	multiple_labels	Autoklav [obi]	label	Autoclave[obi]@en
+WARN	multiple_labels	Autoklav [obi]	label	Autoklav [obi]@de
+WARN	multiple_labels	autoclave [chmo]	label	Autoclave [chmo]@en
+WARN	multiple_labels	autoclave [chmo]	label	Autoklav [chmo]@de
+WARN	multiple_labels	autoclave [chmo]	label	autoclave [chmo]@en
+WARN	multiple_labels	plateau cure [dik]	label	Plateau Cure [dik]@en
+WARN	multiple_labels	plateau cure [dik]	label	Vulkanisationsplateau [dik]@de
+WARN	multiple_labels	plateau cure [dik]	label	plateau cure [dik]@en
 WARN	multiple_labels	Vulkanisationsoptimum [dik]	label	Optimum Cure [dik]@en
 WARN	multiple_labels	Vulkanisationsoptimum [dik]	label	Vulkanisationsoptimum [dik]@de
 WARN	multiple_labels	Vulkanisationsoptimum [dik]	label	optimum cure [dik]@en
@@ -1832,15 +1825,14 @@ WARN	multiple_labels	sample [nmrcv]	label	sample [nmrcv]@en
 WARN	multiple_labels	Prüfkörper [dik]	label	Prüfkörper [dik]@de
 WARN	multiple_labels	Prüfkörper [dik]	label	Test Piece [dik]@en
 WARN	multiple_labels	Prüfkörper [dik]	label	test piece [dik]@en
-WARN	multiple_labels	scrap rubber [dik]	label	Gummiabfall [dik]@de
-WARN	multiple_labels	scrap rubber [dik]	label	Scrap Rubber [dik]@en
-WARN	multiple_labels	scrap rubber [dik]	label	scrap rubber [dik]@en
+WARN	multiple_labels	Gummiabfall [dik]	label	Gummiabfall [dik]@de
+WARN	multiple_labels	Gummiabfall [dik]	label	Scrap Rubber [dik]@en
+WARN	multiple_labels	Gummiabfall [dik]	label	scrap rubber [dik]@en
 WARN	multiple_labels	factory scrap [dik]	label	Factory Scrap [dik]@en
 WARN	multiple_labels	factory scrap [dik]	label	Produktionsabfall [dik]@de
 WARN	multiple_labels	factory scrap [dik]	label	factory scrap [dik]@en
-WARN	multiple_labels	Qualität des physischen Objekts [dik]	label	Physical Object Quality [dik]@en
-WARN	multiple_labels	Qualität des physischen Objekts [dik]	label	Qualität des physischen Objekts [dik]@de
-WARN	multiple_labels	Qualität des physischen Objekts [dik]	label	physical object quality [dik]@en
+WARN	multiple_labels	Physical Object Quality [dik]	label	Physical Object Quality [dik]@en
+WARN	multiple_labels	Physical Object Quality [dik]	label	Qualität des physischen Objekts [dik]@de
 WARN	multiple_labels	Physical Object Quality [pato]	label	Physical Object Quality [pato]@en
 WARN	multiple_labels	Physical Object Quality [pato]	label	Qualität des physischen Objekts [pato]@de
 WARN	multiple_labels	physical quality [dik]	label	Physical Quality [dik]@en
@@ -1848,14 +1840,13 @@ WARN	multiple_labels	physical quality [dik]	label	physical quality [dik]@en
 WARN	multiple_labels	physical quality [dik]	label	physikalische Qualität [dik]@de
 WARN	multiple_labels	Physical Quality [pato]	label	Physical Quality [pato]@en
 WARN	multiple_labels	Physical Quality [pato]	label	physikalische Qualität [pato]@de
-WARN	multiple_labels	measurement unit label [dik]	label	Label der Messeinheit [dik]@de
-WARN	multiple_labels	measurement unit label [dik]	label	Measurement Unit Label [dik]@en
-WARN	multiple_labels	measurement unit label [dik]	label	measurement unit label [dik]@en
+WARN	multiple_labels	Label der Messeinheit [dik]	label	Label der Messeinheit [dik]@de
+WARN	multiple_labels	Label der Messeinheit [dik]	label	Measurement Unit Label [dik]@en
 WARN	multiple_labels	Label der Messeinheit [pato]	label	Label der Messeinheit [pato]@de
 WARN	multiple_labels	Label der Messeinheit [pato]	label	Measurement Unit Label [pato]@en
-WARN	multiple_labels	Datum Label [dik]	label	Bezugspunkt-Label [dik]@de
-WARN	multiple_labels	Datum Label [dik]	label	Datum Label [dik]@en
-WARN	multiple_labels	Datum Label [dik]	label	datum label [dik]@en
+WARN	multiple_labels	datum label [dik]	label	Bezugspunkt-Label [dik]@de
+WARN	multiple_labels	datum label [dik]	label	Datum Label [dik]@en
+WARN	multiple_labels	datum label [dik]	label	datum label [dik]@en
 WARN	multiple_labels	Bezugspunkt-Label [iao]	label	Bezugspunkt-Label [iao]@de
 WARN	multiple_labels	Bezugspunkt-Label [iao]	label	Datum Label [iao]@en
 WARN	multiple_labels	Prüfung [dik]	label	Assay [dik]@en
@@ -1881,30 +1872,30 @@ WARN	multiple_labels	Massendichte [pato]	label	mass density [pato]@en
 WARN	multiple_labels	mass density unit [dik]	label	Mass Density Unit [dik]@en
 WARN	multiple_labels	mass density unit [dik]	label	Massendichte Einheit [dik]@de
 WARN	multiple_labels	mass density unit [dik]	label	mass density unit [dik]@en
-WARN	multiple_labels	Mass Density Unit [uo]	label	Mass Density Unit [uo]@en
-WARN	multiple_labels	Mass Density Unit [uo]	label	Massendichte Einheit [uo]@de
-WARN	multiple_labels	Mass Density Unit [uo]	label	mass density unit [uo]@en
+WARN	multiple_labels	mass density unit [uo]	label	Mass Density Unit [uo]@en
+WARN	multiple_labels	mass density unit [uo]	label	Massendichte Einheit [uo]@de
+WARN	multiple_labels	mass density unit [uo]	label	mass density unit [uo]@en
 WARN	multiple_labels	Unit Of Mass Density [ncit]	label	Massendichte Einheit [ncit]@de
 WARN	multiple_labels	Unit Of Mass Density [ncit]	label	Unit Of Mass Density [ncit]@en
 WARN	multiple_labels	Unit Of Mass Density [ncit]	label	unit of mass density [ncit]@en
 WARN	multiple_labels	Gramm pro Kubikzentimeter [dik]	label	Gram Per Cubic Centimeter [dik]@en
 WARN	multiple_labels	Gramm pro Kubikzentimeter [dik]	label	Gramm pro Kubikzentimeter [dik]@de
 WARN	multiple_labels	Gramm pro Kubikzentimeter [dik]	label	gram per cubic centimeter [dik]@en
-WARN	multiple_labels	gram per cubic centimeter [uo]	label	Gram Per Cubic Centimeter [uo]@en
-WARN	multiple_labels	gram per cubic centimeter [uo]	label	Gramm pro Kubikzentimeter [uo]@de
-WARN	multiple_labels	gram per cubic centimeter [uo]	label	gram per cubic centimeter [uo]@en
-WARN	multiple_labels	Prüfung zur Viskositätsmessung [dik]	label	Prüfung zur Viskositätsmessung [dik]@de
-WARN	multiple_labels	Prüfung zur Viskositätsmessung [dik]	label	Viscosity Measurement Assay [dik]@en
-WARN	multiple_labels	Prüfung zur Viskositätsmessung [dik]	label	viscosity measurement assay [dik]@en
+WARN	multiple_labels	Gram Per Cubic Centimeter [uo]	label	Gram Per Cubic Centimeter [uo]@en
+WARN	multiple_labels	Gram Per Cubic Centimeter [uo]	label	Gramm pro Kubikzentimeter [uo]@de
+WARN	multiple_labels	Gram Per Cubic Centimeter [uo]	label	gram per cubic centimeter [uo]@en
+WARN	multiple_labels	Viscosity Measurement Assay [dik]	label	Prüfung zur Viskositätsmessung [dik]@de
+WARN	multiple_labels	Viscosity Measurement Assay [dik]	label	Viscosity Measurement Assay [dik]@en
+WARN	multiple_labels	Viscosity Measurement Assay [dik]	label	viscosity measurement assay [dik]@en
 WARN	multiple_labels	Prüfung zur Mooney-Viskositätsmessung [dik]	label	Mooney Viscosity Measurement Assay [dik]@en
 WARN	multiple_labels	Prüfung zur Mooney-Viskositätsmessung [dik]	label	Mooney viscosity measurement assay [dik]@en
 WARN	multiple_labels	Prüfung zur Mooney-Viskositätsmessung [dik]	label	Prüfung zur Mooney-Viskositätsmessung [dik]@de
-WARN	multiple_labels	Viscosity [dik]	label	Viscosity [dik]@en
-WARN	multiple_labels	Viscosity [dik]	label	Viskosität [dik]@de
-WARN	multiple_labels	Viscosity [dik]	label	viscosity [dik]@en
-WARN	multiple_labels	Viscosity [ncit]	label	Viscosity [ncit]@en
-WARN	multiple_labels	Viscosity [ncit]	label	Viskosität [ncit]@de
-WARN	multiple_labels	Viscosity [ncit]	label	viscosity [ncit]@en
+WARN	multiple_labels	viscosity [dik]	label	Viscosity [dik]@en
+WARN	multiple_labels	viscosity [dik]	label	Viskosität [dik]@de
+WARN	multiple_labels	viscosity [dik]	label	viscosity [dik]@en
+WARN	multiple_labels	viscosity [ncit]	label	Viscosity [ncit]@en
+WARN	multiple_labels	viscosity [ncit]	label	Viskosität [ncit]@de
+WARN	multiple_labels	viscosity [ncit]	label	viscosity [ncit]@en
 WARN	multiple_labels	Viskosität [pato]	label	Viscosity [pato]@en
 WARN	multiple_labels	Viskosität [pato]	label	Viskosität [pato]@de
 WARN	multiple_labels	Viskosität [pato]	label	viscosity [pato]@en
@@ -1917,25 +1908,25 @@ WARN	multiple_labels	Viskositätseinheit [dik]	label	viscosity unit [dik]@en
 WARN	multiple_labels	Viskositätseinheit [uo]	label	Viscosity Unit [uo]@en
 WARN	multiple_labels	Viskositätseinheit [uo]	label	Viskositätseinheit [uo]@de
 WARN	multiple_labels	Viskositätseinheit [uo]	label	viscosity unit [uo]@en
-WARN	multiple_labels	Mooney viscosity unit [dik]	label	Mooney Viscosity Unit [dik]@en
-WARN	multiple_labels	Mooney viscosity unit [dik]	label	Mooney Viskositätseinheit [dik]@de
-WARN	multiple_labels	Mooney viscosity unit [dik]	label	Mooney viscosity unit [dik]@en
-WARN	multiple_labels	Mooney Einheit [dik]	label	Mooney Einheit [dik]@de
-WARN	multiple_labels	Mooney Einheit [dik]	label	Mooney Unit [dik]@en
-WARN	multiple_labels	Mooney Einheit [dik]	label	Mooney unit [dik]@en
+WARN	multiple_labels	Mooney Viscosity Unit [dik]	label	Mooney Viscosity Unit [dik]@en
+WARN	multiple_labels	Mooney Viscosity Unit [dik]	label	Mooney Viskositätseinheit [dik]@de
+WARN	multiple_labels	Mooney Viscosity Unit [dik]	label	Mooney viscosity unit [dik]@en
+WARN	multiple_labels	Mooney unit [dik]	label	Mooney Einheit [dik]@de
+WARN	multiple_labels	Mooney unit [dik]	label	Mooney Unit [dik]@en
+WARN	multiple_labels	Mooney unit [dik]	label	Mooney unit [dik]@en
 WARN	multiple_labels	Qualität eines Stoffes [dik]	label	Quality of a Substance [dik]@en
 WARN	multiple_labels	Qualität eines Stoffes [dik]	label	Qualität eines Stoffes [dik]@de
 WARN	multiple_labels	Qualität eines Stoffes [dik]	label	quality of a substance [dik]@en
 WARN	multiple_labels	Qualität eines Stoffes [pato]	label	Quality of a Substance [pato]@en
 WARN	multiple_labels	Qualität eines Stoffes [pato]	label	Qualität eines Stoffes [pato]@de
-WARN	multiple_labels	Quality of a Liquid [dik]	label	Quality of a Liquid [dik]@en
-WARN	multiple_labels	Quality of a Liquid [dik]	label	Qualität einer Flüssigkeit [dik]@de
-WARN	multiple_labels	Quality of a Liquid [dik]	label	quality of a liquid [dik]@en
+WARN	multiple_labels	quality of a liquid [dik]	label	Quality of a Liquid [dik]@en
+WARN	multiple_labels	quality of a liquid [dik]	label	Qualität einer Flüssigkeit [dik]@de
+WARN	multiple_labels	quality of a liquid [dik]	label	quality of a liquid [dik]@en
 WARN	multiple_labels	Qualität einer Flüssigkeit [pato]	label	Quality of a Liquid [pato]@en
 WARN	multiple_labels	Qualität einer Flüssigkeit [pato]	label	Qualität einer Flüssigkeit [pato]@de
-WARN	multiple_labels	protocol [dik]	label	Protocol [dik]@en
-WARN	multiple_labels	protocol [dik]	label	Protokoll [dik]@de
-WARN	multiple_labels	protocol [dik]	label	protocol [dik]@en
+WARN	multiple_labels	Protocol [dik]	label	Protocol [dik]@en
+WARN	multiple_labels	Protocol [dik]	label	Protokoll [dik]@de
+WARN	multiple_labels	Protocol [dik]	label	protocol [dik]@en
 WARN	multiple_labels	Protokoll [ncit]	label	Protocol [ncit]@en
 WARN	multiple_labels	Protokoll [ncit]	label	Protokoll [ncit]@de
 WARN	multiple_labels	Protokoll [ncit]	label	protocol [ncit]@en
@@ -1944,9 +1935,9 @@ WARN	multiple_labels	Protokoll [obi]	label	Protokoll [obi]@de
 WARN	multiple_labels	Protokoll [edam]	label	Protocol [edam]@en
 WARN	multiple_labels	Protokoll [edam]	label	Protokoll [edam]@de
 WARN	multiple_labels	Protokoll [edam]	label	protocol [edam]@en
-WARN	multiple_labels	Measurement Protocol [dik]	label	Measurement Protocol [dik]@en
-WARN	multiple_labels	Measurement Protocol [dik]	label	Messprotokoll [dik]@de
-WARN	multiple_labels	Measurement Protocol [dik]	label	measurement protocol [dik]@en
+WARN	multiple_labels	measurement protocol [dik]	label	Measurement Protocol [dik]@en
+WARN	multiple_labels	measurement protocol [dik]	label	Messprotokoll [dik]@de
+WARN	multiple_labels	measurement protocol [dik]	label	measurement protocol [dik]@en
 WARN	multiple_labels	material processing protocol [dik]	label	Material Processing Protocol [dik]@en
 WARN	multiple_labels	material processing protocol [dik]	label	Materialverarbeitungsprotokoll [dik]@de
 WARN	multiple_labels	material processing protocol [dik]	label	material processing protocol [dik]@en
@@ -1959,9 +1950,9 @@ WARN	multiple_labels	Protokoll zur Dichtemessung [dik]	label	density measurement
 WARN	multiple_labels	Viscosity Measurement Protocol [dik]	label	Protokoll zur Viskositätsmessung [dik]@de
 WARN	multiple_labels	Viscosity Measurement Protocol [dik]	label	Viscosity Measurement Protocol [dik]@en
 WARN	multiple_labels	Viscosity Measurement Protocol [dik]	label	viscosity measurement protocol [dik]@en
-WARN	multiple_labels	Mooney Viscosity Measurement Protocol [dik]	label	Mooney Viscosity Measurement Protocol [dik]@en
-WARN	multiple_labels	Mooney Viscosity Measurement Protocol [dik]	label	Mooney viscosity measurement protocol [dik]@en
-WARN	multiple_labels	Mooney Viscosity Measurement Protocol [dik]	label	Protokoll zur Mooney-Viskositätsmessung [dik]@de
+WARN	multiple_labels	Protokoll zur Mooney-Viskositätsmessung [dik]	label	Mooney Viscosity Measurement Protocol [dik]@en
+WARN	multiple_labels	Protokoll zur Mooney-Viskositätsmessung [dik]	label	Mooney viscosity measurement protocol [dik]@en
+WARN	multiple_labels	Protokoll zur Mooney-Viskositätsmessung [dik]	label	Protokoll zur Mooney-Viskositätsmessung [dik]@de
 WARN	multiple_labels	Grad Celsius [dik]	label	Degree Celsius [dik]@en
 WARN	multiple_labels	Grad Celsius [dik]	label	Grad Celsius [dik]@de
 WARN	multiple_labels	Grad Celsius [dik]	label	degree Celsius [dik]@en
@@ -1979,14 +1970,14 @@ WARN	multiple_labels	material processing [dik]	label	Materialverarbeitung [dik]@
 WARN	multiple_labels	material processing [dik]	label	material processing [dik]@en
 WARN	multiple_labels	Materialverarbeitung [obi]	label	Material Processing [obi]@en
 WARN	multiple_labels	Materialverarbeitung [obi]	label	Materialverarbeitung [obi]@de
-WARN	multiple_labels	Function [dik]	label	Function [dik]@en
-WARN	multiple_labels	Function [dik]	label	Funktion [dik]@de
-WARN	multiple_labels	Function [dik]	label	function [dik]@en
-WARN	multiple_labels	function [ncit]	label	Function [ncit]@en
-WARN	multiple_labels	function [ncit]	label	Funktion [ncit]@de
-WARN	multiple_labels	function [ncit]	label	function [ncit]@en
-WARN	multiple_labels	Function [mi]	label	Function [mi]@en
-WARN	multiple_labels	Function [mi]	label	Funktion [mi]@de
+WARN	multiple_labels	function [dik]	label	Function [dik]@en
+WARN	multiple_labels	function [dik]	label	Funktion [dik]@de
+WARN	multiple_labels	function [dik]	label	function [dik]@en
+WARN	multiple_labels	Function [ncit]	label	Function [ncit]@en
+WARN	multiple_labels	Function [ncit]	label	Funktion [ncit]@de
+WARN	multiple_labels	Function [ncit]	label	function [ncit]@en
+WARN	multiple_labels	Funktion [mi]	label	Function [mi]@en
+WARN	multiple_labels	Funktion [mi]	label	Funktion [mi]@de
 WARN	multiple_labels	Gerät [dik]	label	Device [dik]@en
 WARN	multiple_labels	Gerät [dik]	label	Gerät [dik]@de
 WARN	multiple_labels	Gerät [dik]	label	device [dik]@en
@@ -1995,12 +1986,12 @@ WARN	multiple_labels	Gerät [ncit]	label	Gerät [ncit]@de
 WARN	multiple_labels	Gerät [ncit]	label	device [ncit]@en
 WARN	multiple_labels	Gerät [obi]	label	Device [obi]@en
 WARN	multiple_labels	Gerät [obi]	label	Gerät [obi]@de
-WARN	multiple_labels	measurement device [dik]	label	Measurement Device [dik]@en
-WARN	multiple_labels	measurement device [dik]	label	Messgerät [dik]@de
-WARN	multiple_labels	measurement device [dik]	label	measurement device [dik]@en
-WARN	multiple_labels	measurement device [ncit]	label	Measurement Device [ncit]@en
-WARN	multiple_labels	measurement device [ncit]	label	Messgerät [ncit]@de
-WARN	multiple_labels	measurement device [ncit]	label	measurement device [ncit]@en
+WARN	multiple_labels	Measurement Device [dik]	label	Measurement Device [dik]@en
+WARN	multiple_labels	Measurement Device [dik]	label	Messgerät [dik]@de
+WARN	multiple_labels	Measurement Device [dik]	label	measurement device [dik]@en
+WARN	multiple_labels	Measurement Device [ncit]	label	Measurement Device [ncit]@en
+WARN	multiple_labels	Measurement Device [ncit]	label	Messgerät [ncit]@de
+WARN	multiple_labels	Measurement Device [ncit]	label	measurement device [ncit]@en
 WARN	multiple_labels	Measurement Device [obi]	label	Measurement Device [obi]@en
 WARN	multiple_labels	Measurement Device [obi]	label	Messgerät [obi]@de
 WARN	multiple_labels	verarbeitetes Material [dik]	label	Processed Material [dik]@en
@@ -2016,9 +2007,9 @@ WARN	multiple_labels	Mischen [chmo]	label	Mixing [chmo]@en
 WARN	multiple_labels	Mischen [chmo]	label	mixing [chmo]@en
 WARN	multiple_labels	(Mix) [ncit]	label	(Mix) [ncit]@en
 WARN	multiple_labels	(Mix) [ncit]	label	Mischen [ncit]@de
-WARN	multiple_labels	iodine adsorption number [dik]	label	Iodine Adsorption Number [dik]@en
-WARN	multiple_labels	iodine adsorption number [dik]	label	Jodadsorptionszahl [dik]@de
-WARN	multiple_labels	iodine adsorption number [dik]	label	iodine adsorption number [dik]@en
+WARN	multiple_labels	Iodine Adsorption Number [dik]	label	Iodine Adsorption Number [dik]@en
+WARN	multiple_labels	Iodine Adsorption Number [dik]	label	Jodadsorptionszahl [dik]@de
+WARN	multiple_labels	Iodine Adsorption Number [dik]	label	iodine adsorption number [dik]@en
 WARN	multiple_labels	specific surface [dik]	label	Specific Surface [dik]@en
 WARN	multiple_labels	specific surface [dik]	label	Spezifische Oberfläche [dik]@de
 WARN	multiple_labels	specific surface [dik]	label	specific surface [dik]@en
@@ -2040,27 +2031,27 @@ WARN	multiple_labels	Kinematische Viskosität [uo]	label	kinematic viscosity [uo
 WARN	multiple_labels	Erstarrungspunkt [dik]	label	Erstarrungspunkt [dik]@de
 WARN	multiple_labels	Erstarrungspunkt [dik]	label	Setting Point [dik]@en
 WARN	multiple_labels	Erstarrungspunkt [dik]	label	setting point [dik]@en
-WARN	multiple_labels	Molecular Weight [dik]	label	Molecular Weight [dik]@en
-WARN	multiple_labels	Molecular Weight [dik]	label	Molekulargewicht [dik]@de
-WARN	multiple_labels	Molecular Weight [dik]	label	molecular weight [dik]@en
+WARN	multiple_labels	molecular weight [dik]	label	Molecular Weight [dik]@en
+WARN	multiple_labels	molecular weight [dik]	label	Molekulargewicht [dik]@de
+WARN	multiple_labels	molecular weight [dik]	label	molecular weight [dik]@en
 WARN	multiple_labels	Molekulargewicht [mi]	label	Molecular Weight [mi]@en
 WARN	multiple_labels	Molekulargewicht [mi]	label	Molekulargewicht [mi]@de
 WARN	multiple_labels	Molekulargewicht [mi]	label	molecular weight [mi]@en
-WARN	multiple_labels	Acid Value [dik]	label	Acid Value [dik]@en
-WARN	multiple_labels	Acid Value [dik]	label	Säurezahl‎ [dik]@de
-WARN	multiple_labels	Acid Value [dik]	label	acid value [dik]@en
-WARN	multiple_labels	Melting Range [dik]	label	Melting Range [dik]@en
-WARN	multiple_labels	Melting Range [dik]	label	Schmelzbereich‎ [dik]@de
-WARN	multiple_labels	Melting Range [dik]	label	melting range [dik]@en
+WARN	multiple_labels	acid value [dik]	label	Acid Value [dik]@en
+WARN	multiple_labels	acid value [dik]	label	Säurezahl‎ [dik]@de
+WARN	multiple_labels	acid value [dik]	label	acid value [dik]@en
+WARN	multiple_labels	melting range [dik]	label	Melting Range [dik]@en
+WARN	multiple_labels	melting range [dik]	label	Schmelzbereich‎ [dik]@de
+WARN	multiple_labels	melting range [dik]	label	melting range [dik]@en
 WARN	multiple_labels	Oil Content [dik]	label	Oil Content [dik]@en
 WARN	multiple_labels	Oil Content [dik]	label	oil content [dik]@en
 WARN	multiple_labels	Oil Content [dik]	label	Öl-Gehalt‎ [dik]@de
-WARN	multiple_labels	Complex Shear Modulus [dik]	label	Complex Shear Modulus [dik]@en
-WARN	multiple_labels	Complex Shear Modulus [dik]	label	complex shear modulus [dik]@en
-WARN	multiple_labels	Complex Shear Modulus [dik]	label	komplexer Schubmodul [dik]@de
-WARN	multiple_labels	complex Young’s modulus [dik]	label	Complex Young’s Modulus [dik]@en
-WARN	multiple_labels	complex Young’s modulus [dik]	label	complex Young’s modulus [dik]@en
-WARN	multiple_labels	complex Young’s modulus [dik]	label	komplexer Young’s Modul [dik]@de
+WARN	multiple_labels	complex shear modulus [dik]	label	Complex Shear Modulus [dik]@en
+WARN	multiple_labels	complex shear modulus [dik]	label	complex shear modulus [dik]@en
+WARN	multiple_labels	complex shear modulus [dik]	label	komplexer Schubmodul [dik]@de
+WARN	multiple_labels	Complex Young’s Modulus [dik]	label	Complex Young’s Modulus [dik]@en
+WARN	multiple_labels	Complex Young’s Modulus [dik]	label	complex Young’s modulus [dik]@en
+WARN	multiple_labels	Complex Young’s Modulus [dik]	label	komplexer Young’s Modul [dik]@de
 WARN	multiple_labels	Elastizitätsmodul [dik]	label	Elastic Shear Modulus [dik]@en
 WARN	multiple_labels	Elastizitätsmodul [dik]	label	Elastizitätsmodul [dik]@de
 WARN	multiple_labels	Elastizitätsmodul [dik]	label	elastic shear modulus [dik]@en
@@ -2073,15 +2064,15 @@ WARN	multiple_labels	loss shear modulus [dik]	label	loss shear modulus [dik]@en
 WARN	multiple_labels	Young’sches Verlustmodul [dik]	label	Loss Young’s Modulus [dik]@en
 WARN	multiple_labels	Young’sches Verlustmodul [dik]	label	Young’sches Verlustmodul [dik]@de
 WARN	multiple_labels	Young’sches Verlustmodul [dik]	label	loss Young’s modulus [dik]@en
-WARN	multiple_labels	Modulus [dik]	label	Modul [dik]@de
-WARN	multiple_labels	Modulus [dik]	label	Modulus [dik]@en
-WARN	multiple_labels	Modulus [dik]	label	modulus [dik]@en
+WARN	multiple_labels	modulus [dik]	label	Modul [dik]@de
+WARN	multiple_labels	modulus [dik]	label	Modulus [dik]@en
+WARN	multiple_labels	modulus [dik]	label	modulus [dik]@en
 WARN	multiple_labels	Tangens delta [dik]	label	Tan Delta [dik]@en
 WARN	multiple_labels	Tangens delta [dik]	label	Tangens delta [dik]@de
 WARN	multiple_labels	Tangens delta [dik]	label	tan delta [dik]@en
-WARN	multiple_labels	viscometer [dik]	label	Viscometer [dik]@en
-WARN	multiple_labels	viscometer [dik]	label	Viskosimeter [dik]@de
-WARN	multiple_labels	viscometer [dik]	label	viscometer [dik]@en
+WARN	multiple_labels	Viscometer [dik]	label	Viscometer [dik]@en
+WARN	multiple_labels	Viscometer [dik]	label	Viskosimeter [dik]@de
+WARN	multiple_labels	Viscometer [dik]	label	viscometer [dik]@en
 WARN	multiple_labels	Mooney-Scherscheibenviskosimeter [dik]	label	Mooney Shearing-Disc Viscometer [dik]@en
 WARN	multiple_labels	Mooney-Scherscheibenviskosimeter [dik]	label	Mooney shearing-disc viscometer [dik]@en
 WARN	multiple_labels	Mooney-Scherscheibenviskosimeter [dik]	label	Mooney-Scherscheibenviskosimeter [dik]@de
@@ -2091,9 +2082,9 @@ WARN	multiple_labels	Rheometer [dik]	label	curemeter [dik]@en
 WARN	multiple_labels	oszillierendes Scheibenrheometer [dik]	label	Oscillating-Disc Curemeter [dik]@en
 WARN	multiple_labels	oszillierendes Scheibenrheometer [dik]	label	oscillating-disc curemeter [dik]@en
 WARN	multiple_labels	oszillierendes Scheibenrheometer [dik]	label	oszillierendes Scheibenrheometer [dik]@de
-WARN	multiple_labels	rotorless curemeter [dik]	label	Rotorless Curemeter [dik]@en
-WARN	multiple_labels	rotorless curemeter [dik]	label	rotorless curemeter [dik]@en
-WARN	multiple_labels	rotorless curemeter [dik]	label	rotorloser Rheometer [dik]@de
+WARN	multiple_labels	Rotorless Curemeter [dik]	label	Rotorless Curemeter [dik]@en
+WARN	multiple_labels	Rotorless Curemeter [dik]	label	rotorless curemeter [dik]@en
+WARN	multiple_labels	Rotorless Curemeter [dik]	label	rotorloser Rheometer [dik]@de
 WARN	multiple_labels	vulcameter [dik]	label	Vulcameter [dik]@en
 WARN	multiple_labels	vulcameter [dik]	label	Vulkameter [dik]@de
 WARN	multiple_labels	vulcameter [dik]	label	vulcameter [dik]@en
@@ -2113,9 +2104,9 @@ WARN	multiple_labels	concentration measurement assay [dik]	label	concentration m
 WARN	multiple_labels	ethylene concentration measurement assay [dik]	label	Ethylene Concentration Measurement Assay [dik]@en
 WARN	multiple_labels	ethylene concentration measurement assay [dik]	label	Prüfung zur Ethylen-Konzentrationsmessung [dik]@de
 WARN	multiple_labels	ethylene concentration measurement assay [dik]	label	ethylene concentration measurement assay [dik]@en
-WARN	multiple_labels	ethylidene norbornene concentration measurement assay [dik]	label	Ethylidene Norbornene Concentration Measurement Assay [dik]@en
-WARN	multiple_labels	ethylidene norbornene concentration measurement assay [dik]	label	Prüfung zur Ethylidennorbornen-Konzentrationsmessung [dik]@de
-WARN	multiple_labels	ethylidene norbornene concentration measurement assay [dik]	label	ethylidene norbornene concentration measurement assay [dik]@en
+WARN	multiple_labels	Ethylidene Norbornene Concentration Measurement Assay [dik]	label	Ethylidene Norbornene Concentration Measurement Assay [dik]@en
+WARN	multiple_labels	Ethylidene Norbornene Concentration Measurement Assay [dik]	label	Prüfung zur Ethylidennorbornen-Konzentrationsmessung [dik]@de
+WARN	multiple_labels	Ethylidene Norbornene Concentration Measurement Assay [dik]	label	ethylidene norbornene concentration measurement assay [dik]@en
 WARN	multiple_labels	Prüfung zur Molekulargewichtsverteilung [dik]	label	Molecular Weight Distribution Measurement Assay [dik]@en
 WARN	multiple_labels	Prüfung zur Molekulargewichtsverteilung [dik]	label	Prüfung zur Molekulargewichtsverteilung [dik]@de
 WARN	multiple_labels	Prüfung zur Molekulargewichtsverteilung [dik]	label	molecular weight distribution measurement assay [dik]@en
@@ -2125,9 +2116,9 @@ WARN	multiple_labels	Concentration Measurement Protocol [dik]	label	concentratio
 WARN	multiple_labels	Protokoll zur Ethylen-Konzentrationsmessung [dik]	label	Ethylene Concentration Measurement Protocol [dik]@en
 WARN	multiple_labels	Protokoll zur Ethylen-Konzentrationsmessung [dik]	label	Protokoll zur Ethylen-Konzentrationsmessung [dik]@de
 WARN	multiple_labels	Protokoll zur Ethylen-Konzentrationsmessung [dik]	label	ethylene concentration measurement protocol [dik]@en
-WARN	multiple_labels	ethylidene norbornene concentration measurement protocol [dik]	label	Ethylidene Norbornene Concentration Measurement Protocol [dik]@en
-WARN	multiple_labels	ethylidene norbornene concentration measurement protocol [dik]	label	Protokoll zur Ethylidennorbornen-Konzentrationsmessung [dik]@de
-WARN	multiple_labels	ethylidene norbornene concentration measurement protocol [dik]	label	ethylidene norbornene concentration measurement protocol [dik]@en
+WARN	multiple_labels	Ethylidene Norbornene Concentration Measurement Protocol [dik]	label	Ethylidene Norbornene Concentration Measurement Protocol [dik]@en
+WARN	multiple_labels	Ethylidene Norbornene Concentration Measurement Protocol [dik]	label	Protokoll zur Ethylidennorbornen-Konzentrationsmessung [dik]@de
+WARN	multiple_labels	Ethylidene Norbornene Concentration Measurement Protocol [dik]	label	ethylidene norbornene concentration measurement protocol [dik]@en
 WARN	multiple_labels	Protokoll zur Molekulargewichtsverteilung [dik]	label	Molecular Weight Distribution Measurement Protocol [dik]@en
 WARN	multiple_labels	Protokoll zur Molekulargewichtsverteilung [dik]	label	Protokoll zur Molekulargewichtsverteilung [dik]@de
 WARN	multiple_labels	Protokoll zur Molekulargewichtsverteilung [dik]	label	molecular weight distribution measurement protocol [dik]@en
@@ -2135,30 +2126,30 @@ WARN	multiple_labels	Ethylene Group [dik]	label	Ethylene Group [dik]@en
 WARN	multiple_labels	Ethylene Group [dik]	label	ethylene group [dik]@en
 WARN	multiple_labels	Hydrocarbylene Group [dik]	label	Hydrocarbylene Group [dik]@en
 WARN	multiple_labels	Hydrocarbylene Group [dik]	label	hydrocarbylene group [dik]@en
-WARN	multiple_labels	Hydrocarbylene Group [chebi]	label	Hydrocarbylene Group [chebi]@en
-WARN	multiple_labels	Hydrocarbylene Group [chebi]	label	hydrocarbylene group [chebi]@en
+WARN	multiple_labels	hydrocarbylene group [chebi]	label	Hydrocarbylene Group [chebi]@en
+WARN	multiple_labels	hydrocarbylene group [chebi]	label	hydrocarbylene group [chebi]@en
 WARN	multiple_labels	Organodiyl Group [dik]	label	Organodiyl Group [dik]@en
 WARN	multiple_labels	Organodiyl Group [dik]	label	organodiyl group [dik]@en
 WARN	multiple_labels	Organodiyl Group [chebi]	label	Organodiyl Group [chebi]@en
 WARN	multiple_labels	Organodiyl Group [chebi]	label	organodiyl group [chebi]@en
-WARN	multiple_labels	organic divalent group [dik]	label	Organic Divalent Group [dik]@en
-WARN	multiple_labels	organic divalent group [dik]	label	organic divalent group [dik]@en
+WARN	multiple_labels	Organic Divalent Group [dik]	label	Organic Divalent Group [dik]@en
+WARN	multiple_labels	Organic Divalent Group [dik]	label	organic divalent group [dik]@en
 WARN	multiple_labels	Organik-Gruppe [dik]	label	Organic Group [dik]@en
 WARN	multiple_labels	Organik-Gruppe [dik]	label	Organik-Gruppe [dik]@de
 WARN	multiple_labels	Organik-Gruppe [dik]	label	organic group [dik]@en
-WARN	multiple_labels	organic group [chebi]	label	Organic Group [chebi]@en
-WARN	multiple_labels	organic group [chebi]	label	Organik-Gruppe [chebi]@de
-WARN	multiple_labels	organic group [chebi]	label	organic group [chebi]@en
-WARN	multiple_labels	organic group [chebi]	label	organische-Gruppe@de
+WARN	multiple_labels	organische-Gruppe	label	Organic Group [chebi]@en
+WARN	multiple_labels	organische-Gruppe	label	Organik-Gruppe [chebi]@de
+WARN	multiple_labels	organische-Gruppe	label	organic group [chebi]@en
+WARN	multiple_labels	organische-Gruppe	label	organische-Gruppe@de
 WARN	multiple_labels	Gruppe [dik]	label	Group [dik]@en
 WARN	multiple_labels	Gruppe [dik]	label	Gruppe [dik]@de
 WARN	multiple_labels	Gruppe [dik]	label	group [dik]@en
 WARN	multiple_labels	group [ncit]	label	Group [ncit]@en
 WARN	multiple_labels	group [ncit]	label	Gruppe [ncit]@de
 WARN	multiple_labels	group [ncit]	label	group [ncit]@en
-WARN	multiple_labels	Group [chebi]	label	Group [chebi]@en
-WARN	multiple_labels	Group [chebi]	label	Gruppe [chebi]@de
-WARN	multiple_labels	Group [chebi]	label	group [chebi]@en
+WARN	multiple_labels	group [chebi]	label	Group [chebi]@en
+WARN	multiple_labels	group [chebi]	label	Gruppe [chebi]@de
+WARN	multiple_labels	group [chebi]	label	group [chebi]@en
 WARN	multiple_labels	Group [shacl]	label	Group [shacl]@en
 WARN	multiple_labels	Group [shacl]	label	Gruppe [shacl]@de
 WARN	multiple_labels	Prozent [dik]	label	Percent [dik]@en
@@ -2173,32 +2164,32 @@ WARN	multiple_labels	Prozent [om]	label	percent [om]@en
 WARN	multiple_labels	ratio [dik]	label	Ratio [dik]@en
 WARN	multiple_labels	ratio [dik]	label	Verhältnis [dik]@de
 WARN	multiple_labels	ratio [dik]	label	ratio [dik]@en
-WARN	multiple_labels	ratio [ncit]	label	Ratio [ncit]@en
-WARN	multiple_labels	ratio [ncit]	label	Verhältnis [ncit]@de
-WARN	multiple_labels	ratio [ncit]	label	ratio [ncit]@en
+WARN	multiple_labels	Ratio [ncit]	label	Ratio [ncit]@en
+WARN	multiple_labels	Ratio [ncit]	label	Verhältnis [ncit]@de
+WARN	multiple_labels	Ratio [ncit]	label	ratio [ncit]@en
 WARN	multiple_labels	Ratio [uo]	label	Ratio [uo]@en
 WARN	multiple_labels	Ratio [uo]	label	Verhältnis [uo]@de
 WARN	multiple_labels	Ratio [uo]	label	ratio [uo]@en
 WARN	multiple_labels	Ratio [uo]	label	Ratio [uo]@en
 WARN	multiple_labels	Ratio [uo]	label	Verhältnis [uo]@de
-WARN	multiple_labels	Ratio [ms]	label	Ratio [ms]@en
-WARN	multiple_labels	Ratio [ms]	label	Verhältnis [ms]@de
-WARN	multiple_labels	Ratio [ms]	label	ratio [ms]@en
+WARN	multiple_labels	ratio [ms]	label	Ratio [ms]@en
+WARN	multiple_labels	ratio [ms]	label	Verhältnis [ms]@de
+WARN	multiple_labels	ratio [ms]	label	ratio [ms]@en
 WARN	multiple_labels	dimensionslose Einheit [dik]	label	Dimensionless Unit [dik]@en
 WARN	multiple_labels	dimensionslose Einheit [dik]	label	dimensionless unit [dik]@en
 WARN	multiple_labels	dimensionslose Einheit [dik]	label	dimensionslose Einheit [dik]@de
 WARN	multiple_labels	dimensionless unit [ms]	label	Dimensionless Unit [ms]@en
 WARN	multiple_labels	dimensionless unit [ms]	label	dimensionless unit [ms]@en
 WARN	multiple_labels	dimensionless unit [ms]	label	dimensionslose Einheit [ms]@de
-WARN	multiple_labels	mass percentage [dik]	label	Mass Percentage [dik]@en
-WARN	multiple_labels	mass percentage [dik]	label	Massenanteil [dik]@de
-WARN	multiple_labels	mass percentage [dik]	label	mass percentage [dik]@en
-WARN	multiple_labels	Massenanteil [uo]	label	Mass Percentage [uo]@en
-WARN	multiple_labels	Massenanteil [uo]	label	Massenanteil [uo]@de
-WARN	multiple_labels	Massenanteil [uo]	label	mass percentage [uo]@en
-WARN	multiple_labels	Volume Percentage [dik]	label	Volume Percentage [dik]@en
-WARN	multiple_labels	Volume Percentage [dik]	label	Volumenprozent [dik]@de
-WARN	multiple_labels	Volume Percentage [dik]	label	volume percentage [dik]@en
+WARN	multiple_labels	Massenanteil [dik]	label	Mass Percentage [dik]@en
+WARN	multiple_labels	Massenanteil [dik]	label	Massenanteil [dik]@de
+WARN	multiple_labels	Massenanteil [dik]	label	mass percentage [dik]@en
+WARN	multiple_labels	Mass Percentage [uo]	label	Mass Percentage [uo]@en
+WARN	multiple_labels	Mass Percentage [uo]	label	Massenanteil [uo]@de
+WARN	multiple_labels	Mass Percentage [uo]	label	mass percentage [uo]@en
+WARN	multiple_labels	volume percentage [dik]	label	Volume Percentage [dik]@en
+WARN	multiple_labels	volume percentage [dik]	label	Volumenprozent [dik]@de
+WARN	multiple_labels	volume percentage [dik]	label	volume percentage [dik]@en
 WARN	multiple_labels	Volumenprozent [uo]	label	Volume Percentage [uo]@en
 WARN	multiple_labels	Volumenprozent [uo]	label	Volumenprozent [uo]@de
 WARN	multiple_labels	Volumenprozent [uo]	label	volume percentage [uo]@en
@@ -2219,9 +2210,8 @@ WARN	multiple_labels	Konzentration [ecso]	label	Konzentration [ecso]@de
 WARN	multiple_labels	molekulare Qualität [dik]	label	Molecular Quality [dik]@en
 WARN	multiple_labels	molekulare Qualität [dik]	label	molecular quality [dik]@en
 WARN	multiple_labels	molekulare Qualität [dik]	label	molekulare Qualität [dik]@de
-WARN	multiple_labels	molecular quality [pato]	label	Molecular Quality [pato]@en
-WARN	multiple_labels	molecular quality [pato]	label	molecular quality [pato]@en
-WARN	multiple_labels	molecular quality [pato]	label	molekulare Qualität [pato]@de
+WARN	multiple_labels	Molecular Quality [pato]	label	Molecular Quality [pato]@en
+WARN	multiple_labels	Molecular Quality [pato]	label	molekulare Qualität [pato]@de
 WARN	multiple_labels	Ethylen-Konzentration [dik]	label	Ethylen-Konzentration [dik]@de
 WARN	multiple_labels	Ethylen-Konzentration [dik]	label	Ethylene Concentration [dik]@en
 WARN	multiple_labels	Ethylen-Konzentration [dik]	label	ethylene concentration [dik]@en
@@ -2364,23 +2354,23 @@ INFO	lowercase_definition	Polymer [dik]	textual definition	substance composed of
 INFO	lowercase_definition	Rohkautschuk [dik]	textual definition	natural or synthetic rubber, usually in bales or packages, forming the starting material for the manufacture of rubber products@en
 INFO	lowercase_definition	Synthesekautschuk [dik]	textual definition	rubber produced by non-biologically polymerizing one or more monomers@en
 INFO	lowercase_definition	Dienkautschuk [dik]	textual definition	type of rubber having an unsaturated carbon main chain derived mostly from butadiene or a substituted butadiene@en
-INFO	lowercase_definition	Füllstoff [dik]	textual definition	fester Mischungsbestandteil in Teilchenform, welcher aus technischen oder wirtschaftlichen Gründen zu einem relativ großen Anteil zu Kautschuk oder Kautschuklatex zugegeben werden kann@de
-INFO	lowercase_definition	Füllstoff [dik]	textual definition	solid compounding ingredient, in particulate form, which may be added in relatively large proportions to a rubber or rubber latex for technical or economic purposes@en
+INFO	lowercase_definition	Filler [dik]	textual definition	fester Mischungsbestandteil in Teilchenform, welcher aus technischen oder wirtschaftlichen Gründen zu einem relativ großen Anteil zu Kautschuk oder Kautschuklatex zugegeben werden kann@de
+INFO	lowercase_definition	Filler [dik]	textual definition	solid compounding ingredient, in particulate form, which may be added in relatively large proportions to a rubber or rubber latex for technical or economic purposes@en
 INFO	lowercase_definition	Ruß [dik]	textual definition	compounding ingredient consisting essentially of more than 95 % elemental carbon in the form of nearspherical particles with major diameters less than 1 μm, generally coalesced into aggregates@en
 INFO	lowercase_definition	Weichmacher ‎[dik]	textual definition	compounding ingredient used in small proportions to reduce the viscosity of an unvulcanized rubber mix or the hardness of a vulcanizate@en
 INFO	lowercase_definition	Paraffinic Oil [dik]	textual definition	hydrocarbon process oil, most or all of which is composed of alkanes@en
-INFO	lowercase_definition	process oil [dik]	textual definition	hydrocarbon oil derived from petroleum or other sources and used as an extender or processing aid@en
-INFO	lowercase_definition	process oil [dik]	textual definition	Öl auf Basis von Kohlenwasserstoffen, welches aus Erdöl oder anderen Quellen stammt und als Extender oder Verarbeitungshilfsmittel eingesetzt wird@de
+INFO	lowercase_definition	Process Oil [dik]	textual definition	hydrocarbon oil derived from petroleum or other sources and used as an extender or processing aid@en
+INFO	lowercase_definition	Process Oil [dik]	textual definition	Öl auf Basis von Kohlenwasserstoffen, welches aus Erdöl oder anderen Quellen stammt und als Extender oder Verarbeitungshilfsmittel eingesetzt wird@de
 INFO	lowercase_definition	processing aid [dik]	textual definition	compounding ingredient which improves the processability of a rubber compound or mix@en
 INFO	lowercase_definition	antidegradant [dik]	textual definition	compounding ingredient used to retard deterioration by ageing@en
-INFO	lowercase_definition	activator [dik]	textual definition	compounding ingredient used in small proportions to increase the effectiveness of an accelerator@en
-INFO	lowercase_definition	activator [dik]	textual definition	in kleinen Mengen eingesetzter Mischungsbestandteil zur Erhöhung der Effektivität eines Beschleunigers@de
+INFO	lowercase_definition	Aktivator [dik]	textual definition	compounding ingredient used in small proportions to increase the effectiveness of an accelerator@en
+INFO	lowercase_definition	Aktivator [dik]	textual definition	in kleinen Mengen eingesetzter Mischungsbestandteil zur Erhöhung der Effektivität eines Beschleunigers@de
 INFO	lowercase_definition	Accelerator [dik]	textual definition	compounding ingredient used in small amounts with a vulcanizing agent to increase the speed of vulcanization and/or enhance the physical properties of the vulcanizate@en
 INFO	lowercase_definition	Accelerator [dik]	textual definition	in kleinen Mengen mit einem Vulkanisationsmittel eingesetzter Mischungsbestandteil zur Beschleunigung der Vulkanisationsgeschwindigkeit und/oder Verbesserung der physikalischen Eigenschaften des Vulkanisates@de
 INFO	lowercase_definition	Primary Accelerator [dik]	textual definition	in einem Vulkanisationssystem verwendeter Hauptbeschleuniger@de
 INFO	lowercase_definition	Primary Accelerator [dik]	textual definition	principal accelerator used in a vulcanizing system@en
 INFO	lowercase_definition	Secondary Accelerator [dik]	textual definition	accelerator used in low concentrations with the primary accelerator to optimize cure rate and vulcanizate properties@en
-INFO	lowercase_definition	vulcanizing agent [dik]	textual definition	compounding ingredient that produces crosslinking in rubber@en
+INFO	lowercase_definition	Vulcanizing Agent [dik]	textual definition	compounding ingredient that produces crosslinking in rubber@en
 INFO	lowercase_definition	vulcanizing system [dik]	textual definition	combination of vulcanizing agent and, as required, accelerators, activators, retarders, etc., used to produce the desired vulcanization characteristics and vulcanizate properties@en
 INFO	lowercase_definition	Vernetzungsgeschwindigkeit [dik]	textual definition	rate at which a rubber compound vulcanizes after having reached the point of incipient vulcanization@en
 INFO	lowercase_definition	retarder [dik]	textual definition	compounding ingredient used to reduce the tendency of a rubber compound to vulcanize prematurely@en
@@ -2389,18 +2379,18 @@ INFO	lowercase_definition	Rezeptur [dik]	textual definition	list of compounding 
 INFO	lowercase_definition	compounding ingredient [dik]	textual definition	substance added to a rubber or rubber latex to form a mix@en
 INFO	lowercase_definition	compound [dik]	textual definition	gründliche Mischung von Kautschuken oder anderen polymerbildenden Materialien mit allen Bestandteilen, die für das fertige Produkt notwendig sind@de
 INFO	lowercase_definition	compound [dik]	textual definition	intimate mixture of a rubber or rubbers or other polymer-forming materials with all the ingredients necessary for the finished product@en
-INFO	lowercase_definition	mill [dik]	textual definition	machine with two counter-rotating rolls, frequently heated or cooled, usually driven at different speeds, and having an adjustable nip for mastication, mixing, blending, warm-up or sheeting@en
+INFO	lowercase_definition	Mill [dik]	textual definition	machine with two counter-rotating rolls, frequently heated or cooled, usually driven at different speeds, and having an adjustable nip for mastication, mixing, blending, warm-up or sheeting@en
 INFO	lowercase_definition	Walze [dik]	textual definition	cylinder forming a major, rotating member of a calender or mill@en
-INFO	lowercase_definition	Rotational Frequency Unit [uo]	textual definition	"\""A unit which is a standard measure of the number of rotations in a given time.\"" [NIST:NIST]@en"
+INFO	lowercase_definition	rotational frequency unit [uo]	textual definition	"\""A unit which is a standard measure of the number of rotations in a given time.\"" [NIST:NIST]@en"
 INFO	lowercase_definition	Frequenzeinheit [uo]	textual definition	"\""A unit which is a standard measure of the number of repetitive actions in a particular time.\"" [NIST:NIST]@en"
 INFO	lowercase_definition	Umdrehungen pro Sekunde [uo]	textual definition	"\""A rotational frequency unit which is equal to the number complete turn in a period of time that equals to 1 second.\"" [NIST:NIST]@en"
 INFO	lowercase_definition	Temperatureinheit [uo]	textual definition	"\""A unit which is a standard measure of the average kinetic energy of the particles in a sample of matter.\"" [Wikipedia:Wikipedia]@en"
 INFO	lowercase_definition	NIP [dik]	textual definition	radial clearance between the roll surfaces of a mill or calender on a line of centres@en
-INFO	lowercase_definition	Mastication [dik]	textual definition	the molecular mass of a rubber, in either the raw or the mixed state, by the action of mechanical work (shear) and atmospheric oxygen, sometimes assisted by peptizers and heat@en
+INFO	lowercase_definition	Mastikation [dik]	textual definition	the molecular mass of a rubber, in either the raw or the mixed state, by the action of mechanical work (shear) and atmospheric oxygen, sometimes assisted by peptizers and heat@en
 INFO	lowercase_definition	Verarbeitbarkeit [dik]	textual definition	relative Einfachheit, mit welcher Rohkautschuk oder Kautschukmischungen in einer Maschine zur Kautschukverarbeitung gehandhabt werden kann@de
 INFO	lowercase_definition	Verarbeitbarkeit [dik]	textual definition	relative ease with which raw or compounded rubbers can be handled in rubber-processing machinery@en
 INFO	lowercase_definition	Innenmischer [dik]	textual definition	machine with temperature controls containing one or more rotors operating in a closed cavity used to masticate and/or to incorporate and disperse compounding ingredients into the rubber@en
-INFO	lowercase_definition	Drop Door Temperature Control Unit [dik]	textual definition	drop door temperature control unit@en
+INFO	lowercase_definition	drop door temperature control unit [dik]	textual definition	drop door temperature control unit@en
 INFO	lowercase_definition	Längen Einheit [uo]	textual definition	"\""A unit which is a standard measure of the distance between two points.\"" [Wikipedia:Wikipedia]@en"
 INFO	lowercase_definition	millimeter [uo]	textual definition	"\""A length unit which is equal to one thousandth of a meter or 10^[-3] m.\"" [NIST:NIST]@en"
 INFO	lowercase_definition	Extruder [dik]	textual definition	machine which, through the use of a screw or a hydraulic ram, continuously shapes a material by forcing it through a die or dies@en
@@ -2408,20 +2398,20 @@ INFO	lowercase_definition	Screw [dik]	textual definition	rotating member with on
 INFO	lowercase_definition	Screw [dik]	textual definition	rotierendes Glied mit einer oder mehreren helixförmigen Rillen, das verwendet wird, um einen Kautschuk innerhalb eines Extruderrohrs voranzutreiben@de
 INFO	lowercase_definition	Die [dik]	textual definition	that part of an extruder through which material is forced, forming a profile of the extrudate@en
 INFO	lowercase_definition	extrudate [dik]	textual definition	product of an extrusion process@en
-INFO	lowercase_definition	Extruder Head [dik]	textual definition	that part of an extruder which houses the die and die holder@en
-INFO	lowercase_definition	extrusion [dik]	textual definition	continuous shaping of a material by passage through a die@en
-INFO	lowercase_definition	extrusion [dik]	textual definition	kontinuierliches Formen eines Materials, indem dieses durch eine Schablone gepresst wird@de
+INFO	lowercase_definition	extruder head [dik]	textual definition	that part of an extruder which houses the die and die holder@en
+INFO	lowercase_definition	Extrusion [dik]	textual definition	continuous shaping of a material by passage through a die@en
+INFO	lowercase_definition	Extrusion [dik]	textual definition	kontinuierliches Formen eines Materials, indem dieses durch eine Schablone gepresst wird@de
 INFO	lowercase_definition	Die Swell [dik]	textual definition	difference between the dimensions of the cross-section of an extrudate and the corresponding dimensions of the die orifice, usually quantified as the percentage increase in the crosssectional area@en
 INFO	lowercase_definition	Vernetzungsdichte [dik]	textual definition	number of crosslinks per unit volume or unit mass of vulcanizate@en
-INFO	lowercase_definition	Vulcanizate [dik]	textual definition	product of the vulcanization of a rubber compound@en
+INFO	lowercase_definition	vulcanizate [dik]	textual definition	product of the vulcanization of a rubber compound@en
 INFO	lowercase_definition	crosslink [dik]	textual definition	chemical bond or atom(s) joining two rubber chains or two parts of the same rubber chain as a result of vulcanization@en
 INFO	lowercase_definition	crosslink [dik]	textual definition	chemische Bindung oder Atom(e), die zwei Kautschukketten oder zwei Teile derselben Kette verbinden als Ergebnis der Vulkanisation@de
 INFO	lowercase_definition	Vernetzen [dik]	textual definition	〈Aktion〉 Erzeugung von Vernetzungen zwischen oder innerhalb von Kautschukketten unter Ausbildung eines Netzwerks@de
 INFO	lowercase_definition	Vernetzen [dik]	textual definition	〈act of〉 insertion of crosslinks between or within rubber chains to give a network structure@en
-INFO	lowercase_definition	state of cure [dik]	textual definition	condition of a vulcanizate during the course of vulcanization, measured in terms of its structure or properties@en
-INFO	lowercase_definition	vulcanization [dik]	textual definition	process, usually involving heat, in which rubber, through a change in its chemical structure (for example, crosslinking), is converted to a condition in which the elastic properties are conferred or re-established or improved or extended over a greater range of temperatures@en
+INFO	lowercase_definition	State of Cure [dik]	textual definition	condition of a vulcanizate during the course of vulcanization, measured in terms of its structure or properties@en
+INFO	lowercase_definition	Vulcanization [dik]	textual definition	process, usually involving heat, in which rubber, through a change in its chemical structure (for example, crosslinking), is converted to a condition in which the elastic properties are conferred or re-established or improved or extended over a greater range of temperatures@en
 INFO	lowercase_definition	Autoklav [dik]	textual definition	pressurized vessel used for vulcanizing rubber in a vapour or gas@en
-INFO	lowercase_definition	Plateau Cure [dik]	textual definition	type of vulcanization during which the modulus of the vulcanizate proceeds to a maximum and then remains essentially constant for a substantial period at the vulcanization temperature@en
+INFO	lowercase_definition	plateau cure [dik]	textual definition	type of vulcanization during which the modulus of the vulcanizate proceeds to a maximum and then remains essentially constant for a substantial period at the vulcanization temperature@en
 INFO	lowercase_definition	Vulkanisationsoptimum [dik]	textual definition	condition of vulcanization required to achieve an acceptable compromise among a number of desired vulcanizate properties or the optimum value of a selected property@en
 INFO	lowercase_definition	Übervulkanisation [dik]	textual definition	state of vulcanization beyond the optimum cure@en
 INFO	lowercase_definition	Undercure [dik]	textual definition	state of vulcanization less than the optimum cure@en
@@ -2429,18 +2419,18 @@ INFO	lowercase_definition	sample [dik]	textual definition	ein oder mehrere Teile
 INFO	lowercase_definition	sample [dik]	textual definition	one or more items taken from a lot and intended to provide information on the lot and possibly to serve as a basis for a decision on the lot or on the process which had produced it@en
 INFO	lowercase_definition	sample [nmrcv]	textual definition	tempdef: A sample is a role that is played by an object of interest in an investigation used to obtain generalizable information about the sample source. defprov: Daniel Schober@en
 INFO	lowercase_definition	Prüfkörper [dik]	textual definition	piece of material of appropriate shape and size, prepared so that it is ready for use in a test@en
-INFO	lowercase_definition	scrap rubber [dik]	textual definition	raw, compounded, vulcanized or partially vulcanized rubber in the form of end-of-life rubber products or factory scrap@en
-INFO	lowercase_definition	scrap rubber [dik]	textual definition	unverarbeiteter, gemischter, vulkanisierter oder teilvulkanisierter Kautschuk in Form von Altgummierzeugnissen oder Fabrikabfall@de
+INFO	lowercase_definition	Gummiabfall [dik]	textual definition	raw, compounded, vulcanized or partially vulcanized rubber in the form of end-of-life rubber products or factory scrap@en
+INFO	lowercase_definition	Gummiabfall [dik]	textual definition	unverarbeiteter, gemischter, vulkanisierter oder teilvulkanisierter Kautschuk in Form von Altgummierzeugnissen oder Fabrikabfall@de
 INFO	lowercase_definition	factory scrap [dik]	textual definition	raw, compounded, vulcanized or partially vulcanized rubber rejected or generated as waste during product manufacture and found unsuitable for further use unless recycled@en
 INFO	lowercase_definition	factory scrap [dik]	textual definition	roher, gemischter, vulkanisierter oder teilweise vulkanisierter Kautschuk, der bei der Produktion ver-worfen oder als Abfall deklariert und für die weitere Verwendung, außer zum Recyceln, als ungeeignet befunden wird@de
 INFO	lowercase_definition	Massendichte [dik]	textual definition	mass per unit volume of a material, including any voids present@en
-INFO	lowercase_definition	Mass Density Unit [uo]	textual definition	"\""A density unit which is a standard measure of the mass of a substance in a given volume.\"" [UOC:GVG]@en"
-INFO	lowercase_definition	gram per cubic centimeter [uo]	textual definition	"\""A mass unit density which is equal to mass of an object in grams divided by the volume in cubic centimeters.\"" [UOC:GVG]@en"
+INFO	lowercase_definition	mass density unit [uo]	textual definition	"\""A density unit which is a standard measure of the mass of a substance in a given volume.\"" [UOC:GVG]@en"
+INFO	lowercase_definition	Gram Per Cubic Centimeter [uo]	textual definition	"\""A mass unit density which is equal to mass of an object in grams divided by the volume in cubic centimeters.\"" [UOC:GVG]@en"
 INFO	lowercase_definition	Mooney Viskosität [dik]	textual definition	measure of the viscosity of a raw rubber or rubber compound, determined using a Mooney shearing-disc viscometer@en
 INFO	lowercase_definition	Viskositätseinheit [uo]	textual definition	"\""A unit which is a standard measure of the internal resistance of fluids to flow.\"" [UOC:GVG]@en"
 INFO	lowercase_definition	Degree Celsius [uo]	textual definition	"\""A temperature unit which is equal to one kelvin degree. However, they have their zeros at different points. The centigrade scale has its zero at 273.15 K.\"" [NIST:NIST]@en"
-INFO	lowercase_definition	Complex Shear Modulus [dik]	textual definition	ratio of the shear stress to the shear strain, where each can be represented by a complex number@en
-INFO	lowercase_definition	complex Young’s modulus [dik]	textual definition	ratio of the normal stress to the normal strain, where each can be represented by a complex number@en
+INFO	lowercase_definition	complex shear modulus [dik]	textual definition	ratio of the shear stress to the shear strain, where each can be represented by a complex number@en
+INFO	lowercase_definition	Complex Young’s Modulus [dik]	textual definition	ratio of the normal stress to the normal strain, where each can be represented by a complex number@en
 INFO	lowercase_definition	Elastizitätsmodul [dik]	textual definition	die Komponente einer aufgebrachten Schubspannung, welche in Phase mit der Scherdeformation ist, geteilt durch die Dehnung@de
 INFO	lowercase_definition	Elastizitätsmodul [dik]	textual definition	that component of an applied shear stress which is in phase with the shear strain, divided by the strain@en
 INFO	lowercase_definition	Youngscher Elastizitätsmodul [dik]	textual definition	die Komponente einer angewandten Normalspannung, welche in Phase mit der Normaldehnung ist, geteilt durch die Dehnung@de
@@ -2449,10 +2439,10 @@ INFO	lowercase_definition	loss shear modulus [dik]	textual definition	der Anteil
 INFO	lowercase_definition	loss shear modulus [dik]	textual definition	that component of an applied shear stress which is in quadrature (90° out of phase) with the shear strain, divided by the strain@en
 INFO	lowercase_definition	Young’sches Verlustmodul [dik]	textual definition	der Anteil einer aufgebrachten Normalspannung, welcher 90° phasenverschoben gegenüber der Normaldehnung ist, geteilt durch die Dehnung@de
 INFO	lowercase_definition	Young’sches Verlustmodul [dik]	textual definition	that component of an applied normal stress which is in quadrature (90° out of phase) with the normal strain, divided by the strain@en
-INFO	lowercase_definition	Modulus [dik]	textual definition	measure of stiffness under specified conditions of deformation@en
+INFO	lowercase_definition	modulus [dik]	textual definition	measure of stiffness under specified conditions of deformation@en
 INFO	lowercase_definition	Tangens delta [dik]	textual definition	ratio of the viscous modulus to the elastic modulus@en
 INFO	lowercase_definition	oszillierendes Scheibenrheometer [dik]	textual definition	type of curemeter in which the force applied to the rubber compound is produced by an oscillating disc embedded in a test sample which is contained under pressure in a sealed cavity@en
-INFO	lowercase_definition	rotorless curemeter [dik]	textual definition	type of curemeter in which the force applied to the rubber compound is produced by the oscillation of one of the two dies forming the cavity in which the test sample is enclosed@en
+INFO	lowercase_definition	Rotorless Curemeter [dik]	textual definition	type of curemeter in which the force applied to the rubber compound is produced by the oscillation of one of the two dies forming the cavity in which the test sample is enclosed@en
 INFO	lowercase_definition	vulcameter [dik]	textual definition	device that measures the progress of vulcanization in a test sample at the vulcanizing temperature@en
 INFO	lowercase_definition	Plattenpresse [dik]	textual definition	press having two or more super-imposed heated platens between which moulds are pressed@en
 INFO	lowercase_definition	press plate [dik]	textual definition	flache Metallplatte (oder Schale), die Hitze und Druck auf ein oder mehrere Formteile überträgt, die sich in einer Presse befinden@de
@@ -2461,7 +2451,7 @@ INFO	lowercase_definition	Percent [uo]	textual definition	"\""A dimensionless ra
 INFO	lowercase_definition	Ratio [uo]	textual definition	"\""A dimensionless ratio unit which, given a pair of quantities a and b, for which b is a multiple of a, denotes b by giving the multiplier (coefficient) c for a to result in b.\"" [UOB:LKSR]@en"
 INFO	lowercase_definition	Ratio [uo]	textual definition	"\""A dimensionless unit which denotes an amount or magnitude of one quantity relative to another.\"" [Wikipedia:Wikipedia]@en"
 INFO	lowercase_definition	dimensionless unit [ms]	textual definition	"\""A unit which is a standard measure of physical quantity consisting of only a numerical number without any units.\"" [Wikipedia:Wikipedia]@en"
-INFO	lowercase_definition	Massenanteil [uo]	textual definition	"\""A dimensionless concentration unit which denotes the mass of a substance in a mixture as a percentage of the mass of the entire mixture.\"" [Wikipedia:Wikipedia]@en"
+INFO	lowercase_definition	Mass Percentage [uo]	textual definition	"\""A dimensionless concentration unit which denotes the mass of a substance in a mixture as a percentage of the mass of the entire mixture.\"" [Wikipedia:Wikipedia]@en"
 INFO	lowercase_definition	Volumenprozent [uo]	textual definition	"\""A dimensionless concentration unit which denotes the volume of the solute in mL per 100 mL of the resulting solution.\"" [UOC:GVG]@en"
 INFO	lowercase_definition	Konzentration [ecso]	textual definition	the strength of a solution; number of molecules of a substance in a given volume@en
 INFO	lowercase_definition	template class	textual definition	provide a human-readable definition of the type of entity the class refers to@en
