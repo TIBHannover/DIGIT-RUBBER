@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <rdf:RDF xmlns="http://purl.obolibrary.org/obo/digitrubber/digitrubber-base.owl#"
      xml:base="http://purl.obolibrary.org/obo/digitrubber/digitrubber-base.owl"
+     xmlns:co="https://w3id.org/pmd/co/"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:v3="http://www.loc.gov/premis/rdf/v3/"
      xmlns:mod="https://w3id.org/mod#"
@@ -15,44 +16,61 @@
      xmlns:dcat="http://www.w3.org/ns/dcat#"
      xmlns:doap="http://usefulinc.com/ns/doap#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-     xmlns:vann="https://vocab.org/vann/"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+     xmlns:swrl="http://www.w3.org/2003/11/swrl#"
+     xmlns:vann="http://purl.org/vocab/vann/"
+     xmlns:chebi="http://purl.obolibrary.org/obo/chebi/"
+     xmlns:swrla="http://swrl.stanford.edu/ontologies/3.3/swrla.owl#"
+     xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
      xmlns:terms="http://purl.org/dc/terms/"
-     xmlns:vann1="http://purl.org/vocab/vann/"
+     xmlns:vann2="https://vocab.org/vann/"
+     xmlns:chebi1="http://purl.obolibrary.org/obo/chebi#"
+     xmlns:chebi4="http://purl.obolibrary.org/obo/chebi#2"
+     xmlns:chebi5="http://purl.obolibrary.org/obo/chebi#3"
+     xmlns:chebi6="http://purl.obolibrary.org/obo/chebi#1"
      xmlns:schema="http://schema.org/"
+     xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
+     xmlns:schema1="https://schema.org/"
+     xmlns:subsets="http://purl.obolibrary.org/obo/ro/subsets#"
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
-     xmlns:ontology="http://omv.ontoware.org/2005/05/ontology#">
+     xmlns:ontology="http://omv.ontoware.org/2005/05/ontology#"
+     xmlns:digitrubber="https://www.tib.eu/digitrubber#"
+     xmlns:digitrubber3="https://www.tib.eu/digitrubber/">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/digitrubber/digitrubber-base.owl">
-        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/digitrubber/releases/2025-05-07/digitrubber-base.owl"/>
+        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/digitrubber/releases/2025-10-21/digitrubber-base.owl"/>
         <ontology:hasOntologySyntax rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
         <obo:IAO_0000700 rdf:resource="http://www.purl.org/OntoMeta/DigitRubber#1"/>
-        <dc:creator rdf:resource="https://orcid.org/0000-0000-0000-0000"/>
+        <dc:creator rdf:resource="http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl#DIGIT_RUBBER_project"/>
+        <dc:creator rdf:resource="http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl#DIPONI_project"/>
+        <dc:creator rdf:resource="http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl#InSuKa_project"/>
         <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-06-01T00:00:00</dc:date>
         <dc:type rdf:resource="http://purl.obolibrary.org/obo/IAO_8000001"/>
         <terms:bibliographicCitation xml:lang="en">TIB (2023): DigitRubber Ontology. An ontology demonstrating rich ontology for rubber extrusion. PURL: http://www.purl.org/OntoMeta/DigitRubberOntology.</terms:bibliographicCitation>
-        <terms:contributor rdf:resource="http://purl.obolibrary.org/obo/digitrubber/0000-0000-0000-0000"/>
+        <terms:contributor rdf:resource="https://orcid.org/0000-0002-8280-0487"/>
         <terms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-06-01T00:00:00</terms:created>
         <terms:description xml:lang="en">DigitRubber Ontology</terms:description>
+        <terms:description>The DIGIT RUBBER Ontology (DRO) is used to represent data, information, and knowledge relating to rubber and rubber production.</terms:description>
         <terms:format rdf:resource="https://www.iana.org/assignments/media-types/application/rdf+xml"/>
-        <terms:license rdf:resource="https://creativecommons.org/licenses/unspecified"/>
-        <terms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-02-22T00:00:00</terms:modified>
+        <terms:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+        <terms:modified>2025-09-25T00:00:00</terms:modified>
         <terms:references rdf:resource="https://zenodo.org/record/0000000"/>
         <terms:subject rdf:resource="https://purl.org/linsearch/fer"/>
         <terms:title xml:lang="en">DigitRubber Ontology</terms:title>
         <bibo:status xml:lang="en">active</bibo:status>
         <pav:derivedFrom rdf:resource="http://www.purl.org/DigitRubberOntology/0.0.1"/>
-        <vann1:preferredNamespacePrefix>DRO</vann1:preferredNamespacePrefix>
+        <vann:preferredNamespacePrefix>DRO</vann:preferredNamespacePrefix>
         <schema:funder rdf:resource="https://ror.org/"/>
         <schema:inLanguage rdf:resource="https://id.loc.gov/vocabulary/iso639-2/eng"/>
-        <doap:audience xml:lang="en">DigitRubber ontology has been developed for rubber extrusion</doap:audience>
+        <doap:audience xml:lang="en">The DIGIT RUBBER ontology is aimed at anyone who wants to semantically annotate knowledge and data related to rubber.</doap:audience>
         <doap:bug-database rdf:resource="https://github.com/TIBHannover/DIGIT-RUBBER/issues"/>
         <doap:repository rdf:resource="https://github.com/TIBHannover/DIGIT-RUBBER"/>
-        <oboInOwl:date>07:05:2025 14:18</oboInOwl:date>
+        <oboInOwl:date>21:10:2025 12:17</oboInOwl:date>
         <v3:documentation rdf:resource="https://tibhannover.github.io/DIGIT-RUBBER/"/>
-        <owl:versionInfo>v2025-May-7</owl:versionInfo>
-        <owl:versionInfo>2025-05-07</owl:versionInfo>
+        <owl:versionInfo>v2025-September-25</owl:versionInfo>
+        <owl:versionInfo>2025-10-21</owl:versionInfo>
         <adms:versionNotes xml:lang="en">A description of changes between last version and current version of the ontology.</adms:versionNotes>
         <dcat:distribution rdf:resource="http://www.purl.org/OntoMeta/DigitRubber.owl"/>
-        <vann:example rdf:resource="http://www.purl.org/OntoMeta/DigitRubber/docs/descriptionOfUse"/>
+        <vann2:example rdf:resource="http://www.purl.org/OntoMeta/DigitRubber/docs/descriptionOfUse"/>
         <mod:acronym>DRO</mod:acronym>
         <mod:competencyQuestion rdf:resource="https://github.com/TIBHannover/DIGIT-RUBBER/tree/main/preliminary_data/Competeny%20Questions"/>
         <mod:hasFormalityLevel xml:lang="en">The DigitRubber ontology aplies OWL2 EL (cf. https://www.w3.org/TR/2012/REC-owl2-profiles-20121211/#OWL_2_EL)</mod:hasFormalityLevel>
@@ -74,6 +92,14 @@
     <!-- http://omv.ontoware.org/2005/05/ontology#hasOntologySyntax -->
 
     <owl:AnnotationProperty rdf:about="http://omv.ontoware.org/2005/05/ontology#hasOntologySyntax"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/DIGITRUBBER_72a5f0d7_2892_45ff_9e35_1440616c382b -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/DIGITRUBBER_72a5f0d7_2892_45ff_9e35_1440616c382b">
+        <rdfs:label>NoSubclassAssignedBasedOnCoarseClassificationFound</rdfs:label>
+    </owl:AnnotationProperty>
     
 
 

@@ -10,7 +10,13 @@
         "val" : "http://www.purl.org/OntoMeta/DigitRubber#1"
       }, {
         "pred" : "http://purl.org/dc/elements/1.1/creator",
-        "val" : "https://orcid.org/0000-0000-0000-0000"
+        "val" : "http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl#DIGIT_RUBBER_project"
+      }, {
+        "pred" : "http://purl.org/dc/elements/1.1/creator",
+        "val" : "http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl#DIPONI_project"
+      }, {
+        "pred" : "http://purl.org/dc/elements/1.1/creator",
+        "val" : "http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl#InSuKa_project"
       }, {
         "pred" : "http://purl.org/dc/elements/1.1/date",
         "val" : "2023-06-01T00:00:00"
@@ -22,7 +28,7 @@
         "val" : "TIB (2023): DigitRubber Ontology. An ontology demonstrating rich ontology for rubber extrusion. PURL: http://www.purl.org/OntoMeta/DigitRubberOntology."
       }, {
         "pred" : "http://purl.org/dc/terms/contributor",
-        "val" : "http://purl.obolibrary.org/obo/digitrubber/0000-0000-0000-0000"
+        "val" : "https://orcid.org/0000-0002-8280-0487"
       }, {
         "pred" : "http://purl.org/dc/terms/created",
         "val" : "2023-06-01T00:00:00"
@@ -30,14 +36,17 @@
         "pred" : "http://purl.org/dc/terms/description",
         "val" : "DigitRubber Ontology"
       }, {
+        "pred" : "http://purl.org/dc/terms/description",
+        "val" : "The DIGIT RUBBER Ontology (DRO) is used to represent data, information, and knowledge relating to rubber and rubber production."
+      }, {
         "pred" : "http://purl.org/dc/terms/format",
         "val" : "https://www.iana.org/assignments/media-types/application/rdf+xml"
       }, {
         "pred" : "http://purl.org/dc/terms/license",
-        "val" : "https://creativecommons.org/licenses/unspecified"
+        "val" : "https://creativecommons.org/licenses/by/4.0/"
       }, {
         "pred" : "http://purl.org/dc/terms/modified",
-        "val" : "2024-02-22T00:00:00"
+        "val" : "2025-09-25T00:00:00"
       }, {
         "pred" : "http://purl.org/dc/terms/references",
         "val" : "https://zenodo.org/record/0000000"
@@ -64,7 +73,7 @@
         "val" : "https://id.loc.gov/vocabulary/iso639-2/eng"
       }, {
         "pred" : "http://usefulinc.com/ns/doap#audience",
-        "val" : "DigitRubber ontology has been developed for rubber extrusion"
+        "val" : "The DIGIT RUBBER ontology is aimed at anyone who wants to semantically annotate knowledge and data related to rubber."
       }, {
         "pred" : "http://usefulinc.com/ns/doap#bug-database",
         "val" : "https://github.com/TIBHannover/DIGIT-RUBBER/issues"
@@ -73,16 +82,16 @@
         "val" : "https://github.com/TIBHannover/DIGIT-RUBBER"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "07:05:2025 14:18"
+        "val" : "21:10:2025 12:17"
       }, {
         "pred" : "http://www.loc.gov/premis/rdf/v3/documentation",
         "val" : "https://tibhannover.github.io/DIGIT-RUBBER/"
       }, {
         "pred" : "http://www.w3.org/2002/07/owl#versionInfo",
-        "val" : "2025-05-07"
+        "val" : "2025-10-21"
       }, {
         "pred" : "http://www.w3.org/2002/07/owl#versionInfo",
-        "val" : "v2025-May-7"
+        "val" : "v2025-September-25"
       }, {
         "pred" : "http://www.w3.org/ns/adms#versionNotes",
         "val" : "A description of changes between last version and current version of the ontology."
@@ -102,10 +111,15 @@
         "pred" : "https://w3id.org/mod#hasFormalityLevel",
         "val" : "The DigitRubber ontology aplies OWL2 EL (cf. https://www.w3.org/TR/2012/REC-owl2-profiles-20121211/#OWL_2_EL)"
       } ],
-      "version" : "http://purl.obolibrary.org/obo/digitrubber/releases/2025-05-07/digitrubber-base.json"
+      "version" : "http://purl.obolibrary.org/obo/digitrubber/releases/2025-10-21/digitrubber-base.json"
     },
     "nodes" : [ {
       "id" : "http://omv.ontoware.org/2005/05/ontology#hasOntologySyntax",
+      "type" : "PROPERTY",
+      "propertyType" : "ANNOTATION"
+    }, {
+      "id" : "http://purl.obolibrary.org/obo/DIGITRUBBER_72a5f0d7_2892_45ff_9e35_1440616c382b",
+      "lbl" : "NoSubclassAssignedBasedOnCoarseClassificationFound",
       "type" : "PROPERTY",
       "propertyType" : "ANNOTATION"
     }, {

@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+prefix owl: <http://www.w3.org/2002/07/owl#>
+prefix obo: <http://purl.obolibrary.org/obo/>
+
+SELECT ?prefix (COUNT(DISTINCT ?cls) AS ?numberOfClasses) WHERE 
+{
+  ?cls a owl:Class .
+  FILTER (!isBlank(?cls))
+  BIND( STRBEFORE(STRAFTER(str(?cls),"http://purl.obolibrary.org/obo/"), "_") AS ?prefix)
+}
+=======
+prefix owl: <http://www.w3.org/2002/07/owl#>
+prefix obo: <http://purl.obolibrary.org/obo/>
+
+SELECT ?prefix (COUNT(DISTINCT ?cls) AS ?numberOfClasses) WHERE 
+{
+  ?cls a owl:Class .
+  FILTER (!isBlank(?cls))
+  BIND( STRBEFORE(STRAFTER(str(?cls),"http://purl.obolibrary.org/obo/"), "_") AS ?prefix)
+}
+>>>>>>> 2e47c397cb0c8ffeef503094acc3b03589cd31c8
+GROUP BY ?prefix

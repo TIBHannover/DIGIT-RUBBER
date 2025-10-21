@@ -1,0 +1,1487 @@
+?cls	?def	?xrefs
+<https://w3id.org/pmd/co/PMD_0050005>		
+<https://w3id.org/pmd/co/PMD_0000014>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000229>	"Measurement method using visible light to analyse the property of a substance"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000577>	"that component of an applied normal stress which is in quadrature (90° out of phase) with the normal strain, divided by the strain"@en	
+<https://w3id.org/pmd/co/PMD_0050029>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000578>	"Maß für die Steifigkeit unter definierten Bedingungen bei Verformung"@de	
+<http://purl.obolibrary.org/obo/CHEBI_17514>	"A pseudohalide anion that is the conjugate base of hydrogen cyanide."@en	"PDBeChem:CYN PMID:14871577 Wikipedia:Cyanide CAS:57-12-5 Beilstein:1900509 KEGG:C00177 PMID:7839575 Gmelin:89 PMID:11386635 HMDB:HMDB0002084 MetaCyc:CPD-13584 PMID:17554165 Reaxys:1900509"
+<https://w3id.org/pmd/co/PMD_0050072>		
+<http://purl.obolibrary.org/obo/CHEBI_33377>	"A lanthanoid atom that has formula Dy."	
+<http://purl.obolibrary.org/obo/BFO_0000018>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000559>	"Menge in Gramm an adsorbiertem Iod pro Kilogramm Ruß unter definierten Bedingungen"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000468>		
+<https://w3id.org/pmd/co/PMD_0000583>		
+<https://w3id.org/pmd/co/PMD_0001017>		
+<https://w3id.org/pmd/co/PMD_0050096>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000341>	"machine with two counter-rotating rolls, frequently heated or cooled, usually driven at different speeds, and having an adjustable nip for mastication, mixing, blending, warm-up or sheeting"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000444>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000311>		
+<http://purl.obolibrary.org/obo/CHEBI_25555>	"A pnictogen that has formula N."	
+<https://w3id.org/pmd/co/PMD_0050006>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000487>	"state of vulcanization beyond the optimum cure"@en	
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000026>	"In physical testing, it refers to a constant increase or decrease of testing parameters such as deformation frequency, deformation amplitude or temperature."@en	
+<http://purl.obolibrary.org/obo/CHEBI_35352>	"Any heteroorganic entity containing at least one carbon-nitrogen bond."@en	
+<https://www.tib.eu/digitrubber#http://www.ebi.ac.uk/efo/EFO_0001702>	"Temperature is a physical quality of the thermal energy of a system."@en	
+<https://w3id.org/pmd/co/PMD_0050071>		
+<https://w3id.org/pmd/co/PMD_0000584>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000467>		
+<https://w3id.org/pmd/co/PMD_0001016>		
+<https://w3id.org/pmd/co/PMD_0000560>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000084>	"Rücksprache DIK"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000443>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000334>		
+<https://w3id.org/pmd/co/PMD_0050095>		
+<http://purl.obolibrary.org/obo/CHEBI_33595>	"Any molecule that consists of a series of atoms joined together to form a ring."	"Wikipedia:Cyclic_compound"
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000504>	"A qualitative or quantitative analysis performed to determine the amount of a particular constituent in a sample or the biological or pharmacological properties of a drug."@en	
+<https://w3id.org/pmd/co/PMD_0050007>		
+<https://w3id.org/pmd/co/PMD_0050094>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000281>	"Verbund von zusammenhängenden Aggregaten, die bei normaler Kautschukverarbeitung leicht getrennt werden können"@de	
+<https://w3id.org/pmd/co/PMD_0050070>		
+<https://w3id.org/pmd/co/PMD_0000585>		
+<https://w3id.org/pmd/co/PMD_0200001>		
+<http://purl.obolibrary.org/obo/OBI_0100051>	"A material entity that is collected for potential use as an input upon which measurements or observations are performed."@en	
+<http://purl.obolibrary.org/obo/CHEBI_23367>	"Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer etc., identifiable as a separately distinguishable entity."	
+<http://purl.obolibrary.org/obo/CHEBI_23367>	"Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer etc., identifiable as a separately distinguishable entity."@en	
+<https://w3id.org/pmd/co/PMD_0001015>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000313>		
+<https://w3id.org/pmd/co/PMD_0000561>		
+<http://purl.obolibrary.org/obo/CHEBI_33304>	"Any p-block molecular entity containing a chalcogen."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000100>	"The extrusion throughput indicates how many kilograms of material are extruded in a given unit of time."@en	
+<http://purl.obolibrary.org/obo/BFO_0000023>	"A realizable entity  the manifestation of which brings about some result or end that is not essential to a continuant  in virtue of the kind of thing that it is but that can be served or participated in by that kind of continuant  in some kinds of natural, social or institutional contexts."@en	
+<http://purl.obolibrary.org/obo/CHEBI_25805>	"A chalcogen that has formula O."	
+<https://w3id.org/pmd/co/PMD_0050008>		
+<https://w3id.org/pmd/co/PMD_0000017>		
+<http://purl.obolibrary.org/obo/CHEBI_27698>	"A vanadium group element atom that has formula V."	
+<https://w3id.org/pmd/co/PMD_0050093>		
+<https://w3id.org/pmd/co/PMD_0000562>		
+<http://purl.obolibrary.org/obo/BFO_0000019>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000282>	"Starre Gruppe von koaleszierten Partikeln, welche die kleinste Einheit ist, die bei normaler Kautschukverarbeitung dispergiert werden kann"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000095>	"Control variable for setting the temperature of the tool."@en	
+<https://w3id.org/pmd/co/PMD_0000586>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000445>		
+<http://purl.obolibrary.org/obo/OBI_0000014>	"a regulatory role involved with making and/or enforcing relevant legislation and governmental orders"@en	
+<https://w3id.org/pmd/co/PMD_0000780>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000469>		
+<https://w3id.org/pmd/co/PMD_0001014>		
+<http://purl.obolibrary.org/obo/NCIT_C25518>	"The normal action performed by a structure or device."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000421>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000554>		
+<http://purl.obolibrary.org/obo/CHEBI_28798>	"A polymer consisting of cis-linked prenyl units."@en	"KEGG:C02321"
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000205>	"The quantity of a substance per unit volume or weight; a measure of the amount of substance present in a unit amount of mixture, particularly, the amount of solute dissolved in a solvent. The amounts can be expressed as moles, masses, volumes, or parts. (ncit defined)"@en	
+<http://purl.obolibrary.org/obo/OBI_0000371>	"A heat function is a function that increases the internal kinetic energy of a material"@en	
+<http://purl.obolibrary.org/obo/CHEBI_25195>	"A zinc group element atom that has formula Hg."	
+<https://w3id.org/pmd/co/PMD_0000915>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000515>	"An assay with the objective to produce information about the viscosity of the material entity that is the evaluant, by physically examining it or its proxies."@en	
+<https://w3id.org/pmd/co/PMD_0000806>		
+<https://w3id.org/pmd/co/PMD_0000939>		
+<http://purl.obolibrary.org/obo/CHEBI_59999>	"A chemical substance is a portion of matter of constant composition, composed of molecular entities of the same type or of different types."@en	
+<https://w3id.org/pmd/co/PMD_0050009>		
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000027>	"In physical testing, it refers to a deformation regime in which layers of fluid or solid are forced to move parallel to each other."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000574>	"that component of an applied shear stress which is in phase with the shear strain, divided by the strain"@en	
+<https://w3id.org/pmd/co/PMD_0050092>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000584>	"Typ eines Rheometers, bei welchem die Kraft, die auf die Kautschukmischung einwirkt, durch die Oszillation einer von zwei Platten erzeugt wird, die die Kammer bilden, in welcher die Testprobe eingeschlossen ist"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000587>	"flache Metallplatte (oder Schale), die Hitze und Druck auf ein oder mehrere Formteile überträgt, die sich in einer Presse befinden"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000648>	"Is a family of fluorocarbon-based fluoroelastomer materials that contain vinylidene fluoride as a monomer."@en	
+<https://w3id.org/pmd/co/PMD_0020080>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000329>	"Trade name for a specific zinc dibenzyldithiocarbamate"@en	
+<http://purl.obolibrary.org/obo/NCIT_C84383>	"An array of entities, such as light waves or particles, ordered in accordance with the magnitudes of a common physical property, such as wavelength or mass."@en	
+<http://purl.obolibrary.org/obo/OBI_0000571>	"Manufacturer role is a role which inheres in a person or organization and which is realized by a manufacturing process."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000400>		
+<http://purl.obolibrary.org/obo/CHEBI_33368>	"A copper group element atom with atomic number 111. The the ninth member of the 6d series of transition metals, it is an extremely radioactive, synthetic element. Average mass is around 281."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000339>		
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000004>	"Polymer (e.g. BR, SSBR) before being compounded."@en	
+<http://www.ontology-of-units-of-measure.org/resource/om-2/Length>	"Length is the amount of space between two geographical points along a curve. It is a base quantity in the International System of Units and other systems of units. Length is speed times time. The metre, a base unit of length in the International System of Units, is defined in terms of speed of light during a certain time interval."@en	
+<https://w3id.org/pmd/co/PMD_0000916>		
+<https://w3id.org/pmd/co/PMD_0000807>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000489>	"ein oder mehrere Teile, entnommen aus einem Los, um Informationen über dieses Los zu liefern und möglicherweise als Entscheidungsbasis über das Los oder seinen Herstellprozess zu dienen"@de	
+<http://purl.obolibrary.org/obo/CHEBI_25107>	"An alkaline earth metal atom that has formula Mg."	
+<https://w3id.org/pmd/co/PMD_0050091>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000391>	"drop door temperature control unit"@en	
+<https://w3id.org/pmd/co/PMD_0020081>		
+<http://purl.obolibrary.org/obo/OBI_0200041>	"A k-means clustering is a data transformation which achieves a class discovery or partitioning objective, which takes as input a collection of objects (represented as points in multidimensional space) and which partitions them into a specified number k of clusters. The algorithm attempts to find the centers of natural clusters in the data. The most common form of the algorithm starts by partitioning the input points into k initial sets, either at random or using some heuristic data. It then calculates the mean point, or centroid, of each set. It constructs a new partition by associating each point with the closest centroid. Then the centroids are recalculated for the new clusters, and the algorithm repeated by alternate applications of these two steps until convergence, which is obtained when the points no longer switch clusters (or alternatively centroids are no longer changed)."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000477>	"chemical bond or atom(s) joining two rubber chains or two parts of the same rubber chain as a result of vulcanization"@en	
+<https://w3id.org/pmd/co/PMD_0000580>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000556>		
+<http://purl.obolibrary.org/obo/CHEBI_18248>	"An iron group element atom that has atomic number 26."	
+<http://purl.obolibrary.org/obo/OBI_0200042>	"A hierarchical clustering is a data transformation which achieves a class discovery objective, which takes as input data item and builds a hierarchy of clusters. The traditional representation of this hierarchy is a tree (visualized by a dendrogram), with the individual input objects at one end (leaves) and a single cluster containing every object at the other (root)."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000559>	"Number of grams of iodine adsorbed per kilogram of carbon black under specified conditions"@en	
+<https://w3id.org/pmd/co/PMD_0000917>		
+<https://w3id.org/pmd/co/PMD_0000808>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000330>	"Mischungsbestandteil, der die Vernetzung des Kautschuks bewirkt"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000089>	"Control variable that indicates how high the speed of the screw is during extrusion."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000295>	"solid compounding ingredient, in particulate form, which may be added in relatively large proportions to a rubber or rubber latex for technical or economic purposes"@en	
+<http://purl.obolibrary.org/obo/CHEBI_30430>	"A metallic element first identified and named from the brilliant indigo (Latin indicum) blue line in its flame spectrum."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000587>	"flat metal plate (or chest) which applies heat and pressure to one or more mould(s) in a press"@en	
+<https://w3id.org/pmd/co/PMD_0050090>		
+<https://w3id.org/pmd/co/PMD_0020082>		
+<http://purl.obolibrary.org/obo/NCIT_C53322>	"A measure of the range of values in a set of numbers. Standard deviation is a statistic used as a measure of the dispersion or variation in a distribution, equal to the square root of the arithmetic mean of the squares of the deviations from the arithmetic mean. (ncit defined)"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000117>	"A cost group for the total sales value generated in a time period X by the system under investigation"@en	
+<https://w3id.org/pmd/co/PMD_0000581>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000535>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000063>	"Online characterisation is the characterization of the material properties during the process and on the real process line in order to be able to react to fluctuations during production."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000426>		
+<https://w3id.org/pmd/co/PMD_0001019>		
+<http://purl.obolibrary.org/obo/IAO_0000104>	"A directive information entity with action specifications and objective specifications as parts, and that may be concretized as a realizable entity that, if realized, is realized in a process in which the bearer tries to achieve the objectives by taking the actions specified."@en	
+<https://w3id.org/pmd/co/PMD_0000809>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000492>	"Körper eines Materials von geeigneter Form und Dimension, fertig vorbereitet zur Verwendung in einer Prüfung"@de	
+<https://w3id.org/pmd/co/PMD_0000918>		
+<https://w3id.org/pmd/co/PMD_0020083>		
+<http://purl.obolibrary.org/obo/CHEBI_33359>	"A cobalt group element atom of atomic number 45."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000425>		
+<http://purl.obolibrary.org/obo/CHEBI_84291>	"An organic anion in which the charge resides on a sulfur atom."@en	
+<https://w3id.org/pmd/co/PMD_0000582>		
+<http://purl.obolibrary.org/obo/CHEBI_33376>	"A lanthanoid atom that has formula Tb."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000143>	"The amount of electricity (kw/h) that is consumed by all entities in the system under investigation. Constitutes a factor of the energy cost, storage cost and production cost group."@en	
+<https://w3id.org/pmd/co/PMD_0001018>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000488>	"state of vulcanization less than the optimum cure"@en	
+<https://w3id.org/pmd/co/PMD_0000919>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000449>		
+<http://purl.obolibrary.org/obo/OBI_0000017>	"a role which inheres in material entities and is realized in the processes of making, enforcing or being defined by legislation or orders issued by a governmental body."@en	
+<http://purl.obolibrary.org/obo/OBI_0000457>	"Manufacturing is a process with the intent to produce a processed material which will have a function for future use. A person or organization (having manufacturer role) is a participant in this process"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000333>	"Mischungsbestandteil, eingesetzt zur Verringerung der Tendenz einer Kautschukmischung, vorzeitig zu vulkanisieren"@de	
+<https://w3id.org/pmd/co/PMD_0000567>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000322>	"Trade name for a specific di(benzothiazol-2-yl)disulfide"@en	
+<https://w3id.org/pmd/co/PMD_0000870>		
+<https://w3id.org/pmd/co/PMD_0000894>		
+<https://w3id.org/pmd/co/PMD_0000543>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000332>	"rate at which a rubber compound vulcanizes after having reached the point of incipient vulcanization"@en	
+<https://w3id.org/pmd/co/PMD_0000785>		
+<https://w3id.org/pmd/co/PMD_0000652>		
+<https://w3id.org/pmd/co/PMD_0020101>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000399>		
+<http://purl.obolibrary.org/obo/OBI_0000272>	"A plan specification which has sufficient level of detail and quantitative information to communicate it between investigation agents, so that different investigation agents will reliably be able to independently reproduce the process."@en	
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000000>	"Average molecular weight of the chains of a polymer, weighted by the mass of each chain (2nd moment of the molecular weight)"@en	
+<http://purl.obolibrary.org/obo/CHEBI_33386>	"An actinoid atom that has formula Pa."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000413>	"Die Zugabereihenfolge bezieht sich darauf, wie verschiedene Bestandteile oder Substanzen nacheinander oder in einer bestimmten Reihenfolge verabreicht werden, um einen bestimmten Effekt zu erzielen."@de	
+<http://purl.obolibrary.org/obo/OBI_0200190>	"A data visualization which has input of a clustered data set and produces an output of a report graph which is capable of rendering data of this type."@en	
+<https://w3id.org/pmd/co/PMD_0000786>		
+<https://w3id.org/pmd/co/PMD_0000544>		
+<https://w3id.org/pmd/co/PMD_0000980>		
+<https://w3id.org/pmd/co/PMD_0000871>		
+<https://w3id.org/pmd/co/PMD_0000653>		
+<https://w3id.org/pmd/co/PMD_0000520>		
+<https://w3id.org/pmd/co/PMD_0000895>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000318>	"accelerator used in low concentrations with the primary accelerator to optimize cure rate and vulcanizate properties"@en	
+<https://w3id.org/pmd/co/PMD_0020126>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000293>	"Kautschuktyp, der eine ungesättigte Kohlenstoffhauptkette hat, die zumeist auf Butadien oder substituiertem Butadien basiert"@de	
+<https://w3id.org/pmd/co/PMD_0020102>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000099>	"The outlet sourface of the extruder gives the extrudate its characteristic geometry."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000106>	"Cumulative expression for the value of all costs groups within the system under study"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000398>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000479>	"〈Aktion〉 Erzeugung von Vernetzungen zwischen oder innerhalb von Kautschukketten unter Ausbildung eines Netzwerks"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000644>	"Is a synthetic rubber, a copolymer of isobutylene with isoprene"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000370>	"radial clearance between the roll surfaces of a mill or calender on a line of centres"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000048>	"Rubber is an elastic substance made either from the juice of particular tropical trees or artificially. It is raw material for car tires and other technical products."@en	
+<https://w3id.org/pmd/co/PMD_0000896>		
+<https://w3id.org/pmd/co/PMD_0000654>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000570>		
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000007>	"Polymerization is performed in an emulsion where polymer particles (and consequently, crumbs) are carried in a liquid (water) medium."@en	
+<https://w3id.org/pmd/co/PMD_0000569>		
+<https://w3id.org/pmd/co/PMD_0000981>		
+<https://w3id.org/pmd/co/PMD_0000521>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000573>	"ratio of the normal stress to the normal strain, where each can be represented by a complex number"@en	
+<https://w3id.org/pmd/co/PMD_0000630>		
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000005>	"Rubber polymer with butadiene as its only monomer."@en	
+<https://w3id.org/pmd/co/PMD_0020103>		
+<https://w3id.org/pmd/co/PMD_0040001>		
+<https://w3id.org/pmd/co/PMD_0050119>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000303>	"hydrocarbon process oil, most or all of which is composed of alkanes"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000265>	"A measure of the amount of variation of a set of values."@en	
+<https://www.tib.eu/digitrubber#http://purl.obolibrary.org/obo/NCIT_C948>	"An element with atomic symbol Zn, atomic number 30, and atomic weight 65.39."@en	
+<http://purl.obolibrary.org/obo/CHEBI_33373>	"A lanthanoid atom that has formula Pm."	
+<https://w3id.org/pmd/co/PMD_0000655>		
+<https://w3id.org/pmd/co/PMD_0000522>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000460>		
+<https://w3id.org/pmd/co/PMD_0000788>		
+<https://w3id.org/pmd/co/PMD_0000546>		
+<https://w3id.org/pmd/co/PMD_0000982>		
+<https://w3id.org/pmd/co/PMD_0000631>		
+<https://w3id.org/pmd/co/PMD_0000873>		
+<https://w3id.org/pmd/co/PMD_0020104>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000304>	"Trade name for a specific paraffinic oil"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000135>	"A person who handles a company's incoming and outgoing raw materials, semi-finished prodcuts as well as finished products, and who manages stocks in the system under investigation. Constitutes an entity of the human ressource and the storage cost group."@en	
+<http://purl.obolibrary.org/obo/CHEBI_33346>	"A titanium group element atom that has formula Rf."	
+<http://purl.obolibrary.org/obo/CHEBI_25016>	"A carbon group element atom that has formula Pb."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000285>	"substance composed of molecules characterized by the multiple repetition of one or more species of atoms or groups of atoms (constitutional units) linked to each other in amounts sufficient to provide a set of properties that do not vary markedly with the addition or removal of one or a few of the constitutional units"@en	
+<http://purl.obolibrary.org/obo/CHEBI_33250>	"A chemical entity constituting the smallest component of an element having the chemical properties of the element."	
+<https://www.tib.eu/digitrubber#http://www.w3.org/ns/sosa/Sensor>	"Device, agent (including humans), or software (simulation) involved in, or implementing, a Procedure. Sensors respond to a stimulus, e.g., a change in the environment, or input data composed from the results of prior Observations, and generate a Result. Sensors can be hosted by Platforms."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000533>	"A protocol which specifies the conditions, procedures, and instruments used for conducting a measurement assay in a sufficient level of detail to communicate it between investigation agents, so that different investigation agents will reliably be able to independently reproduce the measurement assay."@en	
+<http://purl.obolibrary.org/obo/CHEBI_29362>		
+<https://w3id.org/pmd/co/PMD_0050118>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000492>	"piece of material of appropriate shape and size, prepared so that it is ready for use in a test"@en	
+<http://purl.obolibrary.org/obo/CHEBI_33833>	"A heterocyclic compound formally derived from an arene by replacement of one or more methine (-C=) and/or vinylene (-CH=CH-) groups by trivalent or divalent heteroatoms, respectively, in such a way as to maintain the continuous pi-electron system characteristic of aromatic systems and a number of out-of-plane pi-electrons corresponding to the Hueckel rule (4n+2)."@en	
+<https://w3id.org/pmd/co/PMD_0020128>		
+<http://purl.obolibrary.org/obo/CHEBI_33375>	"A lanthanoid atom that has formula Gd."	
+<http://purl.obolibrary.org/obo/CHEBI_50803>	"A nanosized spherical or capsule-shaped structure."	
+<http://purl.obolibrary.org/obo/OBI_0001931>	"A value specification that consists of two parts: a numeral and a unit label"@en	
+<https://w3id.org/pmd/co/PMD_0000563>		
+<https://w3id.org/pmd/co/PMD_0000587>		
+<http://purl.obolibrary.org/obo/IAO_0000015>	"A quality of an information bearer that imparts the information content"@en	
+<https://w3id.org/pmd/co/PMD_0020105>		
+<https://w3id.org/pmd/co/PMD_0000890>		
+<https://w3id.org/pmd/co/PMD_0000781>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000464>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000597>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000355>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000009>	"uppermost layer of the extrudate"@en	
+<http://purl.obolibrary.org/obo/CHEBI_36828>		
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000003>	"Ratio of Mw to Mn"@en	
+<http://purl.obolibrary.org/obo/CHEBI_49696>	"A noble gas atom that has formula Kr."	
+<https://w3id.org/pmd/co/PMD_0020129>		
+<https://www.tib.eu/digitrubber#http://purl.obolibrary.org/obo/NCIT_C64925>	"To bring or combine together or with something else; add as an additional element or part."@en	
+<http://purl.obolibrary.org/obo/PATO_0002182>	"A quality which inheres in a molecular entity, a single molecule, atom, ion, radical etc."@en	
+<https://w3id.org/pmd/co/PMD_0000588>		
+<http://purl.obolibrary.org/obo/PATO_0000051>	"A quality of a single physical entity inhering in the bearer by virtue of the bearer's size or shape or structure."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000571>		
+<https://w3id.org/pmd/co/PMD_0000782>		
+<https://w3id.org/pmd/co/PMD_0000540>		
+<https://w3id.org/pmd/co/PMD_0000564>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000125>	"The product that emerges at the end of the production process of the system under study.  Constitutes an entity in the material cost, production cost, and waste management cost group."@en	
+<https://w3id.org/pmd/co/PMD_0000891>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000003>		
+<http://purl.obolibrary.org/obo/UO_0000016>	"A length unit which is equal to one thousandth of a meter or 10^[-3] m. (uo defined)"	
+<http://purl.obolibrary.org/obo/CHEBI_33319>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000301>	"Handelsname für ein spezifischen N600-Ruß"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000300>	"Ein N-Ruß mit einer durchschnittlichen Stickstoff-Oberfläche von 33 bis 39 m²/g."@de	
+<http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25463>	"Determining the number or amount of something."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000462>	"An extruder zone in which raw polymer material is introduced into the extruder for subsequent processing."@en	
+<http://purl.obolibrary.org/obo/CHEBI_29287>	"A copper group element atom that has formula Au."	
+<http://purl.obolibrary.org/obo/CHEBI_36829>		
+<https://w3id.org/pmd/co/PMD_0050116>		
+<https://w3id.org/pmd/co/PMD_0020106>		
+<http://purl.obolibrary.org/obo/CHEBI_33337>	"A scandium group element atom that has formula Ac."	
+<http://purl.obolibrary.org/obo/CHEBI_33313>	"A radioactive metallic element discovered in 1898 by Marie Sklodowska Curie and named after her home country, Poland (Latin Polonia)."	
+<http://purl.obolibrary.org/obo/OBI_0000070>	"A planned process with the objective to produce information about the material entity that is the evaluant, by physically examining it or its proxies."@en	
+<http://purl.obolibrary.org/obo/CHEBI_38106>		
+<https://w3id.org/pmd/co/PMD_0000589>		
+<http://purl.obolibrary.org/obo/CHEBI_28073>	"A chromium group element atom that has atomic number 24."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000312>	"Handelsname für ein spezifisches Zinkoxid"@de	
+<https://w3id.org/pmd/co/PMD_0000541>		
+<http://purl.obolibrary.org/obo/CHEBI_33310>	"A noble gas atom that has formula Ne."	
+<https://w3id.org/pmd/co/PMD_0000783>		
+<https://w3id.org/pmd/co/PMD_0000650>		
+<http://purl.obolibrary.org/obo/CHEBI_33325>	"An alkaline earth metal atom that has formula Ra."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000430>	"product of an extrusion process"@en	
+<https://w3id.org/pmd/co/PMD_0000565>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000181>	"Material that is used to support the structure of rubber-based products (e.g., steel cords). Constitutes an entity subgroup of the raw material entity."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000466>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000494>	"roher, gemischter, vulkanisierter oder teilweise vulkanisierter Kautschuk, der bei der Produktion ver-worfen oder als Abfall deklariert und für die weitere Verwendung, außer zum Recyceln, als ungeeignet befunden wird"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000631>	"A concentration of ethylene inhering in a substance by virtue of the amount of the bearer's there is mixed with ethylene."@en	
+<http://purl.dataone.org/odo/ECSO_00001120>	"the strength of a solution; number of molecules of a substance in a given volume (ecso defined)"@en	
+<http://purl.obolibrary.org/obo/CHEBI_30415>	"A halogen that has formula At."	
+<https://w3id.org/pmd/co/PMD_0050139>		
+<https://w3id.org/pmd/co/PMD_0050115>		
+<http://purl.obolibrary.org/obo/IAO_0000009>	"A label is a symbol that is part of some other datum and is used to either partially define  the denotation of that datum or to provide a means for identifying the datum as a member of the set of data with the same label"@en	
+<http://purl.obolibrary.org/obo/CHEBI_51446>		
+<https://w3id.org/pmd/co/PMD_0000566>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000428>	"rotierendes Glied mit einer oder mehreren helixförmigen Rillen, das verwendet wird, um einen Kautschuk innerhalb eines Extruderrohrs voranzutreiben"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000642>	"Polybutadiene [butadiene rubber BR] is a synthetic rubber. Polybutadiene rubber is a polymer formed from the polymerization of the monomer 1,3-butadiene. Polybutadiene has a high resistance to wear and is used especially in the manufacture of tires."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000440>		
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000014>	"A filler based on structured carbon which is present in larger fractions in sidewall than in tread compounds. Every CB grade has two major properties that determine its properties."@en	
+<https://w3id.org/pmd/co/PMD_0000651>		
+<https://w3id.org/pmd/co/PMD_0000893>		
+<https://w3id.org/pmd/co/PMD_0000784>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000129>	"A person who operates a machine entity unit in the system under investigation. Constitutes an entity of the human resource and the production cost group."@en	
+<https://w3id.org/pmd/co/PMD_0000542>		
+<http://purl.obolibrary.org/obo/CHEBI_33342>	"A titanium group element atom that has formula Zr."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000537>	"A measurement protocol for reliably reproducing the viscosity measurement assay."@en	
+<https://www.tib.eu/digitrubber#http://www.ontology-of-units-of-measure.org/resource/om-2/Temperature>	"Temperature is the extent to which an object is hot."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000632>	"A concentration of ethylidene norbornene inhering in a substance by virtue of the amount of the bearer's there is mixed with ethylidene norbornene."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000441>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000465>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000598>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000356>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000315>	"Trade name for a specific stearic acid"@en	
+<https://w3id.org/pmd/co/PMD_0020108>		
+<https://w3id.org/pmd/co/PMD_0050138>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000317>	"principal accelerator used in a vulcanizing system"@en	
+<https://w3id.org/pmd/co/PMD_0050114>		
+<http://purl.obolibrary.org/obo/CHEBI_33380>	"A lanthanoid atom that has formula Tm."	
+<https://w3id.org/pmd/co/PMD_0000648>		
+<https://w3id.org/pmd/co/PMD_0000539>		
+<https://w3id.org/pmd/co/PMD_0000951>		
+<https://w3id.org/pmd/co/PMD_0000600>		
+<https://w3id.org/pmd/co/PMD_0000975>		
+<https://w3id.org/pmd/co/PMD_0000624>		
+<https://w3id.org/pmd/co/PMD_0000866>		
+<http://purl.obolibrary.org/obo/CHEBI_48343>	"Compounds of structure RSSR'."@en	
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000013>	"Solid particles added to compound to generate enforcement."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000244>	"In terms of digtal image procession: correction methods to compensate image errors caused by lense distorsion or perspective."@en	
+<https://w3id.org/pmd/co/PMD_0050113>		
+<https://w3id.org/pmd/co/PMD_0020068>		
+<https://w3id.org/pmd/co/PMD_0020153>		
+<https://w3id.org/pmd/co/PMD_0020044>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000276>	"The relative proportions of monomers that make up a particular chemical polymer (raw rubber)."@en	
+<https://w3id.org/pmd/co/PMD_0000003>	"A directive information entity with action specifications and objective specifications as parts, and that may be concretized as a realizable entity that, if realized, is realized in a process in which the bearer tries to achieve the objectives by taking the actions specified."@en	
+<https://w3id.org/pmd/co/PMD_0050137>		
+<http://purl.obolibrary.org/obo/CHEBI_27560>	"A boron group element atom that has formula B."	
+<https://w3id.org/pmd/co/PMD_0000867>		
+<http://purl.obolibrary.org/obo/CHEBI_28694>	"A copper group element atom that has formula Cu."	
+<https://w3id.org/pmd/co/PMD_0000625>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000647>	"Known as nitrile butadiene rubber and acrylonitrile butadiene rubber, is a synthetic rubber derived from acrylonitrile (ACN) and butadiene."@en	
+<http://purl.allotrope.org/ontologies/result#AFR_0000068>	"A spectrum is a data distribution function of a measured quantity in a spectroscopy against some experimental parameter. [Allotrope]"@en	
+<http://purl.obolibrary.org/obo/CHEBI_33374>	"A lanthanoid atom that has formula Sm."	
+<https://w3id.org/pmd/co/PMD_0000649>		
+<https://w3id.org/pmd/co/PMD_0000952>		
+<http://purl.obolibrary.org/obo/CHEBI_33390>	"An actinoid atom that has formula Cm."	
+<http://purl.obolibrary.org/obo/CHEBI_33517>	"A zinc group element atom with a symbol Cn and atomic number 112. All its isotopes are intensely radioactive. Prior to its discovery, it had the placeholder name ununbium (in accordance with IUPAC recommendations). Following its discovery (in Darmstadt, 1996) and subsequent confirmation, the name copernicium was adopted in 2010."	
+<https://w3id.org/pmd/co/PMD_0000976>		
+<https://w3id.org/pmd/co/PMD_0000601>		
+<http://purl.obolibrary.org/obo/CHEBI_194541>	"A p-block element atom with a symbol Og and atomic number 118."	
+<https://w3id.org/pmd/co/PMD_0050112>		
+<https://w3id.org/pmd/co/PMD_0020069>		
+<https://w3id.org/pmd/co/PMD_0020045>		
+<http://purl.obolibrary.org/obo/CHEBI_79056>	"Any compound that is used as an additive to increase the plasticity or fluidity of a substance, particularly but not exclusively to synthetic polymers."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000301>	"Trade name for a specific N600-carbon black"@en	
+<http://purl.obolibrary.org/obo/OBI_0200175>	"A class discovery data transformation (sometimes called unsupervised classification) is a data transformation that has objective class discovery."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000605>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000476>	"Produkt der Vulkanisation einer Kautschukmischung"@de	
+<https://w3id.org/pmd/co/PMD_0050136>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000123>	"The basic materials from which a finished product is made in the system under investigation. Constitutes an entity in the material cost and waste management cost group."@en	
+<http://purl.obolibrary.org/obo/OBI_0200050>	"A dimensionality reduction is data partitioning which transforms each input m-dimensional vector (x_1, x_2, ..., x_m) into an output n-dimensional vector (y_1, y_2, ..., y_n), where n is smaller than m."@en	
+<https://w3id.org/pmd/co/PMD_0000977>		
+<https://w3id.org/pmd/co/PMD_0000626>		
+<http://purl.allotrope.org/ontologies/result#AFR_0002036>	"A concentration (datum) is a quantification facet that quantifies a quality inhering in a substance by virtue of the amount of the bearer's there is mixed with another substance. [Allotrope]"@en	
+<https://w3id.org/pmd/co/PMD_0000868>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000577>	"der Anteil einer aufgebrachten Normalspannung, welcher 90° phasenverschoben gegenüber der Normaldehnung ist, geteilt durch die Dehnung"@de	
+<https://w3id.org/pmd/co/PMD_0000517>		
+<http://purl.obolibrary.org/obo/NCIT_C75762>	"A measure of the compactness of a substance, expressed as its mass per unit volume."@en	
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000018>	"The lining of the inner wall of a tire which prevents air from escaping."@en	
+<https://w3id.org/pmd/co/PMD_0000820>		
+<http://purl.obolibrary.org/obo/IAO_0000109>	"A measurement datum is an information content entity that is a recording of the output of a measurement such as produced by a device."@en	
+<http://purl.obolibrary.org/obo/CHEBI_33393>	"An actinoid atom that has formula Es."	
+<https://w3id.org/pmd/co/PMD_0000953>		
+<https://w3id.org/pmd/co/PMD_0000602>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000552>	"Any device used to determine the dimension of an object."@en	
+<https://w3id.org/pmd/co/PMD_0050135>		
+<https://w3id.org/pmd/co/PMD_0050111>		
+<https://w3id.org/pmd/co/PMD_0020155>		
+<https://w3id.org/pmd/co/PMD_0020046>		
+<https://w3id.org/pmd/co/PMD_0020131>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000187>	"A non-destructive light scattering technique that provides detailed information about the chemical structure upon the interaction of light with the chemical bonds within a material based on periodic changes of polarizabilities, usually manifested as energy loss (gain) with respect to the incident light."@en	
+<http://purl.obolibrary.org/obo/IAO_0000225>	"The reason for which a term has been deprecated. The allowed values come from an enumerated list of predefined terms. See the specification of these instances for more detailed definitions of each enumerated value."@en	
+<http://purl.obolibrary.org/obo/CHEBI_51422>	"Any organic substituent group, regardless of functional type, having two free valences at carbon atom(s)."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000162>	"A machine that assembles all components and semi-finished products to produce a tire. Constitutes an entity sub-group of the machine entity."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000475>	"Anzahl von Vernetzungen in einem Vulkanisat je Volumen- oder Masseneinheit"@de	
+<http://purl.obolibrary.org/obo/CHEBI_33361>		
+<https://w3id.org/pmd/co/PMD_0000845>		
+<https://w3id.org/pmd/co/PMD_0000978>		
+<https://w3id.org/pmd/co/PMD_0000603>		
+<https://w3id.org/pmd/co/PMD_0000869>		
+<https://w3id.org/pmd/co/PMD_0000518>		
+<https://w3id.org/pmd/co/PMD_0000627>		
+<http://purl.obolibrary.org/obo/CHEBI_30452>	"A chalcogen that has formula Te."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000593>	"A measurement protocol for reliably reproducing the concentration measurement assay."@en	
+<https://w3id.org/pmd/co/PMD_0000821>		
+<http://purl.obolibrary.org/obo/OBI_0000023>	"A data set that is produced as the output of a class prediction data transformation and consists of a data set with assigned class labels."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000494>	"raw, compounded, vulcanized or partially vulcanized rubber rejected or generated as waste during product manufacture and found unsuitable for further use unless recycled"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000422>	"Produkt eines Mischungsvorganges"@de	
+<http://purl.obolibrary.org/obo/IAO_0000309>	"A figure that expresses one or more propositions"@en	
+<https://w3id.org/pmd/co/PMD_0050134>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000047>	"Industry 4.0 is the intelligent networking of machines and processes in the industrial environment, with the help of information and communication technology and thus digitization of the industrial production."@en	
+<http://purl.obolibrary.org/obo/CHEBI_27998>	"A chromium group element atom that has formula W."	
+<https://w3id.org/pmd/co/PMD_0020047>		
+<https://w3id.org/pmd/co/PMD_0050110>		
+<https://w3id.org/pmd/co/PMD_0020023>		
+<http://purl.obolibrary.org/obo/OBI_0000700>	"A support vector machine is a data transformation with a class prediction objective based on the construction of a separating hyperplane that maximizes the margin between two data sets of vectors in n-dimensional space."	
+<https://w3id.org/pmd/co/PMD_0020132>		
+<http://purl.obolibrary.org/obo/OBI_0200051>	"A principal components analysis dimensionality reduction is a dimensionality reduction achieved by applying principal components analysis and by keeping low-order principal components and excluding higher-order ones."@en	
+<https://w3id.org/pmd/co/PMD_0001999>		
+<http://purl.obolibrary.org/obo/NCIT_C48834>	"The degree to which two or more quantities or events are associated, a statistical relation between two or more variables such that systematic changes in the value of one variable are accompanied by systematic changes in the others. The collelation can be described by mathematical functions  (often a linear function is used). It’s a common tool for describing simple relationships without making a statement about cause and effect."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000285>	"Substanz, aufgebaut aus Molekülen, die gekennzeichnet sind durch eine Vielzahl von einer oder mehreren Arten von Atomen oder Atom-Gruppierungen (konstitutive Einheiten), die wiederholt aneinandergereiht sind, in einer Menge, so dass ein gewünschtes Eigenschaftsbild erlangt wird, das sich durch die Addition oder die Entfernung einer oder mehrerer konstitutioneller Einheiten nicht wesentlich ändert"@de	
+<https://w3id.org/pmd/co/PMD_0050049>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000331>	"combination of vulcanizing agent and, as required, accelerators, activators, retarders, etc., used to produce the desired vulcanization characteristics and vulcanizate properties"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000199>	"Natural and synthetic rubber materials that are modified and shaped into rubber products through the rubber extrusion process."@en	
+<http://purl.obolibrary.org/obo/NCIT_C63845>	"A chemical subunit that can undergo polymerization by bonding to other subunits."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000243>	"The information represented by one or more variables, which has to be predicted by data analysis in instrumental analytics"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000453>	"A piece of apparatus that is used to measure a physical quantity."@en	
+<http://purl.obolibrary.org/obo/CHEBI_33372>	"A lanthanoid atom that has formula Nd."	
+<https://w3id.org/pmd/co/PMD_0000559>		
+<http://purl.obolibrary.org/obo/CHEBI_33655>	"A cyclically conjugated molecular entity with a stability (due to delocalization) significantly greater than that of a hypothetical localized structure (e.g. Kekule structure) is said to possess aromatic character."	
+<https://w3id.org/pmd/co/PMD_0000995>		
+<https://w3id.org/pmd/co/PMD_0000644>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000382>		
+<http://purl.obolibrary.org/obo/OBI_0000792>	"A data transformation which assesses how the results of a statistical analysis will generalize to an independent data set."@en	
+<https://w3id.org/pmd/co/PMD_0000886>		
+<https://w3id.org/pmd/co/PMD_0000511>		
+<https://w3id.org/pmd/co/PMD_0000668>		
+<https://w3id.org/pmd/co/PMD_0000777>		
+<https://w3id.org/pmd/co/PMD_0000535>		
+<https://w3id.org/pmd/co/PMD_0000971>		
+<https://w3id.org/pmd/co/PMD_0000620>		
+<https://w3id.org/pmd/co/PMD_0000862>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000096>	"Measured variable that indicates how high is the pressure during extrusion."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000378>	"A mechanical device designed to blend materials or an electronic device designed to blend signals."@en	
+<https://w3id.org/pmd/co/PMD_0050133>		
+<https://w3id.org/pmd/co/PMD_0020048>		
+<https://w3id.org/pmd/co/PMD_0020133>		
+<https://w3id.org/pmd/co/PMD_0020024>		
+<https://w3id.org/pmd/co/PMD_0020000>		
+<http://purl.obolibrary.org/obo/OBI_0001933>	"An information content entity that specifies a value within a classification scheme or on a quantitative scale."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000302>	"Mischungsbestandteil, welcher in geringen Mengen verwendet wird, um die Viskosität einer unvulkanisierten Kautschukmischung oder die Härte eines Vulkanisats zu verringern"@de	
+<http://purl.obolibrary.org/obo/CHEBI_68452>	"Any monocyclic heteroarene consisting of a five-membered ring containing nitrogen. Azoles can also contain one or more other non-carbon atoms, such as nitrogen, sulfur or oxygen."@en	"Wikipedia:Azole"
+<https://www.tib.eu/digitrubber#http://www.w3.org/ns/sosa/Sample>	"Feature which is intended to be representative of a FeatureOfInterest on which Observations may be made."@en	
+<https://w3id.org/pmd/co/PMD_0050048>		
+<http://purl.obolibrary.org/obo/CHEBI_38418>		
+<http://purl.allotrope.org/ontologies/result#AFR_0000984>	"A datum that has non-negative integer values that is about the number of discrete things. [Allotrope]"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000294>	"Trade name for a specific EPDM rubber"@en	
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000006>	"Rubber polymer with styrene and butadiene as monomers. It is the major component of tread compounds."@en	
+<https://w3id.org/pmd/co/PMD_0000512>		
+<http://purl.obolibrary.org/obo/OBI_0000401>	"An environmental control function is a function that regulates a contained environment within specified parameter ranges. For example the control of light exposure, humidity and temperature."@en	
+<https://w3id.org/pmd/co/PMD_0000621>		
+<https://w3id.org/pmd/co/PMD_0000996>		
+<https://w3id.org/pmd/co/PMD_0000536>		
+<https://w3id.org/pmd/co/PMD_0000645>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000476>	"product of the vulcanization of a rubber compound"@en	
+<https://w3id.org/pmd/co/PMD_0000972>		
+<http://www.ontology-of-units-of-measure.org/resource/om-2/Power>	"Power is the time rate at which work is done. It is a derived quantity in the International System of Units. Power is energy divided by time."@en	
+<https://w3id.org/pmd/co/PMD_0050047>		
+<https://w3id.org/pmd/co/PMD_0020049>		
+<https://w3id.org/pmd/co/PMD_0020025>		
+<https://w3id.org/pmd/co/PMD_0050132>		
+<https://w3id.org/pmd/co/PMD_0020001>		
+<http://purl.obolibrary.org/obo/STATO_0000047>	"a count is a data item denoted by an integer and represented the number of instances or occurences of an entity"@en	
+<https://w3id.org/pmd/co/PMD_0020134>		
+<http://purl.obolibrary.org/obo/PATO_0001241>	"A quality which inheres in a continuant."@en	
+<http://edamontology.org/data_2140>	"The concentration of a chemical compound. (edam defined)"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000321>	"An organic disulfide resulting from the formal oxidative coupling of the thiol groups of two molecules of 1,3-benzothiazole-2-thiol. It is used as an accelerator in the rubber industry."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000303>	"Prozessöl aus Kohlenwasserstoffen, das größtenteils oder vollständig aus Alkanen besteht"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000171>	"An object shaped for repair and installation purposes, with the help of which something is processed or manufactured.Constitutes an entity sub-group of the wear parts entity."@en	
+<http://purl.obolibrary.org/obo/CHEBI_33675>	"A main group molecular entity that contains one or more atoms of a p-block element."@en	
+<https://w3id.org/pmd/co/PMD_0000779>		
+<https://w3id.org/pmd/co/PMD_0000537>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000586>	"press having two or more super-imposed heated plates between which moulds are pressed"@en	
+<https://w3id.org/pmd/co/PMD_0000973>		
+<https://w3id.org/pmd/co/PMD_0000622>		
+<https://w3id.org/pmd/co/PMD_0000864>		
+<https://w3id.org/pmd/co/PMD_0000997>		
+<https://w3id.org/pmd/co/PMD_0000646>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000384>		
+<https://w3id.org/pmd/co/PMD_0000513>		
+<https://w3id.org/pmd/co/PMD_0000888>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000424>	"Maschine, die mit Hilfe einer Schnecke oder einer hydraulischen Presse kontinuierlich ein Material formt, indem dieses durch eine oder mehrere Schablonen gepresst wird"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000292>	"Terpolymer aus Ethylen, Propylen und einem Dien mit dem restlichen ungesättigten Anteil des polymerisierten Diens in der Seitenkette"@de	
+<http://purl.obolibrary.org/obo/OBI_0200033>	"is a data transformation :  leave-one-out cross-validation (LOOCV) involves using a single observation from the original sample as the validation data, and the remaining observations as the training data. This is repeated such that each observation in the sample is used once as the validation data"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000317>	"in einem Vulkanisationssystem verwendeter Hauptbeschleuniger"@de	
+<http://purl.obolibrary.org/obo/CHEBI_33330>	"A rare earth metal atom that has formula Sc."	
+<https://w3id.org/pmd/co/PMD_0050046>		
+<https://w3id.org/pmd/co/PMD_0020135>		
+<https://w3id.org/pmd/co/PMD_0020026>		
+<https://w3id.org/pmd/co/PMD_0050131>		
+<https://w3id.org/pmd/co/PMD_0020002>		
+<http://purl.obolibrary.org/obo/NCIT_C52095>	"Data about data; information that describes another set of data."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000435>	"Unterschied zwischen den Dimensionen des Profilquerschnittes eines Extrudats und den korrespondierenden Dimensionen des Auslaufkanals, welcher üblicherweise als prozentuelle Zunahme der Fläche des Querschnittes ausgedrückt wird"@de	
+<http://purl.obolibrary.org/obo/CHEBI_50795>	"A nanometre sized object."	
+<http://purl.obolibrary.org/obo/OBI_0000379>	"A mechanical function is a function that is realised via mechanical work (through an certain amount of energy transferred by some force)."@en	
+<https://w3id.org/pmd/co/PMD_0000889>		
+<https://w3id.org/pmd/co/PMD_0000538>		
+<https://w3id.org/pmd/co/PMD_0000647>		
+<http://purl.obolibrary.org/obo/BFO_0000004>	"b is an independent continuant = Def. b is a continuant which is such that there is no c and no t such that b s-depends_on c at t. (axiom label in BFO2 Reference: [017-002])"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000336>	"A recipe used in the preparation of a rubber compound."@en	
+<https://w3id.org/pmd/co/PMD_0000974>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000383>		
+<https://w3id.org/pmd/co/PMD_0000865>		
+<https://w3id.org/pmd/co/PMD_0050020>		
+<https://w3id.org/pmd/co/PMD_0000998>		
+<https://w3id.org/pmd/co/PMD_0000623>		
+<https://w3id.org/pmd/co/PMD_0000950>		
+<https://w3id.org/pmd/co/PMD_0050069>		
+<https://w3id.org/pmd/co/PMD_0020003>		
+<https://w3id.org/pmd/co/PMD_0050045>		
+<http://purl.obolibrary.org/obo/CHEBI_33314>	"A noble gas atom that has formula Rn."	
+<https://w3id.org/pmd/co/PMD_0050130>		
+<https://w3id.org/pmd/co/PMD_0020112>		
+<https://w3id.org/pmd/co/PMD_0000879>	"An entity that can bear roles, has members, and has a set of organization rules. Members of organizations are either organizations themselves or individual people. Members can bear specific organization member roles that are determined in the organization rules. The organization rules also determine how decisions are made on behalf of the organization by the organization members."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000576>	"der Anteil einer aufgebrachten Schubspannung, welche 90° phasenverschoben gegenüber der Scherdeformation ist, geteilt durch die Dehnung"@de	
+<http://purl.obolibrary.org/obo/CHEBI_33579>	"A molecular entity containing one or more atoms from any of groups 1, 2, 13, 14, 15, 16, 17, and 18 of the periodic table."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000645>	"EPDM rubber (ethylene propylene diene monomer rubber) is a type of synthetic rubber that is composed of ethylidene norbornene (ENB), dicyclopentadiene (DCPD), and vinyl norbornene (VNB)."@en	
+<http://purl.obolibrary.org/obo/CHEBI_33396>	"An actinoid atom that has formula No."	
+<https://w3id.org/pmd/co/PMD_0000959>		
+<https://w3id.org/pmd/co/PMD_0000608>		
+<http://purl.obolibrary.org/obo/CHEBI_194531>	"A carbon group element atom with a symbol Fl and atomic number 114."	
+<https://w3id.org/pmd/co/PMD_0000911>		
+<https://w3id.org/pmd/co/PMD_0000802>		
+<https://w3id.org/pmd/co/PMD_0000935>		
+<https://w3id.org/pmd/co/PMD_0000826>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000112>	"A cost group for all cost values occuring from entity sub-groups in the material cost group and the associated factors"@en	
+<https://w3id.org/pmd/co/PMD_0050021>		
+<https://w3id.org/pmd/co/PMD_0020084>		
+<https://w3id.org/pmd/co/PMD_0020060>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000022>	"\"The camera coordinate system has its origin at the perspective centre of the image. It is further defined by reference features fixed in the camera (fiducial marks, réseau, sensor system). It can therefore be reconstructed from the image and related to an image measuring device\" (Luhmann et al. 2020: 278)"@en	
+<http://purl.obolibrary.org/obo/OBI_0000946>	"a function to remove viable organisms from an input material"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000305>	"Öl auf Basis von Kohlenwasserstoffen, welches aus Erdöl oder anderen Quellen stammt und als Extender oder Verarbeitungshilfsmittel eingesetzt wird"@de	
+<https://w3id.org/pmd/co/PMD_0050068>		
+<http://purl.obolibrary.org/obo/NCIT_C19579>	"Costs that can be identified with a particular project or program."@en	
+<https://w3id.org/pmd/co/PMD_0050044>		
+<http://purl.obolibrary.org/obo/CHEBI_133602>	"Any form of carbon black which has a particle size of less than 100 nm in each dimension."@en	"PMCID:PMC3190904 PMID:24078381 PMID:25184212 PMID:22753103 PMID:25833640 PMID:26914170 PMID:24283474 PMID:27534448 PMID:21525001 PMID:25966413 PMID:26066782 PMID:26551751 PMID:25071917 PMID:25056782 PMID:27460290 PMID:25451823"
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000373>	"the molecular mass of a rubber, in either the raw or the mixed state, by the action of mechanical work (shear) and atmospheric oxygen, sometimes assisted by peptizers and heat"@en	
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000012>	"Fraction od rubber compound formulations are not given based on %, so that the sum of all components will be 100%."@en	
+<http://purl.obolibrary.org/obo/OBI_0002989>	"A person or organization that provides material supplies to other people or organizations."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000461>	"An extruder zone equipped with pins that enhance mixing and shearing of the material during extrusion."@en	
+<http://purl.obolibrary.org/obo/CHEBI_33369>	"A lanthanoid atom that has formula Ce."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000563>	"The oil absorption number of a carbon black is related to the processing and vulcanizate properties of rubber compounds containing the carbon black"@en	
+<https://w3id.org/pmd/co/PMD_0000054>		
+<http://purl.obolibrary.org/obo/CHEBI_33387>	"An actinoid atom that has formula Np."	
+<https://w3id.org/pmd/co/PMD_0000827>		
+<http://purl.obolibrary.org/obo/CHEBI_28112>	"Chemical element (nickel group element atom) with atomic number 28."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000480>	"Zustand eines Vulkanisats während des Vulkanisationsverlaufs, gemessen an dessen Struktur oder dessen Eigenschaften"@de	
+<https://w3id.org/pmd/co/PMD_0000803>		
+<https://w3id.org/pmd/co/PMD_0000936>		
+<http://purl.obolibrary.org/obo/CHEBI_30440>	"A metallic element first identified and named from the brilliant green line in its flame spectrum (from Greek thetaalphalambdalambdaomicronsigma, a green shoot)."	
+<https://w3id.org/pmd/co/PMD_0020085>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000092>	"Control variable for setting the temperature of the feed roller."@en	
+<https://w3id.org/pmd/co/PMD_0020061>		
+<https://w3id.org/pmd/co/PMD_0050022>		
+<https://w3id.org/pmd/co/PMD_0050067>		
+<https://w3id.org/pmd/co/PMD_0050043>		
+<https://w3id.org/pmd/co/PMD_0050152>		
+<http://www.ontology-of-units-of-measure.org/resource/om-2/Pressure>	"Pressure is the force applied to or distributed over a surface. It is a derived quantity in the International System of Units. Pressure is force divided by area."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000579>	"Verhältnis des Verlustmoduls zum Speichermodul"@de	
+<http://purl.obolibrary.org/obo/IAO_0000038>	"A diagram that presents one or more tuples of information by mapping those tuples in to a two dimensional space in a non arbitrary way."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000325>	"Trade name for a specific tetrabenzylthiuramdisulfide"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000485>	"Art der Vulkanisation, bei der das Modul des Vulkanisats ein Maximum erreicht und dann über einen längeren Zeiraum bei der entsprechenden Vulkanisationstemperatur nahezu konstant bleibt"@de	
+<https://w3id.org/pmd/co/PMD_0000055>		
+<https://w3id.org/pmd/co/PMD_0000056>		
+<https://w3id.org/pmd/co/PMD_0000937>		
+<https://w3id.org/pmd/co/PMD_0000828>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000195>	"Fourier transform infrared involves the probing of matter with infrared radiation. It is based on periodic changes in dipole moments caused by molecular vibrations during the absorption of IR radiation and gives spectroscopic fingerprints."@en	
+<http://purl.obolibrary.org/obo/CHEBI_36830>		
+<http://purl.obolibrary.org/obo/OBI_0000047>	"Is a material entity that is created or changed during material processing."@en	
+<https://w3id.org/pmd/co/PMD_0000913>		
+<http://purl.obolibrary.org/obo/CHEBI_33285>	"A heteroorganic entity is an organic molecular entity in which carbon atoms or organic groups are bonded directly to one or more heteroatoms."@en	
+<https://w3id.org/pmd/co/PMD_0020086>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000136>	"A person who monitors the quality of incoming and outgoing products or materials in the system under investigation. Constitutes an entity of the human ressource and the production cost group."@en	
+<http://purl.obolibrary.org/obo/CHEBI_194537>	"A chalcogen atom with a symbol Lv and atomic number 116."	
+<https://w3id.org/pmd/co/PMD_0020062>		
+<https://w3id.org/pmd/co/PMD_0050023>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000318>	"Beschleuniger, der in niedrigen Konzentrationen zusammen mit dem Erstbeschleuniger eingesetzt wird, um Vernetzungsgeschwindigkeit und Vulkanisateigenschaften zu optimieren"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000589>	"An assay with the objective to produce information about the concentration of a specific substance in the material entity that is the evaluant, by physically examining it or its proxies."@en	
+<http://purl.obolibrary.org/obo/BFO_0000024>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000164>	"A machine that combines a series of hard pressure rollers used to finish or smooth a sheet of rubber material. Constitutes an entity sub-group of the machine entity."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000296>	"Mischungsbestandteil, der im Wesentlichen aus mehr als 95 % elementaren Kohlenstoffs in der Form beinahe sphärischer Partikel mit maximalen Durchmessern kleiner als 1 μm besteht, im Allgemeinen zu Aggregaten koalesziert"@de	
+<https://w3id.org/pmd/co/PMD_0050066>		
+<https://w3id.org/pmd/co/PMD_0050042>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000575>	"die Komponente einer angewandten Normalspannung, welche in Phase mit der Normaldehnung ist, geteilt durch die Dehnung"@de	
+<http://purl.obolibrary.org/obo/CHEBI_49828>	"A lanthanoid atom that has formula Pr."	
+<https://w3id.org/pmd/co/PMD_0050151>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000600>		
+<http://purl.obolibrary.org/obo/CHEBI_33367>	"A nickel group element atom that has formula Ds."	
+<https://w3id.org/pmd/co/PMD_0000805>		
+<https://w3id.org/pmd/co/PMD_0000057>		
+<http://purl.obolibrary.org/obo/CHEBI_49631>	"A metallic element predicted as eka-aluminium by Mendeleev in 1870 and discovered by Paul-Emile Lecoq de Boisbaudran in 1875. Named in honour of France (Latin Gallia) and perhaps also from the Latin gallus cock, a translation of Lecoq."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000372>	"Verteilen eines oder mehrerer Bestandteile in Kautschuk, Kautschukblends oder einer kontinuierlichen Phase durch Anwendung von Scherkräften, um optimale und homogene Eigenschaften zu erhalten"@de	
+<https://w3id.org/pmd/co/PMD_0000829>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000221>	"Unprocessed data obtained from spectrometric devices"@en	
+<https://w3id.org/pmd/co/PMD_0000914>		
+<https://w3id.org/pmd/co/PMD_0020063>		
+<https://w3id.org/pmd/co/PMD_0050000>		
+<https://w3id.org/pmd/co/PMD_0050024>		
+<http://purl.obolibrary.org/obo/NCIT_C65109>	"Measurement of the properties of light, especially luminous intensity."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000381>	"machine with temperature controls containing one or more rotors operating in a closed cavity used to masticate and/or to incorporate and disperse compounding ingredients into the rubber"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000583>	"Rheometertyp, bei welchem die auf die Kautschukmischung einwirkenden Kräfte durch eine in der Testprobe eingebettete schwingende Scheibe erzeugt werden, wobei sich die Probe unter Druck in einem abgedichteten Probenaufnehmer befindet"@de	
+<https://w3id.org/pmd/co/PMD_0050089>		
+<https://w3id.org/pmd/co/PMD_0050065>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000623>		
+<https://w3id.org/pmd/co/PMD_0050041>		
+<https://w3id.org/pmd/co/PMD_0020087>		
+<https://w3id.org/pmd/co/PMD_0050150>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000025>	"\"Bundle adjustment [...] is a method for the simultaneous numerical fit of an unlimited number of spatially distributed images (bundles of rays). It makes use of photogrammetric observations (measured image points), survey observations and an object coordinate system. Using tie points, single images are merged into a global model in which the object surface can be reconstructed in three dimensions.\" (Luhmann et al. 2020: 349f.)"@en	
+<http://purl.obolibrary.org/obo/NCIT_C48834>	"The degree to which two or more quantities or events are linearly associated, a statistical relation between two or more variables such that systematic changes in the value of one variable are accompanied by systematic changes in the others."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000213>	"Laser induced breakdown spectroscopy is a type of atomic emission spectroscopy which uses a highly energetic laser pulse as the excitation source. The laser is focused to form a plasma, which atomizes and excites samples. The Emission of these excited species is analyzed to identify and quantify the elements contained in the sample."@en	
+<http://purl.obolibrary.org/obo/CHEBI_33832>	"Any organic molecule that consists of atoms connected in the form of a ring."@en	
+<http://purl.obolibrary.org/obo/CHEBI_22563>	"A monoatomic or polyatomic species having one or more elementary charges of the electron."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000299>	"The letter “S” is used for channel blacks or for furnace blacks that have been modified to effectively reduce the curing rate of rubber."@en	
+<https://w3id.org/pmd/co/PMD_0000519>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000083>	"Control variable that specifies at which temperature mixing takes place."@en	
+<http://purl.obolibrary.org/obo/CHEBI_26216>	"An alkali metal atom that has formula K."	
+<https://w3id.org/pmd/co/PMD_0000955>		
+<https://w3id.org/pmd/co/PMD_0000604>		
+<http://purl.obolibrary.org/obo/CHEBI_33582>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000080>	"Validate some data."@en	
+<https://w3id.org/pmd/co/PMD_0000979>		
+<https://w3id.org/pmd/co/PMD_0000628>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000342>	"cylinder forming a major, rotating member of a calender or mill"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000488>	"Zustand der Vulkanisation unterhalb des Vulkanisationsoptimums"@de	
+<https://w3id.org/pmd/co/PMD_0020064>		
+<https://w3id.org/pmd/co/PMD_0000931>		
+<https://w3id.org/pmd/co/PMD_0020040>		
+<https://w3id.org/pmd/co/PMD_0000822>		
+<http://purl.obolibrary.org/obo/CHEBI_33382>	"A d-block element atom that has formula Lu."	
+<http://purl.obolibrary.org/obo/CHEBI_33364>	"A nickel group element atom that has formula Pt."	
+<https://w3id.org/pmd/co/PMD_0050001>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000485>	"type of vulcanization during which the modulus of the vulcanizate proceeds to a maximum and then remains essentially constant for a substantial period at the vulcanization temperature"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000429>	"that part of an extruder through which material is forced, forming a profile of the extrudate"@en	
+<https://w3id.org/pmd/co/PMD_0050025>		
+<http://purl.obolibrary.org/obo/CHEBI_33392>	"An actinoid atom that has formula Cf."	
+<http://purl.obolibrary.org/obo/BFO_0000026>		
+<https://w3id.org/pmd/co/PMD_0001013>		
+<https://w3id.org/pmd/co/PMD_0050088>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000486>	"Vulkanisationsbedingungen, die notwendig sind, um einen akzeptablen Kompromiss zwischen verschiedenen gewünschten Vulkanisateigenschaften zu erzielen bzw. den optimalen Wert für eine bestimmte Eigenschaft zu erhalten"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000602>		
+<https://w3id.org/pmd/co/PMD_0050064>		
+<http://purl.obolibrary.org/obo/CHEBI_33247>	"Any substituent group or skeleton containing carbon."@en	
+<https://w3id.org/pmd/co/PMD_0020088>		
+<https://w3id.org/pmd/co/PMD_0050040>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000576>	"that component of an applied shear stress which is in quadrature (90° out of phase) with the shear strain, divided by the strain"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000506>	"An assay with the objective to produce information about the density of the material entity that is the evaluant, by physically examining it or its proxies."@en	
+<http://nmrML.org/nmrCV#NMR:1000457>	"tempdef: A sample is a role that is played by an object of interest in an investigation used to obtain generalizable information about the sample source. defprov: Daniel Schober"@en	
+<https://w3id.org/pmd/co/PMD_0050026>		
+<https://w3id.org/pmd/co/PMD_0000629>		
+<http://purl.obolibrary.org/obo/NCIT_C111096>	"An assessment used to quantify and describe the colors within the visible spectrum of light."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000305>	"hydrocarbon oil derived from petroleum or other sources and used as an extender or processing aid"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000222>	"Result of different mathematical processes conducted on raw Spectra. Processing steps include, e.g., normalization and baseline correction."@en	
+<http://purl.obolibrary.org/obo/CHEBI_30512>	"A copper group element atom that has formula Ag."	
+<http://purl.obolibrary.org/obo/IAO_0000027>	"An information content entity that is intended to be a truthful statement about something (modulo, e.g., measurement precision or other systematic errors) and is constructed/acquired by a method which reliably tends to produce (approximately) truthful statements."@en	
+<https://w3id.org/pmd/co/PMD_0000823>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000372>	"Distribution of one or more ingredients into a rubber, a rubber blend or a continuum material, by the application of shearing forces, in order to confer optimum and uniform properties"@en	
+<https://w3id.org/pmd/co/PMD_0000956>		
+<https://w3id.org/pmd/co/PMD_0000847>		
+<https://w3id.org/pmd/co/PMD_0000605>		
+<http://purl.obolibrary.org/obo/CHEBI_23116>	"A halogen that has formula Cl."	
+<https://w3id.org/pmd/co/PMD_0020041>		
+<http://purl.obolibrary.org/obo/NCIT_C68426>	"A saturated long-chain fatty acid with an 18-carbon backbone. Stearic acid is found in various animal and plant fats, and is a major component of cocoa butter and shea butter."@en	
+<http://purl.obolibrary.org/obo/CHEBI_27363>	"A zinc group element atom that has formula Zn."	
+<https://w3id.org/pmd/co/PMD_0020150>		
+<https://w3id.org/pmd/co/PMD_0000932>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000640>	"Scaling spectra in order to get all data on approximately the same scale."@en	
+<https://w3id.org/pmd/co/PMD_0050002>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000486>	"condition of vulcanization required to achieve an acceptable compromise among a number of desired vulcanizate properties or the optimum value of a selected property"@en	
+<http://purl.obolibrary.org/obo/IAO_0000037>	"A dot plot is a report graph which is a graphical representation of data where each data point is represented by a single dot placed on coordinates corresponding to data point values in particular dimensions."@en	
+<http://purl.obolibrary.org/obo/BFO_0000001>		
+<http://purl.obolibrary.org/obo/CHEBI_33363>	"Chemical element (nickel group element atom) with atomic number 46."	
+<https://w3id.org/pmd/co/PMD_0050087>		
+<https://w3id.org/pmd/co/PMD_0020089>		
+<https://w3id.org/pmd/co/PMD_0050063>		
+<https://w3id.org/pmd/co/PMD_0020065>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000145>	"A composite particle, comprising of strongly bound or fused smaller particles, where the resulting external surface area may be significantly smaller than the sum of calculated surface areas of the individual components."@en	
+<http://purl.obolibrary.org/obo/CHEBI_50812>		
+<http://purl.obolibrary.org/obo/CHEBI_30513>	"A pnictogen that has formula Sb."	
+<http://purl.obolibrary.org/obo/CHEBI_30687>	"An iron group element atom that has formula Os."	
+<https://w3id.org/pmd/co/PMD_0000051>		
+<http://purl.obolibrary.org/obo/CHEBI_33521>	"An atom of an element that exhibits typical metallic properties, being typically shiny, with high electrical and thermal conductivity."	
+<https://w3id.org/pmd/co/PMD_0050027>		
+<https://www.tib.eu/digitrubber#http://purl.obolibrary.org/obo/NCIT_C25206>	"A measure of the average kinetic energy of a system of particles. Temperature may be quantified, in the context of thermodynamics, as the potential of one system to transfer thermal energy to another system until both systems reach a state of thermal equilibrium."@en	
+<http://purl.obolibrary.org/obo/BFO_0000002>	"An entity that exists in full at any time in which it exists at all, persists through time while maintaining its identity and has no temporal parts."@en	
+<https://w3id.org/pmd/co/PMD_0000933>		
+<https://w3id.org/pmd/co/PMD_0000957>		
+<https://w3id.org/pmd/co/PMD_0000606>		
+<https://w3id.org/pmd/co/PMD_0000848>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000283>	"Kleinste erkennbare sphärische oder beinahe sphärische materielle Einheit, die als solche einzeln existieren kann"@de	
+<https://w3id.org/pmd/co/PMD_0020151>		
+<https://w3id.org/pmd/co/PMD_0020042>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000371>	"Prozess der Überführung von Kautschuk oder einer Kautschukmischung, Gummilösung oder koaguliertem Latex in eine Form, bei der die Dicke klein gegenüber der Länge ist"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000190>	"A graph that shows the intensity of radiation at different wavelengths or the response of the atomic or molecular system to different wavelengths of the radiation"@en	
+<https://w3id.org/pmd/co/PMD_0000800>		
+<https://w3id.org/pmd/co/PMD_0001011>		
+<http://purl.obolibrary.org/obo/BFO_0000028>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000489>	"one or more items taken from a lot and intended to provide information on the lot and possibly to serve as a basis for a decision on the lot or on the process which had produced it"@en	
+<http://purl.obolibrary.org/obo/CHEBI_30441>	"A carbon group element atom that has formula Ge."	
+<https://w3id.org/pmd/co/PMD_0050003>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000019>	"The standard deviation is a measure of the amount of variation or dispersion of a set of values. [Wikipedia]"@en	
+<http://purl.obolibrary.org/obo/OBI_0002076>	"A material entity that has two or more specimens as its parts."@en	
+<https://www.tib.eu/digitrubber#http://purl.obolibrary.org/obo/NCIT_C42575>	"An indication of the type of unit of measure being used to express a mass density."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000291>	"Kautschuk mit einer gesättigten Kohlenstoffkette vom Polymethylen-Typ"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000565>	"The ratio of the dynamic viscosity (μ) over the density of the fluid (ρ), which is noted as (length)^2/time. https://en.wikipedia.org/wiki/Viscosity#Kinematic_viscosity"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000427>	"A cylindrical or rod-shaped material object located in the pin zone of an extruder that enhances shearing and homogenization of polymer material."@en	
+<https://w3id.org/pmd/co/PMD_0050086>		
+<http://purl.obolibrary.org/obo/IAO_0000416>	"A scalar measurement datum that is the result of measuring a temporal interval"@en	
+<https://w3id.org/pmd/co/PMD_0050062>		
+<https://w3id.org/pmd/co/PMD_0020066>		
+<http://purl.obolibrary.org/obo/CHEBI_33322>	"An alkali metal atom that has formula Rb."	
+<https://w3id.org/pmd/co/PMD_0050004>		
+<https://w3id.org/pmd/co/PMD_0000849>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000596>	"A measurement protocol for reliably reproducing the molecular weight distribution measurement assay."@en	
+<https://w3id.org/pmd/co/PMD_0000607>		
+<https://w3id.org/pmd/co/PMD_0050028>		
+<https://w3id.org/pmd/co/PMD_0000801>		
+<https://w3id.org/pmd/co/PMD_0000934>		
+<http://purl.obolibrary.org/obo/NCIT_C48367>	"The smallest resolvable rectangular area of an image, either on a screen or stored in memory."@en	
+<https://w3id.org/pmd/co/PMD_0000825>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000202>	"A quality of a substance in terms of its amount per unit volume in a mixture."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000422>	"Product of one mixing operation"@en	
+<https://w3id.org/pmd/co/PMD_0050061>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000281>	"Group of interlocked aggregates that are easily separated by normal rubber processing"@en	
+<https://w3id.org/pmd/co/PMD_0020152>		
+<http://purl.obolibrary.org/obo/CHEBI_26833>	"A chalcogen that has formula S."	
+<https://w3id.org/pmd/co/PMD_0000910>		
+<http://purl.obolibrary.org/obo/BFO_0000027>		
+<https://w3id.org/pmd/co/PMD_0001010>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000302>	"compounding ingredient used in small proportions to reduce the viscosity of an unvulcanized rubber mix or the hardness of a vulcanizate"@en	
+<https://w3id.org/pmd/co/PMD_0020067>		
+<http://purl.obolibrary.org/obo/IAO_0000003>	"A measurement unit label is as a label that is part of a scalar measurement datum and denotes a unit of measure."@en	
+<http://purl.obolibrary.org/obo/OBI_0100051>	"A material entity that has the specimen role."@en	
+<https://w3id.org/pmd/co/PMD_0020043>		
+<https://w3id.org/pmd/co/PMD_0050085>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000333>	"compounding ingredient used to reduce the tendency of a rubber compound to vulcanize prematurely"@en	
+<http://purl.obolibrary.org/obo/BFO_0000040>	"An independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000196>	"An attenuated total reflection accessory operates by measuring the changes that occur in a totally internally reflected infrared beam when the beam comes into contact with a sample."@en	
+<http://purl.obolibrary.org/obo/IAO_0000409>	"A denotator type indicates how a term should be interpreted from an ontological perspective."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000603>		
+<https://w3id.org/pmd/co/PMD_0000053>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000216>	"In Spectroscopy, peaks are features of a spectrum. A peak comprise a restricted region of a spectrum, which is absorbed or emitted with high intensity. It is defined as a local maximum in the spectrum."@en	
+<https://w3id.org/pmd/co/PMD_0000002>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000595>	"A concentration measurement protocol for reliably reproducing the ethylidene norbornene concentration measurement assay."@en	
+<https://w3id.org/pmd/co/PMD_0050017>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000180>	"Material that is required to manipulate the properties of rubber products. Constitutes an entity sub-group of the raw material entity."@en	
+<https://w3id.org/pmd/co/PMD_0000907>		
+<http://purl.obolibrary.org/obo/UO_0000003>		
+<http://purl.obolibrary.org/obo/CHEBI_33302>	"A p-block molecular entity containing any pnictogen."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000579>	"ratio of the viscous modulus to the elastic modulus"@en	
+<https://w3id.org/pmd/co/PMD_0050060>		
+<http://purl.obolibrary.org/obo/BFO_0000006>		
+<https://w3id.org/pmd/co/PMD_0000595>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000456>		
+<http://purl.obolibrary.org/obo/NCIT_C43359>	"Any number of entities (members) considered as a unit."@en	
+<https://w3id.org/pmd/co/PMD_0001005>		
+<https://w3id.org/pmd/co/PMD_0000571>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000578>	"measure of stiffness under specified conditions of deformation"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000323>		
+<http://purl.obolibrary.org/obo/CHEBI_38101>	"Any organonitrogen compound containing a cyclic component with nitrogen and at least one other element as ring member atoms."@en	
+<https://w3id.org/pmd/co/PMD_0050084>		
+<http://purl.obolibrary.org/obo/OBI_0000648>	"A data set that is produced as the output of a class discovery data transformation and consists of a data set with assigned discovered class labels."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000482>	"Druckkessel, der zur Vulkanisation von Kautschuk in Dampf oder Gas genutzt wird"@de	
+<https://w3id.org/pmd/co/PMD_0000908>		
+<http://purl.obolibrary.org/obo/CHEBI_33471>	"A bivalent group formed by removing two hydrogen atoms from a hydrocarbon, the free valencies of which are not engaged in a double bond."@en	
+<http://purl.obolibrary.org/obo/OBI_0000112>	"A role borne by a material entity that is obtained during a specimen collection process and that can be realized by performing measurements or observations on the specimen."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000064>	"Online optimization is the adjustment of process parameters in the running process for process optimization."@en	
+<https://w3id.org/pmd/co/PMD_0050018>		
+<https://w3id.org/pmd/co/PMD_0050083>		
+<http://purl.obolibrary.org/obo/CHEBI_38179>		
+<http://purl.obolibrary.org/obo/CHEBI_5686>	"A cyclic compound having as ring members atoms of at least two different elements."	
+<https://w3id.org/pmd/co/PMD_0000596>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000177>	"An elastic material obtained from the latex sap of trees. Constitutes an entity sub-group of the raw material entity."@en	
+<http://purl.obolibrary.org/obo/BFO_0000029>		
+<https://w3id.org/pmd/co/PMD_0001004>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000588>		
+<https://w3id.org/pmd/co/PMD_0000790>		
+<https://w3id.org/pmd/co/PMD_0000572>		
+<http://purl.obolibrary.org/obo/CHEBI_32999>	"A lanthanoid atom that has formula Eu."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000455>		
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000025>	"A method in which the polymer is loaded with (pseudo-) linear, oscillating deformations in a temperature ramp, during which the values of G’ and G” at 3 critical temperatures are read and used ."@en	
+<http://purl.obolibrary.org/obo/BFO_0000015>	"p is a process = Def. p is an occurrent that has temporal proper parts and for some time t, p s-depends_on some material entity at t. (axiom label in BFO2 Reference: [083-003])"@en	
+<http://purl.obolibrary.org/obo/CHEBI_25696>	"Any organic ion with a net negative charge."@en	
+<https://w3id.org/pmd/co/PMD_0000909>		
+<http://purl.obolibrary.org/obo/UO_0000016>	"\"A length unit which is equal to one thousandth of a meter or 10^[-3] m.\" [NIST:NIST]"@en	
+<http://purl.obolibrary.org/obo/CHEBI_18291>	"A manganese group element atom that has formula Mn."	
+<http://purl.obolibrary.org/obo/PATO_0001739>	"A quality that inheres in an bearer by virtue of how that bearer interacts with radiation."@en	
+<https://w3id.org/pmd/co/PMD_0050019>		
+<http://purl.obolibrary.org/obo/OBI_0000749>	"A CART (classification and regression trees) is a data transformation method for producing a classification or regression model with a tree-based structure."@en	
+<https://w3id.org/pmd/co/PMD_0050082>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000477>	"chemische Bindung oder Atom(e), die zwei Kautschukketten oder zwei Teile derselben Kette verbinden als Ergebnis der Vulkanisation"@de	
+<http://purl.obolibrary.org/obo/IAO_0000308>	"An information content entity consisting of a two dimensional arrangement of information content entities such that the arrangement itself is about something."@en	
+<http://purl.obolibrary.org/obo/CHEBI_33415>		"CAS:82600-58-6 CAS:7440-44-0 Gmelin:8868"
+<https://w3id.org/pmd/co/PMD_0000573>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000289>	"natural or synthetic rubber, usually in bales or packages, forming the starting material for the manufacture of rubber products"@en	
+<https://w3id.org/pmd/co/PMD_0020090>		
+<http://purl.obolibrary.org/obo/BFO_0000008>		
+<https://w3id.org/pmd/co/PMD_0000597>		
+<https://w3id.org/pmd/co/PMD_0000791>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000458>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000430>	"Produkt eines Extrusionsprozesses"@de	
+<https://w3id.org/pmd/co/PMD_0001003>		
+<http://purl.obolibrary.org/obo/BFO_0000202>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000569>	"Die Säurezahl ist eine chemische Größe zur Charakterisierung von sauren Bestandteilen in Fetten oder Ölen. Sie bezeichnet die Masse an Kaliumhydroxid (in mg), die notwendig ist, um die in 1 g Fett enthaltenen freien Fettsäuren zu neutralisieren."@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000543>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000431>	"Teil eines Extruders, welcher die Schablone mit Halterung enthält"@de	
+<http://purl.obolibrary.org/obo/OBI_0000245>	"An entity that can bear roles, has members, and has a set of organization rules. Members of organizations are either organizations themselves or individual people. Members can bear specific organization member roles that are determined in the organization rules. The organization rules also determine how decisions are made on behalf of the organization by the organization members."@en	
+<http://purl.obolibrary.org/obo/NCIT_C154897>	"A class of substances that binds to, activates and increases the activity of a target."@en	
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000010>	"Compound after being vulcanized. May also be called “vulcanizate”."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000331>	"Kombination aus Vulkanisationsmittel und, falls erforderlich, Beschleunigern, Aktivatoren, Verzögerern, etc., die verwendet wird, um die gewünschte Vulkanisationscharakteristik und Vulkanisateigenschaften herzustellen"@de	
+<https://w3id.org/pmd/co/PMD_0000005>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000312>	"Trade name for a specific zinc oxide"@en	
+<http://purl.obolibrary.org/obo/CHEBI_22927>	"A halogen that has formula Br."	
+<https://w3id.org/pmd/co/PMD_0050081>		
+<http://purl.obolibrary.org/obo/PATO_0000122>	"A 1-dimensional extent quality which is equal to the distance between two points."@en	
+<https://w3id.org/pmd/co/PMD_0000574>		
+<https://w3id.org/pmd/co/PMD_0000598>		
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000021>	"Torque at t=5 min. after the start of the Mooney test."@en	
+<https://w3id.org/pmd/co/PMD_0020091>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000566>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000324>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000457>		
+<https://w3id.org/pmd/co/PMD_0000550>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000342>	"Zylinder, der ein rotierendes Hauptelement eines Kalanders oder eines Walzwerks bildet"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000380>	"A mechanical component designed to blend materials."@en	
+<https://w3id.org/pmd/co/PMD_0000927>		
+<http://purl.obolibrary.org/obo/BFO_0000017>	"A specifically dependent continuant  that inheres in continuant  entities and are not exhibited in full at every time in which it inheres in an entity or group of entities. The exhibition or actualization of a realizable entity is a particular manifestation, functioning or process that occurs under certain circumstances."@en	
+<https://w3id.org/pmd/co/PMD_0000818>		
+<http://purl.obolibrary.org/obo/OBI_0000835>	"A person or organization that has a manufacturer role."@en	
+<https://w3id.org/pmd/co/PMD_0000903>		
+<https://w3id.org/pmd/co/PMD_0050080>		
+<https://w3id.org/pmd/co/PMD_0020092>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000412>		
+<http://purl.obolibrary.org/obo/CHEBI_60004>	"A mixture is a chemical substance composed of multiple molecules, at least two of which are of a different kind."@en	
+<https://w3id.org/pmd/co/PMD_0000591>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000545>		
+<http://purl.obolibrary.org/obo/CHEBI_32594>	"An alkaline earth metal atom that has formula Ba."	
+<http://purl.obolibrary.org/obo/CHEBI_30145>	"An alkali metal atom that has formula Li."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000436>		
+<https://w3id.org/pmd/co/PMD_0001009>		
+<http://purl.enanomapper.org/onto/ENM_9000001>	"A collection of weakly bound particles or aggregates where the resulting surface area is similar to the sum of the surface areas of the individual components."@en	
+<http://purl.obolibrary.org/obo/CHEBI_30514>	"An alkali metal atom that has formula Cs."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000081>	"Rolling is the second of the three areas of the extrusion line. Where the material is homogenised."@en	
+<http://purl.obolibrary.org/obo/OBI_0200171>	"A partitioning data transformation is a data transformation that has objective partitioning."@en	
+<http://purl.obolibrary.org/obo/PATO_0001291>	"A physical quality that inheres in an bearer by virtue of how that bearer interacts with electromagnetic radiation."@en	
+<https://w3id.org/pmd/co/PMD_0000904>		
+<https://w3id.org/pmd/co/PMD_0000928>		
+<https://w3id.org/pmd/co/PMD_0000819>		
+<http://purl.obolibrary.org/obo/BFO_0000009>		
+<http://purl.obolibrary.org/obo/BFO_0000203>		
+<https://w3id.org/pmd/co/PMD_0020093>		
+<https://w3id.org/pmd/co/PMD_0000592>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000133>	"Designated administrator over one or more groups/teams working to produce a resource, or over one or more steps of a development process"@en	
+<http://purl.obolibrary.org/obo/OBI_0000953>	"A specimen that has been intentionally physically modified."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000290>	"rubber produced by non-biologically polymerizing one or more monomers"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000326>		
+<https://w3id.org/pmd/co/PMD_0001008>		
+<http://purl.obolibrary.org/obo/CHEBI_33394>	"An actinoid atom that has formula Fm."	
+<https://www.materials.fraunhofer.de/ontologies/BWMD_ontology/mid#BWMD_00298>	"The quantity kind concentration"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000431>	"that part of an extruder which houses the die and die holder"@en	
+<http://purl.obolibrary.org/obo/BFO_0000031>	"b is a generically dependent continuant = Def. b is a continuant that g-depends_on one or more other entities. (axiom label in BFO2 Reference: [074-001])"@en	
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000015>	"A filler that, together with silane, is present only in tread compounds and is used for enforcement."@en	
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000011>	"The process of converting a polymer compound into an elastic network using vulcanization chemicals (e.g. sulfur) and heat (to start the reaction)."@en	
+<http://purl.obolibrary.org/obo/NCIT_C55826>	"A substance added to plastics or other materials to make or keep them soft or pliable."@en	
+<https://w3id.org/pmd/co/PMD_0000905>		
+<http://purl.obolibrary.org/obo/CHEBI_25699>		
+<https://w3id.org/pmd/co/PMD_0000929>		
+<http://purl.obolibrary.org/obo/IAO_0000178>	"A material entity in which a concretization of an information content entity inheres."@en	
+<https://w3id.org/pmd/co/PMD_0020094>		
+<http://purl.obolibrary.org/obo/NCIT_C25677>	"The spatial arrangement of something as distinct from its substance."@en	
+<https://w3id.org/pmd/co/PMD_0020070>		
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000002>	"The method used to obtain the value of Mw and Mn."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000306>	"compounding ingredient which improves the processability of a rubber compound or mix"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000027>	"An active power or cause (as principle, substance, physical or biological factor, etc.) that produces a specific effect."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000414>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000481>	"Verfahren, üblicherweise auf Hitze basierend, bei dem Kautschuk durch eine Veränderung seiner chemischen Struktur (zum Beispiel Vernetzung) in einen Zustand überführt wird, in dem die elastischen Eigenschaften erzeugt, wiederhergestellt oder verbessert oder über einen größeren Tempe-raturbereich erweitert werden"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000493>	"unverarbeiteter, gemischter, vulkanisierter oder teilvulkanisierter Kautschuk in Form von Altgummierzeugnissen oder Fabrikabfall"@de	
+<https://w3id.org/pmd/co/PMD_0001007>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000516>	"An assay with the objective to produce information about the Mooney viscosity of the material entity that is the evaluant, by physically examining it or its proxies."@en	
+<http://purl.obolibrary.org/obo/CHEBI_33323>	"An alkali metal atom that has formula Fr."	
+<http://purl.obolibrary.org/obo/CHEBI_22977>	"A zinc group element atom that has formula Cd."	
+<http://purl.obolibrary.org/obo/CHEBI_27568>	"A chalcogen that has formula Se."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000420>	"A physical quality which inheres in a bearer by virtue of the ratio of the volume of a substance contained in the bearer and the bearer's own volume."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000438>		
+<https://w3id.org/pmd/co/PMD_0000000>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000304>	"Handelsname für ein spezifisches Paraffinöl"@de	
+<https://w3id.org/pmd/co/PMD_0000001>		
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000008>	"Polymerization is performed in a solution where polymer molecules are dissolved in a solvent (e.g. hexane)."@en	
+<https://w3id.org/pmd/co/PMD_0000906>		
+<http://purl.obolibrary.org/obo/CHEBI_33397>	"A d-block element atom that has formula Lr."	
+<http://purl.obolibrary.org/obo/CHEBI_33348>	"A vanadium group element atom that has formula Ta."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000575>	"that component of an applied normal stress which is in phase with the normal strain, divided by the strain"@en	
+<https://w3id.org/pmd/co/PMD_0020095>		
+<http://purl.obolibrary.org/obo/CHEBI_33349>		
+<https://w3id.org/pmd/co/PMD_0020071>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000520>	"Maß für die Viskosität eines Rohkautschuks oder einer Kautschukmischung, bestimmt mit einem Mooney-Scherscheibenviskosimeter"@de	
+<http://purl.obolibrary.org/obo/NCIT_C106043>	"The natural extract of tropical rubber plants."@en	
+<http://purl.allotrope.org/ontologies/process#AFP_0002309>	"The determination of the spectral absorbance of a solution. This method is often used to determine the concentration of a chemical in a solution. [CHMO]"@en	
+<https://w3id.org/pmd/co/PMD_0000570>		
+<https://w3id.org/pmd/co/PMD_0000594>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000437>		
+<http://purl.obolibrary.org/obo/IAO_0000030>	"A generically dependent continuant that is about some thing."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000475>	"number of crosslinks per unit volume or unit mass of vulcanizate"@en	
+<https://w3id.org/pmd/co/PMD_0001006>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000227>	"metadata that belong to a measurement. They complete the measurment data providing information about the condition under which the measurements have been taken place."@en	
+<http://purl.obolibrary.org/obo/CHEBI_49882>	"A manganese group element atom that has formula Re."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000328>		
+<http://purl.obolibrary.org/obo/IAO_0000184>	"A scatterplot is a graph which uses Cartesian coordinates to display values for two variables for a set of data. The data is displayed as a collection of points, each having the value of one variable determining the position on the horizontal axis and the value of the other variable determining the position on the vertical axis."@en	
+<https://w3id.org/pmd/co/PMD_0000797>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000580>		
+<https://w3id.org/pmd/co/PMD_0000555>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000471>		
+<http://purl.obolibrary.org/obo/CHEBI_24859>	"Chemical element with atomic number 53."	
+<https://w3id.org/pmd/co/PMD_0000579>		
+<http://purl.allotrope.org/ontologies/result#AFR_0000413>	"A peak describes a part of a data distribution function at a definite range of the experimental parameter (independent variable) of the distribution function. This definition includes a single data point of the distribution function. [Allotrope]"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000299>	"Der Buchstabe \"S\" wird für Channel Blacks oder für Furnace Blacks verwendet, die so modifiziert wurden, dass sie die Vulkanisationsgeschwindigkeit verringern."@de	
+<https://w3id.org/pmd/co/PMD_0000991>		
+<https://w3id.org/pmd/co/PMD_0000882>		
+<https://w3id.org/pmd/co/PMD_0000773>		
+<https://w3id.org/pmd/co/PMD_0000531>		
+<https://w3id.org/pmd/co/PMD_0020028>		
+<https://w3id.org/pmd/co/PMD_0020113>		
+<https://w3id.org/pmd/co/PMD_0020004>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000387>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000327>	"A member of the class of dithiocarbamate anions resulting from the deprotonation of both of the dithiocarbamic acid moieties of ethylenebis(dithiocarbamic acid). The major species at pH 7.3."@en	
+<https://w3id.org/pmd/co/PMD_0050109>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000269>	"The viscosity of rubber using a standard test method and Mooney Viscometer."@en	
+<http://purl.obolibrary.org/obo/CHEBI_22984>	"An alkaline earth metal atom that has formula Ca."	
+<http://purl.obolibrary.org/obo/PATO_0000052>	"A morphological quality inhering in a bearer by virtue of the bearer's ratios of distances between its features (points, edges, surfaces and also holes etc)."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000585>	"device that measures the progress of vulcanization in a test sample at the vulcanizing temperature"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000273>	"A polymer is a mixture, which is composed of macromolecules of different kinds and which may be differentiated by composition, length, degree of branching etc.."@en	
+<http://purl.obolibrary.org/obo/CHEBI_49475>	"A noble gas atom that has formula Ar."	
+<http://purl.obolibrary.org/obo/OBI_0000726>	"Peak matching is a data transformation performed on a dataset of a graph of ordered data points (e.g. a spectrum) with the objective of pattern matching local maxima above a noise threshold"@en	
+<https://w3id.org/pmd/co/PMD_0000556>		
+<http://purl.obolibrary.org/obo/NCIT_C69088>	"The amount paid, charged, or engaged to be paid, for purchasing goods, services and financial instruments."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000470>		
+<https://w3id.org/pmd/co/PMD_0000798>		
+<https://w3id.org/pmd/co/PMD_0000665>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000385>		
+<https://w3id.org/pmd/co/PMD_0000992>		
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000023>	"Generic name for an instrument that applies amplitude sweeps to vulcanized rubber to assess the resistance of its network against large deformations."@en	
+<https://w3id.org/pmd/co/PMD_0000883>		
+<https://w3id.org/pmd/co/PMD_0000532>		
+<https://w3id.org/pmd/co/PMD_0000774>		
+<http://purl.obolibrary.org/obo/CHEBI_27594>	"A carbon group element atom that has formula C."	
+<https://w3id.org/pmd/co/PMD_0000641>		
+<https://w3id.org/pmd/co/PMD_0020138>		
+<http://purl.obolibrary.org/obo/IAO_0000078>	"The curation status of the term. The allowed values come from an enumerated list of predefined terms. See the specification of these instances for more detailed definitions of each enumerated value."@en	
+<https://w3id.org/pmd/co/PMD_0020114>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000386>		
+<http://purl.obolibrary.org/obo/CHEBI_194539>	"A halogen atom with a symbol Ts and atomic number 117."	
+<https://w3id.org/pmd/co/PMD_0050108>		
+<http://purl.obolibrary.org/obo/CHEBI_24061>	"A halogen that has formula F."	
+<http://purl.obolibrary.org/obo/CHEBI_33301>	"A pnictogen that has formula Bi."	
+<https://w3id.org/pmd/co/PMD_0020029>		
+<http://purl.obolibrary.org/obo/CHEBI_24532>	"A cyclic compound having as ring members atoms of carbon and at least of one other element."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000590>	"A concentration measurement assay with the objective to produce information about the concentration of ethylene in the material entity that is the evaluant, by physically examining it or its proxies."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000332>	"Geschwindigkeit, mit der eine Kautschukmischung nach Einsetzen der initialen Vulkanisation weitervernetzt"@de	
+<http://purl.obolibrary.org/obo/STATO_0000237>	"The standard deviation of a random variable, statistical population, data set, or probability distribution is a measure of variation which correspond to the average distance from the mean of the data set to any given point of that dataset. It also corresponds to the square root of its variance."@en	
+<http://purl.obolibrary.org/obo/CHEBI_28659>	"A pnictogen that has formula P."	
+<https://w3id.org/pmd/co/PMD_0000666>		
+<https://w3id.org/pmd/co/PMD_0000775>		
+<https://w3id.org/pmd/co/PMD_0000799>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000582>		
+<https://w3id.org/pmd/co/PMD_0000557>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000473>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000340>		
+<https://w3id.org/pmd/co/PMD_0000642>		
+<http://purl.obolibrary.org/obo/CHEBI_24433>	"A defined linked collection of atoms or a single atom within a molecular entity."	
+<http://purl.obolibrary.org/obo/CHEBI_24433>	"A defined linked collection of atoms or a single atom within a molecular entity."@en	
+<https://w3id.org/pmd/co/PMD_0000884>		
+<https://w3id.org/pmd/co/PMD_0020115>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000082>	"Twin screw extruders have two screws, which have more shear and mixing capability than the single screw in a singel screw extruder. Depending on the direction of rotation of the screws, a distinction is made between counter-rotating and co-rotating twin-screw extruders."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000004>	"A coherent set of direct positions in space. The positions are held within a Spatial Reference System (SRS)."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000474>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000365>		
+<https://w3id.org/pmd/co/PMD_0020200>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000389>		
+<http://purl.obolibrary.org/obo/CHEBI_36962>	"An organochalcogen compound is a compound containing at least one carbon-chalcogen bond."@en	
+<http://purl.obolibrary.org/obo/OBI_0000659>	"A planned process with the objective of collecting a specimen."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000295>	"fester Mischungsbestandteil in Teilchenform, welcher aus technischen oder wirtschaftlichen Gründen zu einem relativ großen Anteil zu Kautschuk oder Kautschuklatex zugegeben werden kann"@de	
+<https://w3id.org/pmd/co/PMD_0050107>		
+<https://w3id.org/pmd/co/PMD_0020139>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000292>	"Terpolymer of ethylene, propylene and a diene with the remaining unsaturated portion of the polymerized diene in the side chain"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000481>	"process, usually involving heat, in which rubber, through a change in its chemical structure (for example, crosslinking), is converted to a condition in which the elastic properties are conferred or re-established or improved or extended over a greater range of temperatures"@en	
+<https://www.tib.eu/digitrubber#http://purl.obolibrary.org/obo/CHMO_0001685>	"The combining of components, particles or layers into a more homogeneous state. The mixing may be achieved manually or mechanically by shifting the material with stirrers or pumps or by revolving or shaking the container. The process μst not permit segregation of particles of different size or properties. Homogeneity may be considered to have been achieved in a practical sense when the sampling error of the processed portion is negligible compared to the total error of the measurement system. [ https://doi.org/10.1351/goldbook.M03945 ]"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000315>	"Handelsname für eine spezifische Stearinsäure"@de	
+<http://purl.obolibrary.org/obo/OBI_0000727>	"A k-nearest neighbors is a data transformation which achieves a class discovery or partitioning objective, in which an input data object with vector y is assigned to a class label based upon the k closest training data set points to y; where k is the largest value that class label is assigned."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000572>	"ratio of the shear stress to the shear strain, where each can be represented by a complex number"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000336>	"Ein Rezept, das bei der Herstellung einer Gummimischung verwendet wird."@de	
+<https://w3id.org/pmd/co/PMD_0000885>		
+<https://w3id.org/pmd/co/PMD_0000534>		
+<https://w3id.org/pmd/co/PMD_0000776>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000581>		
+<http://purl.obolibrary.org/obo/OBI_0000067>	"a role that inheres in a material entity that is realized in an assay in which data is generated about the bearer of the evaluant role"@en	
+<https://w3id.org/pmd/co/PMD_0000558>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000472>		
+<https://w3id.org/pmd/co/PMD_0000667>		
+<https://w3id.org/pmd/co/PMD_0000510>		
+<https://w3id.org/pmd/co/PMD_0000861>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000226>	"Measurement using photometry"@en	
+<https://w3id.org/pmd/co/PMD_0000994>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000480>	"condition of a vulcanizate during the course of vulcanization, measured in terms of its structure or properties"@en	
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000022>	"Due to their structure, polymers do not easily “forget” stress after it is applied to them. “Relaxation”, in this context, refers to the time-dependent process of relaxing a stress applied to a polymer."@en	
+<https://w3id.org/pmd/co/PMD_0020116>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000568>	"Molecular weight in g/mol, determined from molecular formula or sequence."@en	
+<http://purl.obolibrary.org/obo/CHEBI_84292>	"Any organic sulfur anion resulting from the removal of a proton from any N-substituted dithiocarbamic acid."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000497>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000388>		
+<http://purl.obolibrary.org/obo/NCIT_C17157>	"Emission of electromagnetic energy with a shorter frequency (longer wavelength) than that of the incident monochromatic light. Arises from the low probability absorption of quanta with a higher energy than that required for a transition: the difference in energy is emitted as a lower frequency (energy) photon. Allows analysis of vibrational and rotational energy levels using visible incident light. [ NCI ]"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000463>	"A device zone in which polymer material is shaped under pressure and temperature into a mold cavity."@en	
+<http://purl.obolibrary.org/obo/CHEBI_33324>	"An alkaline earth metal atom that has formula Sr."	
+<https://w3id.org/pmd/co/PMD_0050106>		
+<http://purl.obolibrary.org/obo/CHEBI_27573>	"A carbon group element atom that has formula Si."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000017>	"ideal dimensions and shape of the\nextrudate defined by the manufacturer"@en	
+<https://w3id.org/pmd/co/PMD_0000599>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000560>		
+<https://w3id.org/pmd/co/PMD_0000793>		
+<https://w3id.org/pmd/co/PMD_0000551>		
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000028>	"In physical testing, it refers to a deformation regime in which layers of fluid or solid deformed axially."@en	
+<https://w3id.org/pmd/co/PMD_0000575>		
+<https://w3id.org/pmd/co/PMD_0020202>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000149>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000563>	"Die Ölabsorptionszahl eines Rußes steht im Zusammenhang mit den Verarbeitungs- und Vulkanisationseigenschaften von Kautschukmischungen die den Ruß enthalten"@de	
+<http://purl.obolibrary.org/obo/CHEBI_26835>		
+<https://w3id.org/pmd/co/PMD_0000660>		
+<http://purl.obolibrary.org/obo/CHEBI_33659>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000016>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000343>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000487>	"Vulkanisationszustand jenseits des Vulkanisationsoptimums"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000367>		
+<https://w3id.org/pmd/co/PMD_0001998>		
+<https://w3id.org/pmd/co/PMD_0050129>		
+<https://w3id.org/pmd/co/PMD_0050105>		
+<https://w3id.org/pmd/co/PMD_0000007>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000649>	"Highly Saturated Nitrile. A Higher performance solid rubber material than NBR, achieved through adding Hydrogen Atoms to the Butadiene Segments."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000373>	"Prozess der irreversiblen Reduzierung der Molmasse des Kautschuks, entweder im rohen oder im gemischten Zustand, durch das Einbringen mechanischer Arbeit (Scherung) und durch atmosphärischen Sauerstoff, manchmal unter Zuhilfenahme von Abbaumitteln und Wärme"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000261>	"The chemical element zinc"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000450>		
+<https://w3id.org/pmd/co/PMD_0000552>		
+<https://w3id.org/pmd/co/PMD_0000794>		
+<https://w3id.org/pmd/co/PMD_0000661>		
+<https://w3id.org/pmd/co/PMD_0000576>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000111>	"A cost group for all cost values occuring from entity sub-groups in the energy cost group and the associated factors"@en	
+<https://w3id.org/pmd/co/PMD_0000770>		
+<https://w3id.org/pmd/co/PMD_0020203>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000366>		
+<http://purl.obolibrary.org/obo/CHEBI_27214>	"An actinoid atom that has formula U."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000055>	"Microcontrollers are compact integrated circuits designed to govern a specific operation in an embedded system. Typically a microcontroller includes a processor, memory and input/output peripherals on a single chip."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000371>	"Process of converting a rubber or rubber mix, rubber dough or coagulated latex into a form in which the thickness is small in proportion to the length"@en	
+<https://w3id.org/pmd/co/PMD_0050128>		
+<https://w3id.org/pmd/co/PMD_0050104>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000538>	"A viscosity measurement protocol for reliably reproducing the Mooney viscosity measurement assay."@en	
+<http://purl.obolibrary.org/obo/CHEBI_33341>	"A titanium group element atom that has formula Ti."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000523>	"A viscosity unit which is a standard measure of the Mooney viscosity."@en	
+<http://purl.obolibrary.org/obo/NCBITaxon_9606>		
+<https://w3id.org/pmd/co/PMD_0000008>		
+<https://w3id.org/pmd/co/PMD_0000577>		
+<https://w3id.org/pmd/co/PMD_0000662>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000131>	"A person who supervises and coordinates the work of employees who set up and operate machine entity units in the system under investigation. Constitutes an entity of the human ressource and the production cost group."@en	
+<https://w3id.org/pmd/co/PMD_0000771>		
+<https://w3id.org/pmd/co/PMD_0000795>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000306>	"Mischungsbestandteil, der die Verarbeitbarkeit einer Kautschukmischung verbessert"@de	
+<https://w3id.org/pmd/co/PMD_0000553>		
+<http://purl.obolibrary.org/obo/OBI_0000947>	"is a role which inheres in a person or organization and is realized in in a planned process which provides access to training, materials or execution of protocols for an organization or person"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000369>		
+<https://w3id.org/pmd/co/PMD_0020204>		
+<https://w3id.org/pmd/co/PMD_0000880>		
+<http://purl.obolibrary.org/obo/CHEBI_33391>	"An actinoid atom that has formula Bk."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000583>	"type of curemeter in which the force applied to the rubber compound is produced by an oscillating disc embedded in a test sample which is contained under pressure in a sealed cavity"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000534>	"A protocol which specifies the conditions, procedures, and instruments used for conducting a material processing in a sufficient level of detail to communicate it between investigation agents, so that different investigation agents will reliably be able to independently reproduce the material processing."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000585>	"Gerät zur Messung des Fortschritts der Vulkanisation in einer Probe bei der Vulkanisationsstemperatur"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000454>		
+<http://purl.obolibrary.org/obo/CHEBI_33343>	"A titanium group element atom that has formula Hf."	
+<http://purl.obolibrary.org/obo/CHEBI_24431>	"A chemical entity is a physical entity of interest in chemistry including molecular entities, parts thereof, and chemical substances."	
+<http://purl.obolibrary.org/obo/CHEBI_24431>	"A chemical entity is a physical entity of interest in chemistry including molecular entities, parts thereof, and chemical substances."@en	
+<https://www.tib.eu/digitrubber#http://purl.obolibrary.org/obo/CHMO_0001613>	"A process used to create objects of a fixed cross-sectional profile by forcing or drawing a material through a die."@en	
+<https://w3id.org/pmd/co/PMD_0050127>		
+<https://w3id.org/pmd/co/PMD_0050103>		
+<http://purl.obolibrary.org/obo/CHEBI_194535>	"A pnictogen atom with a symbol Mc and atomic number 115."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000179>	"Any of several substances similar to natural rubber in properties and uses, produced synthetically. Constitutes an entity sub-group of the raw material entity."@en	
+<http://purl.obolibrary.org/obo/BFO_0000020>	"b is a specifically dependent continuant = Def. b is a continuant & there is some independent continuant c which is not a spatial region and which is such that b s-depends_on c at every time t during the course of b’s existence. (axiom label in BFO2 Reference: [050-003])"@en	
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl#DIGITRUBBER1000030>	"A site that is a designated region within a technical device where a specific function of the device is realized."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000591>	"A concentration measurement assay with the objective to produce information about the concentration of ethylidene norbornene in the material entity that is the evaluant, by physically examining it or its proxies."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000001>	"In relation to optical measuring methods, a rating for the precision of a reconstructed measurement object."@en	
+<http://www.ontology-of-units-of-measure.org/resource/om-2/Torque>	"Torque is the effectiveness of a force to produce rotation about an axis, measured by the product of the force and the perpendicular distance from the line of action of the force to the axis. (defined by om)"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000308>	"Trade name for a specific antidegradant"@en	
+<http://purl.obolibrary.org/obo/CHEBI_33344>	"A vanadium group element atom that has formula Nb."	
+<https://w3id.org/pmd/co/PMD_0000578>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000094>	"Measured variable that indicates how high the pressure in the cylinder is during extrusion."@en	
+<http://purl.obolibrary.org/obo/OBI_0000707>	"A decision tree building data transformation is a data transformation that has objective decision tree induction."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000561>		
+<https://w3id.org/pmd/co/PMD_0000772>		
+<https://w3id.org/pmd/co/PMD_0000881>		
+<https://w3id.org/pmd/co/PMD_0000530>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000041>	"Elastomers are dimensionally stable but elastically deformable plastics. They are producest by vulcanization of rubber."@en	
+<https://w3id.org/pmd/co/PMD_0000554>		
+<http://purl.obolibrary.org/obo/CHEBI_25367>	"Any polyatomic entity that is an electrically neutral entity consisting of more than one atom."	
+<https://w3id.org/pmd/co/PMD_0000796>		
+<https://w3id.org/pmd/co/PMD_0000663>		
+<https://w3id.org/pmd/co/PMD_0050102>		
+<http://purl.obolibrary.org/obo/CHEBI_50860>	"Any molecular entity that contains carbon."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000368>		
+<https://w3id.org/pmd/co/PMD_0000990>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000562>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000320>		
+<http://purl.obolibrary.org/obo/CHEBI_35489>	"Compounds of structure RSSR in which R and R' are organic groups."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000344>		
+<http://purl.obolibrary.org/obo/APOLLO_SV_00000796>	"A planned process that has a data set as its specified output."@en	
+<http://purl.obolibrary.org/obo/IAO_0000101>	"An image is an affine projection to a two dimensional surface, of measurements of some quality of an entity or entities repeated at regular intervals across a spatial range, where the measurements are represented as color and luminosity on the projected on surface."@en	
+<https://w3id.org/pmd/co/PMD_0020205>		
+<https://w3id.org/pmd/co/PMD_0050126>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000435>	"difference between the dimensions of the cross-section of an extrudate and the corresponding dimensions of the die orifice, usually quantified as the percentage increase in the crosssectional area"@en	
+<http://purl.obolibrary.org/obo/CHEBI_36358>	"An ion consisting of more than one atom."@en	
+<https://w3id.org/pmd/co/PMD_0000769>		
+<https://w3id.org/pmd/co/PMD_0000878>		
+<https://w3id.org/pmd/co/PMD_0000527>		
+<https://w3id.org/pmd/co/PMD_0000636>		
+<https://www.tib.eu/digitrubber#http://purl.obolibrary.org/obo/PATO_0000992>	"A physical quality of a fluid inhering in a bearer by virtue of the bearer's disposition to internal resistance to flow."@en	
+<https://w3id.org/pmd/co/PMD_0000503>		
+<https://w3id.org/pmd/co/PMD_0000963>		
+<https://w3id.org/pmd/co/PMD_0000854>		
+<https://w3id.org/pmd/co/PMD_0000612>		
+<https://w3id.org/pmd/co/PMD_0000987>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000650>	"Families of synthetic rubbers derived from styrene and butadiene."@en	
+<http://purl.obolibrary.org/obo/OBI_0000070>	"A planned process that has the objective to produce information about a material entity (the evaluant) by examining it."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000390>		
+<https://w3id.org/pmd/co/PMD_0050101>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000584>	"type of curemeter in which the force applied to the rubber compound is produced by the oscillation of one of the two dies forming the cavity in which the test sample is enclosed"@en	
+<https://w3id.org/pmd/co/PMD_0020056>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000643>	"An atom or group of atoms within a molecule that has similar chemical properties whenever it appears in various compounds. Even if other parts of the molecule are quite different, certain functional groups tend to react in certain ways."@en	
+<https://w3id.org/pmd/co/PMD_0020032>		
+<http://purl.obolibrary.org/obo/CHEBI_30217>	"A s-block element atom that has formula He."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000569>	"The acid value is a chemical quantity used to characterise acidic components in fats or oils. It indicates the mass of potassium hydroxide (in mg) required to neutralise the free fatty acids contained in 1 g of fat."@en	
+<http://purl.obolibrary.org/obo/OBI_0000453>	"Measure function is a function that is borne by a processed material  and realized in a process in which information about some entity is expressed relative to some reference."@en	
+<http://purl.obolibrary.org/obo/PATO_0001025>	"A physical quality that inheres in a bearer by virtue of the bearer's amount of force per unit area it exerts."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000429>	"Teil eines Extruders, durch den das Material gedrückt wird und um ein Profil des Extrudats zu formen"@de	
+<https://w3id.org/pmd/co/PMD_0050149>		
+<https://w3id.org/pmd/co/PMD_0050125>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000459>	"A motor is a machine designed to convert one or more forms of energy into mechanical energy."@en	
+<https://w3id.org/pmd/co/PMD_0000988>		
+<https://w3id.org/pmd/co/PMD_0000637>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000338>	"gründliche Mischung von Kautschuken oder anderen polymerbildenden Materialien mit allen Bestandteilen, die für das fertige Produkt notwendig sind"@de	
+<https://w3id.org/pmd/co/PMD_0000504>		
+<https://w3id.org/pmd/co/PMD_0000528>		
+<https://w3id.org/pmd/co/PMD_0000940>		
+<https://w3id.org/pmd/co/PMD_0000964>		
+<https://w3id.org/pmd/co/PMD_0000613>		
+<https://w3id.org/pmd/co/PMD_0000855>		
+<http://purl.obolibrary.org/obo/IAO_0000010>	"Software is a plan specification composed of a series of instructions that can be \ninterpreted by or directly executed by a processing unit."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000482>	"pressurized vessel used for vulcanizing rubber in a vapour or gas"@en	
+<https://w3id.org/pmd/co/PMD_0050124>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000479>	"〈act of〉 insertion of crosslinks between or within rubber chains to give a network structure"@en	
+<http://purl.obolibrary.org/obo/BFO_0000003>	"An entity that has temporal parts and that happens, unfolds or develops through time."@en	
+<https://w3id.org/pmd/co/PMD_0050100>		
+<https://w3id.org/pmd/co/PMD_0020166>		
+<https://w3id.org/pmd/co/PMD_0020057>		
+<https://w3id.org/pmd/co/PMD_0020142>		
+<https://w3id.org/pmd/co/PMD_0020033>		
+<http://purl.obolibrary.org/obo/BFO_0000182>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000316>	"compounding ingredient used in small amounts with a vulcanizing agent to increase the speed of vulcanization and/or enhance the physical properties of the vulcanizate"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000523>	"Eine Viskositätseinheit, die ein Standardmaß für die Mooney-Viskosität ist."@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000298>	"The letter “N” is used to indicate a normal curing rate typical of furnace blacks that have received no special modification to alter their influence on the rate of cure of rubber."@en	
+<https://w3id.org/pmd/co/PMD_0050148>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000283>	"Smallest discernible spherical or nearly spherical material entity which can exist separately"@en	
+<http://purl.obolibrary.org/obo/IAO_0000180>	"A heatmap is a report graph which is a graphical representation of data\nwhere the values taken by a variable(s) are shown as colors in a\ntwo-dimensional map."@en	
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000001>	"Average molecular weight of the chains of a polymer, calculated by weighing each chain equally, regardless of size (first moment of the molecular weight)"@en	
+<https://w3id.org/pmd/co/PMD_0000856>		
+<https://w3id.org/pmd/co/PMD_0000614>		
+<https://w3id.org/pmd/co/PMD_0000989>		
+<https://w3id.org/pmd/co/PMD_0000529>		
+<https://w3id.org/pmd/co/PMD_0000638>		
+<https://w3id.org/pmd/co/PMD_0000505>		
+<https://w3id.org/pmd/co/PMD_0000941>		
+<https://w3id.org/pmd/co/PMD_0000832>		
+<https://w3id.org/pmd/co/PMD_0000965>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000392>		
+<https://w3id.org/pmd/co/PMD_0050123>		
+<https://w3id.org/pmd/co/PMD_0020058>		
+<https://w3id.org/pmd/co/PMD_0020034>		
+<http://purl.obolibrary.org/obo/CHEBI_33259>	"A molecular entity all atoms of which have the same atomic number."	
+<https://w3id.org/pmd/co/PMD_0020143>		
+<http://purl.obolibrary.org/obo/PATO_0002198>	"A quality inhering in a bearer by virtue of its constitution."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000316>	"in kleinen Mengen mit einem Vulkanisationsmittel eingesetzter Mischungsbestandteil zur Beschleunigung der Vulkanisationsgeschwindigkeit und/oder Verbesserung der physikalischen Eigenschaften des Vulkanisates"@de	
+<https://w3id.org/pmd/co/PMD_0050147>		
+<http://purl.obolibrary.org/obo/CHEBI_51143>		"KEGG:C06061"
+<https://w3id.org/pmd/co/PMD_0000615>		
+<https://w3id.org/pmd/co/PMD_0000506>		
+<https://w3id.org/pmd/co/PMD_0000966>		
+<http://purl.obolibrary.org/obo/OBI_0000094>	"A planned process which results in physical changes in a specified input material"@en	
+<https://w3id.org/pmd/co/PMD_0000857>		
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000020>	"The component of modulus that is related to energy loss in deformation."@en	
+<https://w3id.org/pmd/co/PMD_0000639>		
+<https://w3id.org/pmd/co/PMD_0000942>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000307>	"Mischungsbestandteil zur Verzögerung einer alterungsbedingten Verschlechterung"@de	
+<https://w3id.org/pmd/co/PMD_0000833>		
+<https://w3id.org/pmd/co/PMD_0050146>		
+<https://w3id.org/pmd/co/PMD_0050122>		
+<https://w3id.org/pmd/co/PMD_0020059>		
+<https://w3id.org/pmd/co/PMD_0020144>		
+<https://w3id.org/pmd/co/PMD_0020035>		
+<http://purl.obolibrary.org/obo/OBI_0200000>	"A planned process that produces output data from input data."@en	
+<http://purl.obolibrary.org/obo/CHEBI_28685>	"A chromium group element atom that has formula Mo."	
+<http://purl.obolibrary.org/obo/PATO_0001300>	"An EM radiation quality in which the EM radiation is within the fiat range of the spectrum visible deemed to be light."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000300>	"An N carbon black with an average nitrogen surface area of 33 to 39 m²/g."@en	
+<http://purl.obolibrary.org/obo/IAO_0000032>	"A scalar measurement datum is a measurement datum that is composed of two parts, numerals and a unit label."@en	
+<http://purl.obolibrary.org/obo/CHEBI_49666>	"A cobalt group element atom that has formula Ir."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000296>	"compounding ingredient consisting essentially of more than 95 % elemental carbon in the form of nearspherical particles with major diameters less than 1 μm, generally coalesced into aggregates"@en	
+<https://w3id.org/pmd/co/PMD_0000874>		
+<https://w3id.org/pmd/co/PMD_0000523>		
+<https://w3id.org/pmd/co/PMD_0060006>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000394>		
+<https://w3id.org/pmd/co/PMD_0000898>		
+<https://w3id.org/pmd/co/PMD_0000547>		
+<https://w3id.org/pmd/co/PMD_0000789>		
+<https://w3id.org/pmd/co/PMD_0000656>		
+<https://w3id.org/pmd/co/PMD_0000983>		
+<http://purl.obolibrary.org/obo/PATO_0001548>	"A physical quality inhering in an entity exhibiting the physical characteristics of an amorphous (non-crystalline) form of matter between a gas and a solid that has a definite volume, but no definite shape."@en	
+<https://w3id.org/pmd/co/PMD_0050145>		
+<https://w3id.org/pmd/co/PMD_0020036>		
+<https://w3id.org/pmd/co/PMD_0050121>		
+<http://purl.obolibrary.org/obo/APOLLO_SV_00000008>	"A planned process that has specified output a software product and that involves the creation of source code."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000338>	"intimate mixture of a rubber or rubbers or other polymer-forming materials with all the ingredients necessary for the finished product"@en	
+<http://purl.obolibrary.org/obo/BFO_0000030>		
+<https://w3id.org/pmd/co/PMD_0020145>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000150>	"The amount of raw materials, semi-finished products or finished products passing through a machine entity in the time X in the system under investigation."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000270>	"Asubstance which is capable of forming covalent bonds with a\nsequence of additional like or unlike molecules under the conditions of the relevant polymerforming reaction used for the particular process"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000574>	"die Komponente einer aufgebrachten Schubspannung, welche in Phase mit der Scherdeformation ist, geteilt durch die Dehnung"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000322>	"Handelsname für ein spezifisches Di(benzothiazol-2-yl)disulfid"@de	
+<http://purl.allotrope.org/ontologies/result#AFR_0002192>	"The standard deviation is a measure of the amount of variation or dispersion of a set of values."@en	
+<https://w3id.org/pmd/co/PMD_0000548>		
+<https://w3id.org/pmd/co/PMD_0000984>		
+<https://w3id.org/pmd/co/PMD_0000633>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000393>		
+<http://purl.obolibrary.org/obo/IAO_0000007>	"A directive information entity that describes an action the bearer will take."@en	
+<https://w3id.org/pmd/co/PMD_0050030>		
+<https://w3id.org/pmd/co/PMD_0000875>		
+<https://w3id.org/pmd/co/PMD_0000657>		
+<https://w3id.org/pmd/co/PMD_0000899>		
+<https://w3id.org/pmd/co/PMD_0000524>		
+<https://w3id.org/pmd/co/PMD_0000960>		
+<http://purl.obolibrary.org/obo/CHEBI_24870>	"A molecular entity having a net electric charge."@en	
+<https://w3id.org/pmd/co/PMD_0000851>		
+<https://w3id.org/pmd/co/PMD_0060007>		
+<http://purl.obolibrary.org/obo/CHEBI_49637>	"A s-block element atom that has formula H."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000413>	"The sequence of addition refers to how different ingredients or substances are administered one after the other or in a specific order to achieve a certain effect."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000520>	"measure of the viscosity of a raw rubber or rubber compound, determined using a Mooney shearing-disc viscometer"@en	
+<https://w3id.org/pmd/co/PMD_0050144>		
+<https://w3id.org/pmd/co/PMD_0020146>		
+<https://w3id.org/pmd/co/PMD_0020037>		
+<https://w3id.org/pmd/co/PMD_0050120>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000291>	"Rubber with a saturated carbon chain of the polymethylene type"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000024>	"\"The photogrammetric determination of the parameters of interior orientation is usually referred to as calibration. This is based on the idea that once a mechanically stable camera is calibrated, it may be moved from one image taking location to another whilst retaining its calibration.\" (Luhmann, Robson et al. 2020: 170)"@en	
+<https://w3id.org/pmd/co/PMD_0050059>		
+<https://w3id.org/pmd/co/PMD_0000549>		
+<https://w3id.org/pmd/co/PMD_0000658>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000280>	"A material entity, which is part of a larger set of the same material entity"@en	
+<https://w3id.org/pmd/co/PMD_0000852>		
+<http://purl.obolibrary.org/obo/OBI_0000663>	"A class prediction data transformation (sometimes called supervised classification) is a data transformation that has objective class prediction."@en	
+<https://w3id.org/pmd/co/PMD_0000610>		
+<https://w3id.org/pmd/co/PMD_0000767>		
+<https://w3id.org/pmd/co/PMD_0050031>		
+<https://w3id.org/pmd/co/PMD_0000876>		
+<https://w3id.org/pmd/co/PMD_0000525>		
+<https://w3id.org/pmd/co/PMD_0000501>		
+<https://w3id.org/pmd/co/PMD_0000961>		
+<https://w3id.org/pmd/co/PMD_0050058>		
+<https://w3id.org/pmd/co/PMD_0020038>		
+<https://w3id.org/pmd/co/PMD_0050143>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000397>		
+<http://purl.obolibrary.org/obo/BFO_0000141>		
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000019>	"The component of modulus that is related to energy storage in deformation."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000330>	"compounding ingredient that produces crosslinking in rubber"@en	
+<http://purl.obolibrary.org/obo/CHEBI_33379>	"A lanthanoid atom that has formula Er."	
+<http://purl.obolibrary.org/obo/CHEBI_194533>	"A boron group element atom with a symbol Nh and atomic number 113."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000341>	"Maschine mit zwei gegensätzlich drehenden Walzen, häufig erwärmbar oder kühlbar, welche gewöhnlich mit verschiedenen Umfangsgeschwindigkeiten betrieben werden, und mit einstellbarem Walzenspalt zum Mastizieren, Mischen, Verschneiden, Vorwärmen oder zum Auswalzen"@de	
+<http://purl.obolibrary.org/obo/CHEBI_72695>	"Any molecule that consists of at least one carbon atom as part of the electrically neutral entity."@en	
+<https://w3id.org/pmd/co/PMD_0000659>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000573>	"Verhältnis von Normalspannung zur Belastung, wobei jede durch eine komplexe Zahl dargestellt werden kann"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000298>	"Der Buchstabe \"N\" wird verwendet, um eine normale Vulkanisationsgeschwindigkeit anzugeben, die typisch ist für Furnace Blacks, die nicht speziell modifiziert wurden, um die Vulkanisierungsgeschwindigkeit zu ändern"@de	
+<https://w3id.org/pmd/co/PMD_0000768>		
+<https://w3id.org/pmd/co/PMD_0000526>		
+<https://w3id.org/pmd/co/PMD_0000502>		
+<https://w3id.org/pmd/co/PMD_0000962>		
+<https://w3id.org/pmd/co/PMD_0000611>		
+<https://w3id.org/pmd/co/PMD_0000853>		
+<https://w3id.org/pmd/co/PMD_0060005>		
+<https://w3id.org/pmd/co/PMD_0000986>		
+<https://w3id.org/pmd/co/PMD_0000635>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000395>		
+<https://w3id.org/pmd/co/PMD_0050032>		
+<https://w3id.org/pmd/co/PMD_0000877>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000329>	"Handelsname für ein spezifisches Zink-Dibenzyldithiocarbamat"@de	
+<https://w3id.org/pmd/co/PMD_0020148>		
+<https://w3id.org/pmd/co/PMD_0050057>		
+<https://w3id.org/pmd/co/PMD_0020039>		
+<https://w3id.org/pmd/co/PMD_0050142>		
+<http://purl.obolibrary.org/obo/BFO_0000140>		
+<https://www.tib.eu/digitrubber#ROi3BNAY7lNum6bqHYNnKv>	"provide a human-readable definition of the type of entity the class refers to"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000130>	"A person that operates some apparatus or machine."@en	
+<https://www.tib.eu/digitrubber#http://purl.obolibrary.org/obo/OBI_0302911>	"a planned process with objective to check that the accuracy or the quality of a claim or prediction satisfies some criteria and which is assessed by comparing with independent results"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000345>	"A physical quality which inheres in a bearer by virtue of its speed rotating around itself."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000193>	"A graph presents a number of peaks, showing the intensity and wavelength position of the Raman scattered light, in which each peak corresponds to a specific molecular bond vibration."@en	
+<http://purl.obolibrary.org/obo/CHEBI_33385>	"An actinoid atom that has formula Th."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000293>	"type of rubber having an unsaturated carbon main chain derived mostly from butadiene or a substituted butadiene"@en	
+<https://w3id.org/pmd/co/PMD_0000923>		
+<https://w3id.org/pmd/co/PMD_0000814>		
+<https://w3id.org/pmd/co/PMD_0000947>		
+<https://w3id.org/pmd/co/PMD_0020096>		
+<https://w3id.org/pmd/co/PMD_0020072>		
+<https://w3id.org/pmd/co/PMD_0050033>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000428>	"rotating member with one or more helical grooves, used to propel rubber along the barrel of an extruder"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000424>	"machine which, through the use of a screw or a hydraulic ram, continuously shapes a material by forcing it through a die or dies"@en	
+<https://w3id.org/pmd/co/PMD_0001021>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000093>	"Control variable for setting the temperature of the cylinder."@en	
+<http://purl.obolibrary.org/obo/BFO_0000034>		
+<https://w3id.org/pmd/co/PMD_0050056>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000525>		
+<https://w3id.org/pmd/co/PMD_0050141>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000634>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000325>	"Handelsname für ein spezifisches Tetrabenzylthiuramdisulfid"@de	
+<http://purl.obolibrary.org/obo/OBI_0000112>	"a role borne by a material entity that is gained during a specimen collection process and that can be realized by use of the specimen in an investigation"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000026>	"An agent is a system that perceives its environment through sensors and can interact with it through actions."@en	
+<http://purl.obolibrary.org/obo/IAO_0000005>	"A directive information entity that describes an intended process endpoint. When part of a plan specification the concretization is realized in a planned process in which the bearer tries to effect the world so that the process endpoint is achieved."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000132>	"An individual who is responsible for managing or operating a business, organization, team or department."@en	
+<http://purl.obolibrary.org/obo/CHEBI_33353>	"A manganese group element atom that has formula Tc."	
+<https://w3id.org/pmd/co/PMD_0000900>		
+<http://purl.obolibrary.org/obo/CHEBI_27638>	"A cobalt group element atom that has atomic number 27."	
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000017>	"The outer surface of a tire that comes into direct contact with the road."@en	
+<https://w3id.org/pmd/co/PMD_0000924>		
+<http://purl.obolibrary.org/obo/OBI_0000018>	"a role realized through the process of supplying materials such as animal subjects, reagents or other materials used in an investigation."@en	
+<https://w3id.org/pmd/co/PMD_0000815>		
+<http://purl.obolibrary.org/obo/OBI_0000835>	"A person or organization that has a manufacturer role"@en	
+<http://purl.obolibrary.org/obo/CHEBI_28984>	"A boron group element atom that has formula Al."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000124>	"Processed raw materials that are not used for final consumption but as input for the production of finished goods in the system under investigation. Constitutes an entity in the material cost and waste management cost group."@en	
+<https://w3id.org/pmd/co/PMD_0050010>		
+<https://w3id.org/pmd/co/PMD_0020073>		
+<https://w3id.org/pmd/co/PMD_0050034>		
+<http://purl.obolibrary.org/obo/CHMO_0000258>	"A type of atomic emission spectrometry where a high energy laser pulse is used to generate a plasma which acts as the excitation source."@en	
+<http://purl.obolibrary.org/obo/CHEBI_33355>		
+<https://w3id.org/pmd/co/PMD_0001020>		
+<http://purl.obolibrary.org/obo/NCIT_C48054>	"The most extreme possible amount or value; the highest point."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000307>	"compounding ingredient used to retard deterioration by ageing"@en	
+<https://w3id.org/pmd/co/PMD_0050079>		
+<http://purl.obolibrary.org/obo/PATO_0001842>	"A concentration quality inhering in a bearer by virtue of the bearer's containing acid (hydrogen ions)."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000524>		
+<https://w3id.org/pmd/co/PMD_0050055>		
+<https://w3id.org/pmd/co/PMD_0050140>		
+<http://purl.obolibrary.org/obo/BFO_0000142>		
+<http://purl.obolibrary.org/obo/IAO_0000100>	"A data item that is an aggregate of other data items of the same type that have something in common. Averages and distributions can be determined for data sets."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000006>	"geometrical method to determine distances \nbetween to points"@en	
+<http://purl.obolibrary.org/obo/CHEBI_27563>	"A pnictogen that has formula As."	
+<http://purl.obolibrary.org/obo/MS_1000231>	"A localized region of relatively large ion signal in a mass spectrum. Although peaks are often associated with particular ions, the terms peak and ion should not be used interchangeably."@en	
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000024>	"Generic name for an instrument that applies oscillatory shearing deformation at the vulcanization temperature of a compound at a given time window, using a constant frequency and amplitude."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000439>		
+<https://w3id.org/pmd/co/PMD_0000816>		
+<https://w3id.org/pmd/co/PMD_0000949>		
+<http://purl.obolibrary.org/obo/CHEBI_33389>	"An actinoid atom that has formula Am."	
+<https://w3id.org/pmd/co/PMD_0000901>		
+<https://w3id.org/pmd/co/PMD_0000925>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000308>	"Handelsname für ein spezifisches Alterungsschutzmittel"@de	
+<https://w3id.org/pmd/co/PMD_0020074>		
+<https://w3id.org/pmd/co/PMD_0020050>		
+<http://purl.obolibrary.org/obo/CHEBI_49957>	"A noble gas atom that has formula Xe."	
+<https://w3id.org/pmd/co/PMD_0050011>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000297>	"An elemental carbon in the form of virtually pure colloidal particles that are produced by incomplete combustion or thermal decomposition of gaseous or liquid hydrocarbons under controlled conditions. A black, finely divided pellet or powder, its properties of specific surface area, particle size and structure, conductivity and colour can be varied by varying the exact conditions for its production. It is used in tyres, rubber and plastic products, printing inks and coatings."@en	"PMID:26803751 PMID:24291665 CAS:1333-86-4 Wikipedia:Carbon_black PMID:25071917 KEGG:C19202 PMID:24669321"
+<http://purl.obolibrary.org/obo/CHMO_0002820>	"Experimental method output expressing the contribution of one constituent to the composition of a mixture. (chmo defined)"@en	
+<https://w3id.org/pmd/co/PMD_0060008>		
+<https://w3id.org/pmd/co/PMD_0050035>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000282>	"Rigid group of coalesced particles which is the smallest entity that can be dispersed by normal rubber processing"@en	
+<http://purl.obolibrary.org/obo/BFO_0000145>		
+<https://w3id.org/pmd/co/PMD_0050078>		
+<https://w3id.org/pmd/co/PMD_0050054>		
+<http://purl.obolibrary.org/obo/IAO_0000102>	"Data about an ontology part is a data item about a part of an ontology, for example a term"@en	
+<https://w3id.org/pmd/co/PMD_0020098>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000586>	"Presse, die zwei oder mehrere übereinanderliegende beheizte Platten besitzt, zwischen denen die Formteile gepresst werden"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000493>	"raw, compounded, vulcanized or partially vulcanized rubber in the form of end-of-life rubber products or factory scrap"@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000091>	"Control variable for setting the temperature of the screw."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000636>		
+<http://purl.obolibrary.org/obo/CHEBI_33273>	"An anion consisting of more than one atom."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000527>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000418>		
+<https://w3id.org/pmd/co/PMD_0000926>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000572>	"Verhältnis von Schubspannung zu Scherdehnung, wobei jede durch eine komplexe Zahl dargestellt werden kann"@de	
+<https://w3id.org/pmd/co/PMD_0000817>		
+<http://purl.obolibrary.org/obo/CHEBI_33395>	"An actinoid atom that has formula Md."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000646>	"A synthetic cis-1,4-polyisoprene, made by the industrial polymerisation of isoprene."@en	
+<https://w3id.org/pmd/co/PMD_0000902>		
+<http://purl.obolibrary.org/obo/CHEBI_33357>		
+<https://w3id.org/pmd/co/PMD_0020075>		
+<https://w3id.org/pmd/co/PMD_0020051>		
+<https://w3id.org/pmd/co/PMD_0050012>		
+<https://w3id.org/pmd/co/PMD_0060009>		
+<https://w3id.org/pmd/co/PMD_0050036>		
+<http://purl.obolibrary.org/obo/BFO_0000035>		
+<https://w3id.org/pmd/co/PMD_0050077>		
+<http://purl.obolibrary.org/obo/IAO_0000183>	"A dendrogram is a report graph which is a tree diagram\nfrequently used to illustrate the arrangement of the clusters produced by a\nclustering algorithm."@en	
+<https://w3id.org/pmd/co/PMD_0050053>		
+<https://w3id.org/pmd/co/PMD_0000590>		
+<http://purl.obolibrary.org/obo/BFO_0000011>		
+<https://w3id.org/pmd/co/PMD_0020099>		
+<https://w3id.org/pmd/co/PMD_0050037>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000090>	"Screw torque is a measured variable that indicates how high the torque of the screw is during extrusion."@en	
+<http://purl.obolibrary.org/obo/CHEBI_33261>	"An organosulfur compound is a compound containing at least one carbon-sulfur bond."@en	"Wikipedia:Organosulfur_compounds"
+<https://w3id.org/pmd/co/PMD_0000834>		
+<http://purl.obolibrary.org/obo/CHEBI_29853>		
+<https://w3id.org/pmd/co/PMD_0000507>		
+<https://w3id.org/pmd/co/PMD_0000967>		
+<https://w3id.org/pmd/co/PMD_0000858>		
+<https://w3id.org/pmd/co/PMD_0000616>		
+<https://w3id.org/pmd/co/PMD_0020052>		
+<https://w3id.org/pmd/co/PMD_0000810>		
+<http://purl.obolibrary.org/obo/OBI_0001930>	"A value specification that is specifies one category out of a fixed number of nominal categories"@en	
+<http://purl.obolibrary.org/obo/CHEBI_27007>	"A carbon group element atom that has formula Sn."	
+<https://www.tib.eu/digitrubber#http://purl.obolibrary.org/obo/CHEBI_27363>	"A zinc group element atom that has formula Zn."@en	
+<http://purl.obolibrary.org/obo/BFO_0000038>		
+<https://w3id.org/pmd/co/PMD_0050013>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000536>	"A measurement protocol for reliably reproducing the density measurement assay."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000592>	"An assay with the objective to produce information about the molecular weight distribution of the material entity that is the evaluant, by physically examining it or its proxies."@en	
+<http://purl.obolibrary.org/obo/BFO_0000147>		
+<http://purl.obolibrary.org/obo/CHEBI_48901>	"An azole in which the five-membered heterocyclic aromatic skeleton contains a N atom and one S atom."@en	
+<https://w3id.org/pmd/co/PMD_0050076>		
+<https://w3id.org/pmd/co/PMD_0050052>		
+<https://w3id.org/pmd/co/PMD_0020076>		
+<http://purl.obolibrary.org/obo/CHEBI_26708>	"An alkali metal atom that has formula Na."	
+<http://purl.obolibrary.org/obo/CHEBI_137980>	"An atom of an element that exhibits properties that are between those of metals and nonmetals, or that has a mixture of them. The term generally includes boron, silicon, germanium, arsenic, antimony, and tellurium, while carbon, aluminium, selenium, polonium, and astatine are less commonly included."	
+<http://purl.obolibrary.org/obo/OBI_0000011>	"A process that realizes a plan which is the concretization of a plan specification."@en	
+<http://purl.obolibrary.org/obo/CHEBI_30501>	"Alkaline earth metal atom with atomic number 4."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000337>	"substance added to a rubber or rubber latex to form a mix"@en	
+<https://w3id.org/pmd/co/PMD_0050038>		
+<https://w3id.org/pmd/co/PMD_0000508>		
+<http://purl.obolibrary.org/obo/CHEBI_33351>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000023>	"\"The exterior orientation consists of six parameters which describe the spatial position and orientation of the camera coordinate system with respect to the global object coordinate system\" (Luhmann et al. 2020: 277)"@en	
+<https://w3id.org/pmd/co/PMD_0000944>		
+<https://w3id.org/pmd/co/PMD_0000835>		
+<https://w3id.org/pmd/co/PMD_0001025>	"A planned process that aims to obtain information about a material entity (the subject of the assessment) by examining it."@en	
+<http://purl.obolibrary.org/obo/OBI_0000387>	"A cool function is a function to decrease the internal kinetic energy of a material below the initial kinetic energy of that type of material."@en	
+<https://w3id.org/pmd/co/PMD_0000968>		
+<https://w3id.org/pmd/co/PMD_0000617>		
+<http://purl.obolibrary.org/obo/NCIT_C47936>	"Any covalent linkage between two polymers or between two different regions of the same polymer."@en	
+<https://w3id.org/pmd/co/PMD_0000859>		
+<https://w3id.org/pmd/co/PMD_0020053>		
+<http://purl.obolibrary.org/obo/CHEBI_25585>		
+<https://w3id.org/pmd/co/PMD_0000920>		
+<http://purl.obolibrary.org/obo/IAO_0000179>	"A histogram is a report graph which is a statistical description of a\ndistribution in terms of occurrence frequencies of different event classes."@en	
+<https://w3id.org/pmd/co/PMD_0000811>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000370>	"Abstand zwischen den Walzenoberflächen einer Walze oder eines Kalanders, gemessen zwischen den Mittelpunkten"@de	
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl#DIGITRUBBER1000031>	"A device zone that is part of an extruder and in which a sub-process of extrusion occurs."@en	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000294>	"Handelsname für ein spezifischen EPDM-Kautschuk"@de	
+<https://w3id.org/pmd/co/PMD_0050014>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000337>	"Substanz, die zu einem Kautschuk oder einem Latex gegeben wird, um eine Mischung herzustellen"@de	
+<https://w3id.org/pmd/co/PMD_0001024>		
+<http://purl.obolibrary.org/obo/BFO_0000146>		
+<http://purl.obolibrary.org/obo/IAO_0000033>	"An information content entity whose concretizations indicate to their bearer how to realize them in a process."@en	
+<https://w3id.org/pmd/co/PMD_0050099>		
+<https://w3id.org/pmd/co/PMD_0050075>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000134>	"A person who supports an operator in the system under investigation. Constitutes an entity of the human ressource and the production cost group."@en	
+<https://w3id.org/pmd/co/PMD_0020077>		
+<http://purl.obolibrary.org/obo/CHEBI_33331>	"A rare earth metal atom that has formula Y."	
+<http://purl.obolibrary.org/obo/CHEBI_30682>	"An iron group element atom that has formula Ru."	
+<http://purl.obolibrary.org/obo/OBI_0200111>	"An planned process that creates images, diagrams or animations from the input data."@en	
+<http://purl.obolibrary.org/obo/CHEBI_36357>	"Any molecular entity consisting of more than one atom."	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000419>		
+<http://purl.obolibrary.org/obo/CHEBI_33388>	"An actinoid atom that has formula Pu."	
+<https://w3id.org/pmd/co/PMD_0050015>		
+<https://w3id.org/pmd/co/PMD_0000618>		
+<https://w3id.org/pmd/co/PMD_0050039>		
+<https://w3id.org/pmd/co/PMD_0000509>		
+<https://w3id.org/pmd/co/PMD_0000812>		
+<https://w3id.org/pmd/co/PMD_0000945>		
+<https://w3id.org/pmd/co/PMD_0000836>		
+<https://w3id.org/pmd/co/PMD_0000969>		
+<https://w3id.org/pmd/co/PMD_0020030>		
+<https://w3id.org/pmd/co/PMD_0050050>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000290>	"Kautschuk, der durch nicht biologische Polymerisation eines oder mehrerer Monomere hergestellt wird"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000161>	"A machine that mixes polymers and additives in the manufacture of plastic and rubber products. Constitutes an entity sub-group of the machine entity."@en	
+<http://purl.obolibrary.org/obo/BFO_0000016>		
+<https://w3id.org/pmd/co/PMD_0001023>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000289>	"Natur- oder synthetischer Kautschuk, gewöhnlich in Ballen- oder Paketform, welcher das Ausgangsmaterial für die Herstellung von Gummiprodukten darstellt"@de	
+<https://w3id.org/pmd/co/PMD_0020078>		
+<https://w3id.org/pmd/co/PMD_0050098>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000594>	"A concentration measurement protocol for reliably reproducing the ethylene concentration measurement assay."@en	
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000016>	"Silane is necessary to act as intermediary between silica and the SBR matrix, and its role is to enhance the dispersion of silica in the SBR matrix."@en	
+<http://purl.obolibrary.org/obo/CHEBI_49648>	"A lanthanoid atom that has formula Ho."	
+<https://w3id.org/pmd/co/PMD_0050074>		
+<https://w3id.org/pmd/co/PMD_0020054>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000108>	"Cumulative expression for the value of overarching entity groups (e.g., human ressource, maintenance) within the system under study"@en	
+<https://w3id.org/pmd/co/PMD_0000619>		
+<https://w3id.org/pmd/co/PMD_0050016>		
+<https://w3id.org/pmd/co/PMD_0000922>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000381>	"Maschine mit Temperaturregelung, welche einen oder mehrere Rotoren in einer geschlossenen Kammer beinhaltet und zum Mastizieren und/oder zur Einarbeitung und Dispersion von Mischungsbestandteilen in den Kautschuk genutzt wird"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000359>	"A physical quality of the thermal energy of a system."@en	
+<https://w3id.org/pmd/co/PMD_0000813>		
+<https://w3id.org/pmd/co/PMD_0000946>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000215>	"A quality of a sample in terms of homogenity, or the distribution of concentration of a specific component in a mixture, in a macroscopic body."@en	
+<https://w3id.org/pmd/co/PMD_0020031>		
+<http://purl.obolibrary.org/obo/PATO_0001546>	"A physical quality inhering in a bearer by virtue of the bearer's exhibiting the physical characteristics of an entity characterized by particles arranged such that their shape and volume are relatively stable."@en	
+<http://purl.obolibrary.org/obo/BFO_0000148>		
+<https://w3id.org/pmd/co/PMD_0001022>		
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000239>	"The use of a digital computer to process digital images through an algorithm."@en	
+<http://purl.obolibrary.org/obo/digitrubber/digitrubber-full.owl/DIGITRUBBER_1000009>	"Compound that has not been vulcanized and may be heated in an oven to form of network."@en	
+<https://w3id.org/pmd/co/PMD_0050097>		
+<https://w3id.org/pmd/co/PMD_0020079>		
+<https://w3id.org/pmd/co/PMD_0050073>		
+<https://w3id.org/pmd/co/PMD_0020055>		
+<https://www.tib.eu/digitrubber#http://purl.obolibrary.org/obo/NCIT_C16237>	"The act of validating; finding or testing the truth of something."@en	
+<http://purl.obolibrary.org/obo/CHEBI_33381>	"A lanthanoid atom that has formula Yb."	

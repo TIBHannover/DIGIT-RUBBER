@@ -7,8 +7,8 @@ Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
 
 
 Ontology(<http://purl.obolibrary.org/obo/digitrubber/components/drcomp.owl>
-<http://purl.obolibrary.org/obo/digitrubber/releases/2025-05-07/components/drcomp.owl>
-Annotation(owl:versionInfo "2025-05-07")
+<http://purl.obolibrary.org/obo/digitrubber/releases/2025-10-21/components/drcomp.owl>
+Annotation(owl:versionInfo "2025-10-21")
 
 Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000015>))
 Declaration(Class(<http://purl.obolibrary.org/obo/BFO_0000019>))
@@ -1199,7 +1199,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00005
 AnnotationAssertion(<https://www.tib.eu/digitrubber#coarseClassification> <https://www.tib.eu/digitrubber#DIGITRUBBER_000058> "process")
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000058> <http://purl.obolibrary.org/obo/BFO_0000015>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000059> (Mustererkennung)
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000059> (pattern recognition [ita])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000059> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000059> "Pattern recognition is the automated recognition of patterns and regularities in data. Pattern recognition has its origins in statistics and engineering; some modern approches include the use of machine learning, due to the increased availability of big data and a new abundance of processing power."@en)
@@ -1632,7 +1632,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00010
 AnnotationAssertion(<https://www.tib.eu/digitrubber#coarseClassification> <https://www.tib.eu/digitrubber#DIGITRUBBER_000101> "material entity")
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000101> <http://purl.obolibrary.org/obo/BFO_0000040>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000102> (factor [hsh])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000102> (faktor [hsh])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000102> "A circumstance, fact, or influence that contributes to the costs associated with an entity (e.g., wages, number)"@en)
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000102> "factor [hsh]"@en)
@@ -1640,7 +1640,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00010
 AnnotationAssertion(<https://www.tib.eu/digitrubber#coarseClassification> <https://www.tib.eu/digitrubber#DIGITRUBBER_000102> "information content entity")
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000102> <http://purl.obolibrary.org/obo/IAO_0000030>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000103> (faktor [ncti])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000103> (factor [ncti])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000103> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000103> "Anything that contributes causally to a result."@en)
@@ -1656,7 +1656,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00010
 AnnotationAssertion(<https://www.tib.eu/digitrubber#coarseClassification> <https://www.tib.eu/digitrubber#DIGITRUBBER_000103> "information content entity")
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000103> <http://purl.obolibrary.org/obo/IAO_0000030>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000104> (factor [proco])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000104> (faktor [proco])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000104> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000104> "A data item that is a member of a minimal set of independent variables that can be used to model the dependent reponses in a set of related experiments."@en)
@@ -2054,7 +2054,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00014
 AnnotationAssertion(<https://www.tib.eu/digitrubber#coarseClassification> <https://www.tib.eu/digitrubber#DIGITRUBBER_000143> "information content entity")
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000143> <http://purl.obolibrary.org/obo/IAO_0000030>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000144> (unit cost [hsh])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000144> (stückkosten [hsh])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000144> "The expenditure that incurs for acquiring a single unit of an entity sub-group in the system under investigation. Constitutes a factor of the maintenance cost, material cost, and storage cost group."@en)
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000144> "stückkosten [hsh]"@de)
@@ -2289,7 +2289,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00016
 AnnotationAssertion(<https://www.tib.eu/digitrubber#coarseClassification> <https://www.tib.eu/digitrubber#DIGITRUBBER_000162> "material entity")
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000162> <http://purl.obolibrary.org/obo/BFO_0000040>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000163> (schneidemaschine [hsh])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000163> (cutter [hsh])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000163> "A pneumtaic machine that cuts rubber materials. Constitutes an entity sub-group of the machine entity."@en)
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000163> "cutter [hsh]"@en)
@@ -2297,7 +2297,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00016
 AnnotationAssertion(<https://www.tib.eu/digitrubber#coarseClassification> <https://www.tib.eu/digitrubber#DIGITRUBBER_000163> "material entity")
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000163> <http://purl.obolibrary.org/obo/BFO_0000040>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000164> (kalandar [hsh])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000164> (calandar [hsh])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000164> "A machine that combines a series of hard pressure rollers used to finish or smooth a sheet of rubber material. Constitutes an entity sub-group of the machine entity."@en)
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000164> "calandar [hsh]"@en)
@@ -2449,7 +2449,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00018
 AnnotationAssertion(<https://www.tib.eu/digitrubber#coarseClassification> <https://www.tib.eu/digitrubber#DIGITRUBBER_000181> "material entity")
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000181> <http://purl.obolibrary.org/obo/BFO_0000040>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000182> (plasticizer [hsh])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000182> (weichmacher [hsh])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000182> "A substance added to a synthetic resin to produce or promote plasticity and flexibility and to reduce brittleness. Constitutes an entity sub-group of the raw material entity."@en)
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000182> "plasticizer [hsh]"@en)
@@ -2474,7 +2474,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00018
 AnnotationAssertion(<https://www.tib.eu/digitrubber#coarseClassification> <https://www.tib.eu/digitrubber#DIGITRUBBER_000183> "material entity")
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000183> <http://purl.obolibrary.org/obo/BFO_0000040>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000184> (plasticizer [chebi])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000184> (weichmacher [chebi])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000184> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000184> "Any compound that is used as an additive to increase the plasticity or fluidity of a substance, particularly but not exclusively to synthetic polymers."@en)
@@ -3757,7 +3757,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00030
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000308> "Antilux 500‎ [dik]"@en)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000308> <https://www.tib.eu/digitrubber#DIGITRUBBER_000307>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000309> (Aktivator [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000309> (Activator [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000309> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000309> "compounding ingredient used in small proportions to increase the effectiveness of an accelerator"@en)
@@ -4312,7 +4312,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00035
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000353> "Umdrehungen pro Minute [dik]"@de)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000353> <http://purl.obolibrary.org/obo/BFO_0000019>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000355> (Fixed Roll Speed [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000355> (Festwalzen-Drehzahl [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000355> "uncurated")
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/contributor> <https://www.tib.eu/digitrubber#DIGITRUBBER_000355> "Alexander Aschemann")
@@ -4520,7 +4520,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00037
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000372> "Dispersion [dik]"@en)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000372> <http://purl.obolibrary.org/obo/BFO_0000015>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000373> (Mastication [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000373> (Mastikation [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000373> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000373> "Prozess der irreversiblen Reduzierung der Molmasse des Kautschuks, entweder im rohen oder im gemischten Zustand, durch das Einbringen mechanischer Arbeit (Scherung) und durch atmosphärischen Sauerstoff, manchmal unter Zuhilfenahme von Abbaumitteln und Wärme"@de)
@@ -4548,7 +4548,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00037
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000374> "Mastikation [ncit]"@de)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000374> <http://purl.obolibrary.org/obo/BFO_0000015>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000375> (Mastication [hp])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000375> (Mastikation [hp])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000375> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000375> "The process of biting and mashing food with the teeth prior to swallowing."@en)
@@ -5007,7 +5007,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00041
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000414> "Zugabezeitpunkt [dik]"@de)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000414> <http://purl.obolibrary.org/obo/BFO_0000019>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000415> (Power [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000415> (Leistung [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000415> "uncurated")
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/contributor> <https://www.tib.eu/digitrubber#DIGITRUBBER_000415> "Alexander Aschemann")
@@ -5032,7 +5032,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00041
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000416> "Power [pato]"@en)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000416> <http://purl.obolibrary.org/obo/BFO_0000019>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000417> (Power [om])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000417> (Leistung [om])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000417> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000417> "Power is the time rate at which work is done. It is a derived quantity in the International System of Units. Power is energy divided by time."@en)
@@ -5392,7 +5392,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00044
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000449> "Schablonengeometrie [dik]"@de)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000449> <http://purl.obolibrary.org/obo/BFO_0000019>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000450> (Extrudate Cross Section [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000450> (Extrudatquerschnitt [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000450> "uncurated")
 AnnotationAssertion(<http://purl.org/dc/elements/1.1/contributor> <https://www.tib.eu/digitrubber#DIGITRUBBER_000450> "Alexander Aschemann")
@@ -6130,7 +6130,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00051
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000514> "Gramm pro Kubikzentimeter [uo]"@de)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000514> <http://purl.obolibrary.org/obo/UO_1000084>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000515> (Viscosity Measurement Assay [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000515> (Prüfung zur Viskositätsmessung [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000515> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000515> "An assay with the objective to produce information about the viscosity of the material entity that is the evaluant, by physically examining it or its proxies."@en)
@@ -6313,7 +6313,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00053
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000532> "Protokoll [edam]"@de)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000532> <http://purl.obolibrary.org/obo/IAO_0000030>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000533> (Messprotokoll [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000533> (Measurement Protocol [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000533> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000533> "A protocol which specifies the conditions, procedures, and instruments used for conducting a measurement assay in a sufficient level of detail to communicate it between investigation agents, so that different investigation agents will reliably be able to independently reproduce the measurement assay."@en)
@@ -6367,7 +6367,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00053
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000537> "Viscosity Measurement Protocol [dik]"@en)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000537> <http://purl.obolibrary.org/obo/IAO_0000030>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000538> (Protokoll zur Mooney-Viskositätsmessung [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000538> (Mooney Viscosity Measurement Protocol [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000538> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000538> "A viscosity measurement protocol for reliably reproducing the Mooney viscosity measurement assay."@en)
@@ -6444,7 +6444,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00054
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000543> "Materialverarbeitung [dik]"@de)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000543> <http://purl.obolibrary.org/obo/BFO_0000015>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000545> (Funktion [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000545> (Function [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000545> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000119> <https://www.tib.eu/digitrubber#DIGITRUBBER_000545> "http://purl.obolibrary.org/obo/BFO_0000034")
@@ -6456,7 +6456,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00054
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000545> "Funktion [dik]"@de)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000545> <http://purl.obolibrary.org/obo/BFO_0000141>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000546> (Funktion [ncit])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000546> (Function [ncit])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000546> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000546> "The normal action performed by a structure or device."@en)
@@ -6471,7 +6471,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00054
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000546> "Funktion [ncit]"@de)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000546> <http://purl.obolibrary.org/obo/BFO_0000141>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000547> (Funktion [mi])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000547> (Function [mi])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000547> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <https://www.tib.eu/digitrubber#DIGITRUBBER_000547> "Biological function of a participant or of an interaction."@en)
@@ -7322,7 +7322,7 @@ AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_00061
 AnnotationAssertion(rdfs:label <https://www.tib.eu/digitrubber#DIGITRUBBER_000618> "dimensionslose Einheit [ms]"@de)
 SubClassOf(<https://www.tib.eu/digitrubber#DIGITRUBBER_000618> <http://purl.obolibrary.org/obo/BFO_0000019>)
 
-# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000619> (Mass Percentage [dik])
+# Class: <https://www.tib.eu/digitrubber#DIGITRUBBER_000619> (Massenanteil [dik])
 
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000114> <https://www.tib.eu/digitrubber#DIGITRUBBER_000619> "uncurated")
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000118> <https://www.tib.eu/digitrubber#DIGITRUBBER_000619> "weight percent"@en)
