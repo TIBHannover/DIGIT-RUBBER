@@ -22,7 +22,7 @@
      xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
      xmlns:ontology="http://omv.ontoware.org/2005/05/ontology#">
     <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/digitrubber/digitrubber-base.owl">
-        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/digitrubber/releases/2025-05-07/digitrubber-base.owl"/>
+        <owl:versionIRI rdf:resource="http://purl.obolibrary.org/obo/digitrubber/releases/2025-10-22/digitrubber-base.owl"/>
         <ontology:hasOntologySyntax rdf:resource="http://www.w3.org/ns/formats/RDF_XML"/>
         <obo:IAO_0000700 rdf:resource="http://www.purl.org/OntoMeta/DigitRubber#1"/>
         <dc:creator rdf:resource="https://orcid.org/0000-0000-0000-0000"/>
@@ -46,10 +46,10 @@
         <doap:audience xml:lang="en">DigitRubber ontology has been developed for rubber extrusion</doap:audience>
         <doap:bug-database rdf:resource="https://github.com/TIBHannover/DIGIT-RUBBER/issues"/>
         <doap:repository rdf:resource="https://github.com/TIBHannover/DIGIT-RUBBER"/>
-        <oboInOwl:date>07:05:2025 14:18</oboInOwl:date>
+        <oboInOwl:date>22:10:2025 08:21</oboInOwl:date>
         <v3:documentation rdf:resource="https://tibhannover.github.io/DIGIT-RUBBER/"/>
         <owl:versionInfo>v2025-May-7</owl:versionInfo>
-        <owl:versionInfo>2025-05-07</owl:versionInfo>
+        <owl:versionInfo>2025-10-22</owl:versionInfo>
         <adms:versionNotes xml:lang="en">A description of changes between last version and current version of the ontology.</adms:versionNotes>
         <dcat:distribution rdf:resource="http://www.purl.org/OntoMeta/DigitRubber.owl"/>
         <vann:example rdf:resource="http://www.purl.org/OntoMeta/DigitRubber/docs/descriptionOfUse"/>

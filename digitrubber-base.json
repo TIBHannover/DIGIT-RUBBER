@@ -73,13 +73,13 @@
         "val" : "https://github.com/TIBHannover/DIGIT-RUBBER"
       }, {
         "pred" : "http://www.geneontology.org/formats/oboInOwl#date",
-        "val" : "07:05:2025 14:18"
+        "val" : "22:10:2025 08:21"
       }, {
         "pred" : "http://www.loc.gov/premis/rdf/v3/documentation",
         "val" : "https://tibhannover.github.io/DIGIT-RUBBER/"
       }, {
         "pred" : "http://www.w3.org/2002/07/owl#versionInfo",
-        "val" : "2025-05-07"
+        "val" : "2025-10-22"
       }, {
         "pred" : "http://www.w3.org/2002/07/owl#versionInfo",
         "val" : "v2025-May-7"
@@ -102,7 +102,7 @@
         "pred" : "https://w3id.org/mod#hasFormalityLevel",
         "val" : "The DigitRubber ontology aplies OWL2 EL (cf. https://www.w3.org/TR/2012/REC-owl2-profiles-20121211/#OWL_2_EL)"
       } ],
-      "version" : "http://purl.obolibrary.org/obo/digitrubber/releases/2025-05-07/digitrubber-base.json"
+      "version" : "http://purl.obolibrary.org/obo/digitrubber/releases/2025-10-22/digitrubber-base.json"
     },
     "nodes" : [ {
       "id" : "http://omv.ontoware.org/2005/05/ontology#hasOntologySyntax",

@@ -305,11 +305,11 @@
 <https://w3id.org/pmd/co/PMD_0020001>	<http://www.w3.org/2000/01/rdf-schema#label>	"Filler Role"@en	
 <http://purl.obolibrary.org/obo/IAO_0000009>	<http://www.w3.org/2000/01/rdf-schema#label>	"datum label"@en	
 <http://purl.obolibrary.org/obo/IAO_0000009>	<http://www.w3.org/2000/01/rdf-schema#label>	"datum label [iao]"@en	
+<https://w3id.org/pmd/co/PMD_0001023>	<http://www.w3.org/2000/01/rdf-schema#label>	"X-ray Mapping Device"@en	
+<https://w3id.org/pmd/co/PMD_0001023>	<http://www.w3.org/2000/01/rdf-schema#label>	"Röntgenkartierungsgerät"@de	
 <https://w3id.org/pmd/co/PMD_0000648>	<http://www.w3.org/2000/01/rdf-schema#label>	"Formmaschine"@de	
 <https://w3id.org/pmd/co/PMD_0000648>	<http://www.w3.org/2000/01/rdf-schema#label>	"Forming Machine"@en	
 <http://purl.obolibrary.org/obo/CHEBI_25585>	<http://www.w3.org/2000/01/rdf-schema#label>	"nonmetal atom"	
-<https://w3id.org/pmd/co/PMD_0001023>	<http://www.w3.org/2000/01/rdf-schema#label>	"X-ray Mapping Device"@en	
-<https://w3id.org/pmd/co/PMD_0001023>	<http://www.w3.org/2000/01/rdf-schema#label>	"Röntgenkartierungsgerät"@de	
 <http://purl.obolibrary.org/obo/CHEBI_33349>	<http://www.w3.org/2000/01/rdf-schema#label>	"dubnium atom"	
 <https://w3id.org/pmd/co/PMD_0000591>	<http://www.w3.org/2000/01/rdf-schema#label>	"Crystal Structure"@en	
 <https://w3id.org/pmd/co/PMD_0020086>	<http://www.w3.org/2000/01/rdf-schema#label>	"Portion Of Gallium"@en	
@@ -392,8 +392,8 @@
 <http://purl.obolibrary.org/obo/CHEBI_30452>	<http://www.w3.org/2000/01/rdf-schema#label>	"tellurium atom"	
 <https://w3id.org/pmd/co/PMD_0000963>	<http://www.w3.org/2000/01/rdf-schema#label>	"Überkritisches Fluid-Chromatographiesystem"@de	
 <https://w3id.org/pmd/co/PMD_0000963>	<http://www.w3.org/2000/01/rdf-schema#label>	"Supercritical Fluid Chromatography System"@en	
-<http://purl.obolibrary.org/obo/CHEBI_30501>	<http://www.w3.org/2000/01/rdf-schema#label>	"beryllium atom"	
 <https://w3id.org/pmd/co/PMD_0020049>	<http://www.w3.org/2000/01/rdf-schema#label>	"Portion Of Helium"@en	
+<http://purl.obolibrary.org/obo/CHEBI_30501>	<http://www.w3.org/2000/01/rdf-schema#label>	"beryllium atom"	
 <https://w3id.org/pmd/co/PMD_0000501>	<http://www.w3.org/2000/01/rdf-schema#label>	"1D"@en	
 <https://w3id.org/pmd/co/PMD_0000540>	<http://www.w3.org/2000/01/rdf-schema#label>	"Burning"@en	
 <https://w3id.org/pmd/co/PMD_0000540>	<http://www.w3.org/2000/01/rdf-schema#label>	"Brennen"@de	
@@ -409,9 +409,9 @@
 <https://w3id.org/pmd/co/PMD_0020065>	<http://www.w3.org/2000/01/rdf-schema#label>	"Portion Of Selenium"@en	
 <http://purl.obolibrary.org/obo/CHEBI_33314>	<http://www.w3.org/2000/01/rdf-schema#label>	"radon atom"	
 <http://purl.obolibrary.org/obo/CHEBI_33375>	<http://www.w3.org/2000/01/rdf-schema#label>	"gadolinium atom"	
+<https://w3id.org/pmd/co/PMD_0020051>	<http://www.w3.org/2000/01/rdf-schema#label>	"Portion Of Nickel"@en	
 <https://w3id.org/pmd/co/PMD_0000976>	<http://www.w3.org/2000/01/rdf-schema#label>	"Testing Function"@en	
 <https://w3id.org/pmd/co/PMD_0000976>	<http://www.w3.org/2000/01/rdf-schema#label>	"Testfunktion"@de	
-<https://w3id.org/pmd/co/PMD_0020051>	<http://www.w3.org/2000/01/rdf-schema#label>	"Portion Of Nickel"@en	
 <http://purl.obolibrary.org/obo/CHEBI_30514>	<http://www.w3.org/2000/01/rdf-schema#label>	"caesium atom"	
 <https://w3id.org/pmd/co/PMD_0000792>	<http://www.w3.org/2000/01/rdf-schema#label>	"Initiator"@en	
 <https://w3id.org/pmd/co/PMD_0000792>	<http://www.w3.org/2000/01/rdf-schema#label>	"Initiator"@de	
@@ -547,14 +547,14 @@
 <http://purl.obolibrary.org/obo/CHEBI_194539>	<http://www.w3.org/2000/01/rdf-schema#label>	"tennessine atom"	
 <http://purl.obolibrary.org/obo/BFO_0000008>	<http://www.w3.org/2000/01/rdf-schema#label>	"temporal region"@en	
 <http://purl.obolibrary.org/obo/CHEBI_25016>	<http://www.w3.org/2000/01/rdf-schema#label>	"lead atom"	
-<https://w3id.org/pmd/co/PMD_0000770>	<http://www.w3.org/2000/01/rdf-schema#label>	"Handkreissäge"@de	
-<https://w3id.org/pmd/co/PMD_0000770>	<http://www.w3.org/2000/01/rdf-schema#label>	"Hand Circular Saw"@en	
 <http://purl.obolibrary.org/obo/CHEBI_33374>	<http://www.w3.org/2000/01/rdf-schema#label>	"samarium atom"	
 <http://purl.obolibrary.org/obo/BFO_0000182>	<http://www.w3.org/2000/01/rdf-schema#label>	"history"@en	
 <https://w3id.org/pmd/co/PMD_0000531>	<http://www.w3.org/2000/01/rdf-schema#label>	"Biocompatibility Analyzing Process"@en	
 <https://w3id.org/pmd/co/PMD_0000531>	<http://www.w3.org/2000/01/rdf-schema#label>	"Analyseverfahren der Biokompatibilität"@de	
 <https://w3id.org/pmd/co/PMD_0000932>	<http://www.w3.org/2000/01/rdf-schema#label>	"Simulationsknoten"@de	
 <https://w3id.org/pmd/co/PMD_0000932>	<http://www.w3.org/2000/01/rdf-schema#label>	"Simulation Device"@en	
+<https://w3id.org/pmd/co/PMD_0000770>	<http://www.w3.org/2000/01/rdf-schema#label>	"Handkreissäge"@de	
+<https://w3id.org/pmd/co/PMD_0000770>	<http://www.w3.org/2000/01/rdf-schema#label>	"Hand Circular Saw"@en	
 <https://w3id.org/pmd/co/PMD_0000896>	<http://www.w3.org/2000/01/rdf-schema#label>	"Pressure"@en	
 <http://purl.obolibrary.org/obo/CHEBI_30682>	<http://www.w3.org/2000/01/rdf-schema#label>	"ruthenium atom"	
 <https://w3id.org/pmd/co/PMD_0000547>	<http://www.w3.org/2000/01/rdf-schema#label>	"Change Of Aggregate State"@en	
@@ -578,15 +578,15 @@
 <http://purl.obolibrary.org/obo/CHEBI_33382>	<http://www.w3.org/2000/01/rdf-schema#label>	"lutetium atom"	
 <https://w3id.org/pmd/co/PMD_0000895>	<http://www.w3.org/2000/01/rdf-schema#label>	"Pressing On - In"@en	
 <https://w3id.org/pmd/co/PMD_0000895>	<http://www.w3.org/2000/01/rdf-schema#label>	"Anpressen - Einpressen"@de	
+<https://w3id.org/pmd/co/PMD_0020050>	<http://www.w3.org/2000/01/rdf-schema#label>	"Portion Of Silicon"@en	
 <https://w3id.org/pmd/co/PMD_0000975>	<http://www.w3.org/2000/01/rdf-schema#label>	"Test Piece Role"@en	
 <https://w3id.org/pmd/co/PMD_0000975>	<http://www.w3.org/2000/01/rdf-schema#label>	"Proben-Rolle"@de	
-<https://w3id.org/pmd/co/PMD_0020050>	<http://www.w3.org/2000/01/rdf-schema#label>	"Portion Of Silicon"@en	
 <https://w3id.org/pmd/co/PMD_0000791>	<http://www.w3.org/2000/01/rdf-schema#label>	"Induktionsofen"@de	
 <https://w3id.org/pmd/co/PMD_0000791>	<http://www.w3.org/2000/01/rdf-schema#label>	"Induction Furnace"@en	
-<https://w3id.org/pmd/co/PMD_0000609>	<http://www.w3.org/2000/01/rdf-schema#label>	"Dimensionierungsgerätrolle"@de	
-<https://w3id.org/pmd/co/PMD_0000609>	<http://www.w3.org/2000/01/rdf-schema#label>	"Dimension Measuring Device Role"@en	
 <http://purl.obolibrary.org/obo/CHEBI_18248>	<http://www.w3.org/2000/01/rdf-schema#label>	"iron atom"	
 <http://purl.obolibrary.org/obo/CHEBI_137980>	<http://www.w3.org/2000/01/rdf-schema#label>	"metalloid atom"	
+<https://w3id.org/pmd/co/PMD_0000609>	<http://www.w3.org/2000/01/rdf-schema#label>	"Dimensionierungsgerätrolle"@de	
+<https://w3id.org/pmd/co/PMD_0000609>	<http://www.w3.org/2000/01/rdf-schema#label>	"Dimension Measuring Device Role"@en	
 <https://w3id.org/pmd/co/PMD_0000560>	<http://www.w3.org/2000/01/rdf-schema#label>	"Reinigen"@de	
 <https://w3id.org/pmd/co/PMD_0000560>	<http://www.w3.org/2000/01/rdf-schema#label>	"Cleaning"@en	
 <https://w3id.org/pmd/co/PMD_0000826>	<http://www.w3.org/2000/01/rdf-schema#label>	"Magnetizing"@en	
@@ -771,9 +771,9 @@
 <https://w3id.org/pmd/co/PMD_0020039>	<http://www.w3.org/2000/01/rdf-schema#label>	"Portion Of Cobalt"@en	
 <https://w3id.org/pmd/co/PMD_0000959>	<http://www.w3.org/2000/01/rdf-schema#label>	"Subject Of Adjustment Role"@en	
 <https://w3id.org/pmd/co/PMD_0000959>	<http://www.w3.org/2000/01/rdf-schema#label>	"Einstellungsgegenstandsrolle"@de	
+<https://w3id.org/pmd/co/PMD_0020070>	<http://www.w3.org/2000/01/rdf-schema#label>	"Portion Of Xenon"@en	
 <https://w3id.org/pmd/co/PMD_0000945>	<http://www.w3.org/2000/01/rdf-schema#label>	"Spektroskopie Verfahren"@de	
 <https://w3id.org/pmd/co/PMD_0000945>	<http://www.w3.org/2000/01/rdf-schema#label>	"Spectroscopy Process"@en	
-<https://w3id.org/pmd/co/PMD_0020070>	<http://www.w3.org/2000/01/rdf-schema#label>	"Portion Of Xenon"@en	
 <https://w3id.org/pmd/co/PMD_0020105>	<http://www.w3.org/2000/01/rdf-schema#label>	"Mineral"@en	
 <http://purl.obolibrary.org/obo/CHEBI_33380>	<http://www.w3.org/2000/01/rdf-schema#label>	"thulium atom"	
 <https://w3id.org/pmd/co/PMD_0000530>	<http://www.w3.org/2000/01/rdf-schema#label>	"Biegeprüfverfahren"@de	
@@ -795,8 +795,8 @@
 <https://w3id.org/pmd/co/PMD_0000623>	<http://www.w3.org/2000/01/rdf-schema#label>	"Elektronenstrahlschweißmaschine"@de	
 <https://w3id.org/pmd/co/PMD_0000623>	<http://www.w3.org/2000/01/rdf-schema#label>	"Electron Beam Welding Machine"@en	
 <http://purl.obolibrary.org/obo/BFO_0000020>	<http://www.w3.org/2000/01/rdf-schema#label>	"specifically dependent continuant"@en	
-<https://w3id.org/pmd/co/PMD_0000958>	<http://www.w3.org/2000/01/rdf-schema#label>	"Subatomic Structure"@en	
 <https://w3id.org/pmd/co/PMD_0020033>	<http://www.w3.org/2000/01/rdf-schema#label>	"Portion Of Erbium"@en	
+<https://w3id.org/pmd/co/PMD_0000958>	<http://www.w3.org/2000/01/rdf-schema#label>	"Subatomic Structure"@en	
 <https://w3id.org/pmd/co/PMD_0000988>	<http://www.w3.org/2000/01/rdf-schema#label>	"Thermomechanical Treatment"@en	
 <https://w3id.org/pmd/co/PMD_0000988>	<http://www.w3.org/2000/01/rdf-schema#label>	"Thermomechanisches Behandeln"@de	
 <http://purl.obolibrary.org/obo/IAO_0000030>	<http://www.w3.org/2000/01/rdf-schema#label>	"information content entity"@en	
@@ -1555,9 +1555,9 @@
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000077>	<http://www.w3.org/2000/01/rdf-schema#label>	"Validierung"@de	
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000410>	<http://www.w3.org/2000/01/rdf-schema#label>	"millimeter [ncit]"@en	
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000410>	<http://www.w3.org/2000/01/rdf-schema#label>	"millimeter [ncit]"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000190>	<http://www.w3.org/2000/01/rdf-schema#label>	"spectrum [ifnano]"@en	
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000352>	<http://www.w3.org/2000/01/rdf-schema#label>	"Umdrehungen pro Sekunde [uo]"@de	
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000352>	<http://www.w3.org/2000/01/rdf-schema#label>	"turns per second [uo]"@en	
-<https://www.tib.eu/digitrubber#DIGITRUBBER_000190>	<http://www.w3.org/2000/01/rdf-schema#label>	"spectrum [ifnano]"@en	
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000129>	<http://www.w3.org/2000/01/rdf-schema#label>	"operator [hsh]"@en	
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000129>	<http://www.w3.org/2000/01/rdf-schema#label>	"operator [hsh]"@de	
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000409>	<http://www.w3.org/2000/01/rdf-schema#label>	"millimeter [dik]"@en	
@@ -1808,11 +1808,11 @@
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000240>	<http://www.w3.org/2000/01/rdf-schema#label>	"image analysis (chemometrics) [ifnano]"@en	
 <https://www.tib.eu/digitrubber#ROi3BNAY7lNum6bqHYNnKv>	<http://www.w3.org/2000/01/rdf-schema#label>	"template class"@en	
 <http://purl.obolibrary.org/obo/CHEBI_36358>	<http://www.w3.org/2000/01/rdf-schema#label>	"polyatomic ion"@en	
-<https://www.tib.eu/digitrubber#DIGITRUBBER_000649>	<http://www.w3.org/2000/01/rdf-schema#label>	"hydrogenated nitrile rubber HNBR [ifnano]"@en	
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000333>	<http://www.w3.org/2000/01/rdf-schema#label>	"Verzögerer [dik]"@de	
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000333>	<http://www.w3.org/2000/01/rdf-schema#label>	"retarder [dik]"@en	
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000144>	<http://www.w3.org/2000/01/rdf-schema#label>	"unit cost [hsh]"@en	
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000144>	<http://www.w3.org/2000/01/rdf-schema#label>	"stückkosten [hsh]"@de	
+<https://www.tib.eu/digitrubber#DIGITRUBBER_000649>	<http://www.w3.org/2000/01/rdf-schema#label>	"hydrogenated nitrile rubber HNBR [ifnano]"@en	
 <http://purl.obolibrary.org/obo/PATO_0000122>	<http://www.w3.org/2000/01/rdf-schema#label>	"length [pato]"@en	
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000407>	<http://www.w3.org/2000/01/rdf-schema#label>	"length unit [uo]"@en	
 <https://www.tib.eu/digitrubber#DIGITRUBBER_000407>	<http://www.w3.org/2000/01/rdf-schema#label>	"Längen Einheit [uo]"@de	
