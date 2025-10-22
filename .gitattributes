@@ -1,0 +1,6 @@
+cat <<EOL > .gitattributes
+*.sh text eol=lf
+*.owl text eol=lf
+*.json text eol=lf
+*.tsv text eol=lf
+EOL
